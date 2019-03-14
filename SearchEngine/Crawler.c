@@ -231,27 +231,59 @@ char* load_file(char const* path)
 }
 void get_Page(char *url,char* argv[])  // function to fetch url from user and contact in urlBuffer and fetch page source code and add it to temp file
 {
-    char urlBuffer[urlLength + 300] = {0};
-    strcat(urlBuffer, "wget -O ./");
-    strcat(urlBuffer,argv[3]);
-    strcat(urlBuffer, "/temp.txt ");
-    strcat(urlBuffer, url);
-    system(urlBuffer);
-    strcat(argv[3],"/temp.txt");
-    char *html=load_file(argv[3]);
-    //printf("%s\n",argv[1] );
-    printf("Page fetched successfully");
-    char *result;
-    int ans=0;
-    char **links;
-    int len=100;
-    links=malloc(sizeof(char*)*len);
-    for(int i=0;i<100;i++)
+  char urlBuffer[urlLength + 300] = {0};
+  strcat(urlBuffer, "wget -O ./");
+  strcat(urlBuffer,argv[3]);
+  strcat(urlBuffer, "/temp.txt ");
+  strcat(urlBuffer, url);
+  system(urlBuffer);
+  strcat(argv[3],"/temp.txt");
+  char *html=load_file(argv[3]);
+
+  printf("Page fetched successfully");
+  char *result;
+
+  int ans=0;
+  char **links;
+  links=(char **)malloc(sizeof(char *)*101);
+  for(int i=0;i<100;i++){
+    links[i] = (char *)malloc(sizeof(char)*200);
+  }
+  int len=100;
+  int flag=0;
+
+  ans=GetNextURL(html, argv[1],result ,0);
+  int l=0;
+
+  strcpy(links[l++],result);
+
+  while(l<100)
+  {
+
+    ans=GetNextURL(html, argv[1],result ,ans);
+
+    for(int j=0;j<l;j++)
     {
-      ans=GetNextURL(html, argv[1],result ,ans);
-      links[i]=result;
-      //printf("\n%s",result );
+      if(strcmp(result,links[j])==0)
+      {
+        flag=1;
+        break;
+      }
     }
+    if(flag==0){
+     strcpy(links[l++],result);
+    }
+    else{
+     ans=GetNextURL(html, argv[1],result ,ans);
+     flag=0;
+    }
+  }
+
+for(int i=0;i<l;i++){
+  printf("\n%s",links[i]);
+}
+//now there are 100 unique links in array named 'links'
+
 }
 void Check_Arguments(int argc,char* argv[])  // function to check whether all arguments are correct or not!!
 {
