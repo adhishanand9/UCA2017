@@ -5,7 +5,23 @@
 #include<sys/stat.h>
 #define urlLength 1000
 #define Base_Url "www.chitkara.edu.in"
-
+struct LinkList {
+    char* url;
+    int depth;
+    struct LinkList *next;
+}*listHead;
+char* returnSubUrl(char *url) {
+    int i = 0;
+    char *subUrl = (char*)malloc(sizeof(char) * urlLength);
+    subUrl = url;
+    while(url[i] != '/') {
+        if(url[i] == '\0')
+            break;
+        i++;
+    }
+    subUrl[i] = '\0';
+    return subUrl;
+}
 int Check_Argument(int check)  // function to check wheater user has entered total 3 arguments or not!!
 {
     if(check==4)
@@ -303,9 +319,55 @@ void Check_Arguments(int argc,char* argv[])  // function to check whether all ar
             }
         }
 }
+char* convertDataInStr(char *fileName) {
+ 
+    struct stat st;
+    stat(fileName, &st);
+    int fileSize = st.st_size, i = 0;
+    char *fileContent = (char*)malloc(sizeof(char) * fileSize), ch;
+    FILE *file = fopen(fileName, "r");
+    ch = getc(file);
+    while(ch != EOF) {
+        fileContent[i] = ch;
+        ch = getc(file);
+        i++;
+    }
+    
+    fileContent[i] = '\0';
+//    fclose(file);
+    return fileContent;
+}
+void putInList(char **links) {
+    struct LinkList *obj, *listHeadPtr;
+    listHead = (struct LinkList*)malloc(sizeof(struct LinkList));
+    listHeadPtr = listHead;
+    listHeadPtr->url = links[0];
+    listHeadPtr->next = 0;
+    for(int i = 1;i<100;i++) {
+    
+        obj = (struct LinkList*)malloc(sizeof(struct LinkList));
+        //obj->url = (char*)malloc(sizeof(char) * 1000);
+        obj->url = links[i];
+        obj->next = 0;
+        listHeadPtr->next = obj;
+        listHeadPtr = listHeadPtr->next;
+    }
+}
 
 int main(int argc,char* argv[])
 {
     Check_Arguments(argc,argv);
     get_Page(argv[1],argv);
+    char *fileContent = convertDataInStr("htmlIntxt.txt");
+    int pos = 0;
+    char **links = (char**) malloc(sizeof(char*) * 100);
+    for(int i = 0;i<100;i++) {
+        links[i] = (char*)malloc(sizeof(char)*100);
+        pos = GetNextURL(fileContent, argv[1], links[i], pos);
+    }
+    putInList(links);
+    while(listHead->next != 0) {
+        printf("%s\n", listHead->url);
+        listHead = listHead->next;
+    }
 }
