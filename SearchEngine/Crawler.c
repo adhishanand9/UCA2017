@@ -130,6 +130,8 @@ int GetNextURL(char* html, char* urlofthispage, char* result, int pos)
     pos++;
     //printf("%c\n", html[pos]);
   }
+  static int count=0;
+
   //! Find the URL it the HTML tag. They usually look like <a href="www.abc.com">
   //! We try to find the quote mark in order to find the URL inside the quote mark.
   if (c)
@@ -165,7 +167,9 @@ int GetNextURL(char* html, char* urlofthispage, char* result, int pos)
     if (!strncmp(p1, "http", 4) || !strncmp(p1, "HTTP", 4))
     {
       //! Nice! The URL we found is in absolute path.
-      strncpy(result, p1, (p2-p1));
+
+      strncpy(result, p1, p2-p1);
+
       return  (int)(p2 - html + 1);
     } else {
       //! We find a URL. HTML is a terrible standard. So there are many ways to present a URL.
@@ -332,10 +336,7 @@ void get_Page(char *url,char* argv[])  // function to fetch url from user and co
     }
   }
 
-for(int i=0;i<l;i++){
-  printf("\n%s",links[i]);
 
-  }
   putInList(links);
   while(listHead->next != 0) {
       //printf("%s\n", listHead->url);
