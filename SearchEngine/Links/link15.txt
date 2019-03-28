@@ -1,0 +1,1479 @@
+	
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="stylesheet" type="text/css" href="https://www.chitkara.edu.in/?w3tc_minify=a3a50.css" media="all" />
+
+<meta charset="UTF-8" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+
+<link rel="icon" type="image/x-icon" href="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/favicon.ico" />
+<meta name="google-site-verification" content="WMbXfBZrZQ-rEuWPuzmXDVr2mGudlZVmF2tVPQ2DnXs" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700,900" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet"> 
+<!--<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,900' rel='stylesheet' type='text/css'>-->
+<meta name="msvalidate.01" content="6B173F46D7DE896BD40C5FC2ABD61187" />
+<script>(function(d, s, id){
+				 var js, fjs = d.getElementsByTagName(s)[0];
+				 if (d.getElementById(id)) {return;}
+				 js = d.createElement(s); js.id = id;
+				 js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+				 fjs.parentNode.insertBefore(js, fjs);
+			   }(document, 'script', 'facebook-jssdk'));</script>
+<!-- This site is optimized with the Yoast SEO plugin v9.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>CHITKARA UNIVERSITY - Best University in North India</title>
+<meta name="description" content="Chitkara University is one of the North India&#039;s leading teaching and research institutions with campuses in Chandigarh, Punjab and Himachal Pradesh with the sole mission of making each and every student “industry-ready&quot;."/>
+<link rel="canonical" href="https://www.chitkara.edu.in/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="CHITKARA UNIVERSITY - Best University in North India" />
+<meta property="og:description" content="Chitkara University is one of the North India&#039;s leading teaching and research institutions with campuses in Chandigarh, Punjab and Himachal Pradesh with the sole mission of making each and every student “industry-ready&quot;." />
+<meta property="og:url" content="https://www.chitkara.edu.in/" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.chitkara.edu.in/#website","url":"https://www.chitkara.edu.in/","name":"","potentialAction":{"@type":"SearchAction","target":"https://www.chitkara.edu.in/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ws.sharethis.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://www.chitkara.edu.in/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="https://www.chitkara.edu.in/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.chitkara.edu.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+		<style type="text/css">
+				</style>
+	<link rel='stylesheet' id='jquery-style-css'  href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/jquery-ui.css?ver=5.0.2' type='text/css' media='all' />
+
+
+
+<link rel='stylesheet' id='simple-share-buttons-adder-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=5.0.2' type='text/css' media='all' />
+
+
+<script type="text/javascript" src="https://www.chitkara.edu.in/?w3tc_minify=ed52a.js"></script>
+
+
+
+<script id='st_insights_js' type='text/javascript' src='https://ws.sharethis.com/button/st_insights.js?publisher=4d48b7c5-0ae3-43d4-bfbe-3ff8c17a8ae6&#038;product=simpleshare'></script>
+<script type="text/javascript" src="https://www.chitkara.edu.in/?w3tc_minify=de29d.js"></script>
+
+
+<link rel='https://api.w.org/' href='https://www.chitkara.edu.in/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.chitkara.edu.in/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.chitkara.edu.in/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.2" />
+    <script type="text/javascript">
+        var imgpath = "https://www.chitkara.edu.in/wp-content/plugins/tz-plus-gallery/";
+    </script>
+
+	<link rel="stylesheet" href="https://www.chitkara.edu.in/wp-content/plugins/jquery-mega-menu/skin.php?widget_id=8&amp;skin=black" type="text/css" media="screen"  />
+	<link rel="stylesheet" href="https://www.chitkara.edu.in/wp-content/plugins/jquery-mega-menu/skin.php?widget_id=9&amp;skin=black" type="text/css" media="screen"  />
+	<link rel="stylesheet" href="https://www.chitkara.edu.in/wp-content/plugins/jquery-mega-menu/skin.php?widget_id=10&amp;skin=orange" type="text/css" media="screen"  /><script charset="UTF-8" src="//cdn.sendpulse.com/9dae6d62c816560a842268bde2cd317d/js/push/a55bd57b982f30a389a6ed4553e7dee7_1.js" async></script>
+<!-- Begin google code -->
+<!--
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-38676662-1', 'auto');
+  ga('send', 'pageview');
+
+</script>-->
+<!-- End google code -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T6XNNW');</script>
+<!-- End Google Tag Manager -->
+
+<!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+!function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+qp('init', '83e0e8dd34504a379ae10b14f1282add');
+qp('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/83e0e8dd34504a379ae10b14f1282add/pixel?tag=ViewContent&noscript=1"/></noscript>
+<!-- End of Quora Pixel Code -->
+
+
+
+<script type="text/javascript" src="https://www.chitkara.edu.in/?w3tc_minify=3fc7c.js"></script>
+
+
+
+
+
+<script>
+globalSearchClick='0';
+function getCheck() {
+   str = document.getElementById('divSearch');
+   if(str.style.display=='') {
+     document.getElementById('divSearch1').className='searchbar';
+     document.getElementById('divSearch').style.display='none'; 
+   }
+   else {
+     document.getElementById('divSearch1').className='searchbarahover';
+     document.getElementById('divSearch').style.display=''; 
+     document.getElementById('s').value='';
+     document.getElementById('s').focus(); 
+   }
+}
+
+$(document).ready(function(){
+     $('html').click(function(event){
+
+		if(event.target.id=='s') {
+				return false;
+			  }
+			  if(event.target.id=='divSearch') {
+				return false;
+			  }
+			   //hide the form if the body is clicked
+			   if(globalSearchClick=='0') {
+				 str = document.getElementById('divSearch');
+				 if(str.style.display=='') {
+				   globalSearchClick='1';
+				 }
+			   }
+			   else {
+				  globalSearchClick='0';   
+				  getCheck();
+			   }
+			});
+
+			
+});
+</script>
+
+<script>
+$(function() {
+
+	// grab the initial top offset of the navigation 
+	var sticky_navigation_offset_top = $('#sticky_navigation').offset().top;
+	
+	// our function that decides weather the navigation bar should have "fixed" css position or not.
+	var sticky_navigation = function(){
+		var scroll_top = $(window).scrollTop(); // our current vertical position from the top
+		
+		// if we've scrolled more than the navigation, change its position to fixed to stick to top, otherwise change it back to relative
+		if (scroll_top > sticky_navigation_offset_top) { 
+			$('#sticky_navigation').css({ 'position': 'fixed', 'top':0, 'left':0 });
+		} else {
+			$('#sticky_navigation').css({ 'position': 'relative' }); 
+		}   
+	};
+	
+	// run our function on load
+	sticky_navigation();
+	
+	// and run it again every time you scroll
+	$(window).scroll(function() {
+		 sticky_navigation();
+	});
+	
+	// NOT required:
+	// for this demo disable all links that point to "#"
+	/*$('a[href="#"]').click(function(event){ 
+		event.preventDefault(); 
+	});
+	*/
+});
+</script>
+
+<script>
+$(window).scroll(function() {
+
+    if ($(this).scrollTop()>100)
+     {
+        $('#logo1').hide();
+     }
+    else
+     {
+      $('#logo1').hide();
+     }
+ });
+ 
+ $(window).scroll(function() {
+
+    if ($(this).scrollTop()>100)
+     {
+        $('#logo2').show();
+     }
+    else
+     {
+      $('#logo2').hide();
+     }
+ });
+</script>
+
+<!-- ************ bxslider  -->
+
+<script type="text/javascript" src="https://www.chitkara.edu.in/?w3tc_minify=0097d.js"></script>
+
+<!--<script src="https://www.chitkara.edu.in/wp-content/themes/chitkara/js/responsivemobilemenu.js"></script>-->
+
+
+
+
+
+
+
+<!-- ************ bxslider ENDS -->	
+
+
+<style  type="text/css">
+    .fee-links a{color:#CC0000; font-size:12px; text-decoration:underline}
+    .fee-links a:hover{color:#000000; font-size:12px; text-decoration:none;}
+    input.textfield, 
+    textarea {
+         background:#FFF url(http://chitkara.edu.in/adm/textfield.gif) top repeat-x;
+         border:1px solid #A6A6A6;
+         padding:2px 1px;
+         font-size:12px;
+    }
+</style>
+<!-- Download Form End -->
+<div class="testpopup">
+<div id="mobileSimplediv" style="display:none; border:0px solid black;padding-left:15px;padding-right:5px;">
+<form name="frmLogin" id="frmLogin" method="post" onsubmit="return false;">
+<input type="hidden" name="hiddenDegreeName" id="hiddenDegreeName">
+<input type="hidden" name="hiddenDownloadId" id="hiddenDownloadId">
+
+ 
+		<input type="hidden" value="" name="m_utm_source" id="m_utm_source" readonly />
+		<input type="hidden" value="" name="m_utm_medium" id="m_utm_medium" readonly />
+		<input type="hidden" value="" name="m_utm_campaign" id="m_utm_campaign" readonly />
+		<input type="hidden" value="" name="m_utm_term" id="m_utm_term" readonly />
+		<input type="hidden" value="" name="m_utm_content" id="m_utm_content" readonly />
+		
+        <input type="hidden" value="/hospitalityl-marketing/-communication/" name="m_turl" id="m_turl" readonly="readonly" />
+		<input type="hidden" value="/hospitalityl-marketing/-communication/" name="m_url" id="m_url" readonly />
+ <div class="mobCodeGen">
+		<div class="closediv"><a href="" onClick="document.getElementById('chk1c').style.display='none';document.getElementById('mobileSimplediv').style.display='none'; return false;">X</a></div>
+	    <div class="mobCodeGenTopLbl">
+        	<h4>In order to download the form, you need to verify your Mobile No.</h4>
+        </div>
+    	<div class="mobCodeGencol1">
+    		<label><strong>Enter Mobile Number</strong></label>
+    		<input type="text" maxlength="10" id="mobileNo"  name="mobileNo"  />
+    		<input type="button" value="Send Verification Code" id='iSend' onClick="getGo(document.getElementById('mobileNo').value); return false;" />
+    		<span id="chk1" style="display:none; margin-left:40px;"><!-- <img src="http://www.chitkara.edu.in/adm/scrollimage.gif"> --></span>
+			<div id="chk1a" style="display:none;font-size: 15px; margin: 10px 25px 10px 0px;text-align: center; background:#F3F7EF; border:1px solid #D8E8C9; padding:5px;">
+    		  <!-- <img src="http://www.chitkara.edu.in/adm/scrollimage.gif"> -->	 
+    	    </div>
+    	</div>
+        <div class="mobText"><label><code> eg. 9501105715</code></label></div>
+		<div id="chk1c" style="display:none;font-size:12px; margin:10px 25px 10px 0px;text-align:left;"></div>
+    	<div class="mobCodeGencol2">
+    		<label><strong>Enter Verification Code</strong></label>
+    		<input type="text" maxlength="10" id="mobileCode"  name="mobileCode" />
+    		<input name="btn" type="button" value="Download Form" onClick="validation();" />
+    		<span id="chk11" style="display:none">
+    		  &nbsp;Please Wait
+    		  <!-- <img src="http://www.chitkara.edu.in/adm/scrollimage.gif"> -->	 
+    	    </span>
+    	</div>
+        <div class="mobCodeGenBoTxt">
+        <p>If you face any problem in downloading.<br/>Please send email to admissions@chitkara.edu.in or call +91 9501105714</p>
+        </div>
+</div>
+</form> 
+</div>
+</div>
+<!-- Facebook Conversion Code for Chitkara website pixel -->
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '1651373555133880']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1651373555133880&amp;ev=PixelInitialized" /></noscript>
+
+</head>
+		<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T6XNNW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=1638048746421562";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	
+	<div class="mobMenu">	
+	
+	<nav id="menu">
+		<ul id="menu-main_menu" class=""><li id="menu-item-125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-125"><a>ABOUT US</a>
+<ul class="sub-menu">
+	<li id="menu-item-13205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13205"><a href="https://www.chitkara.edu.in/overview/">Overview</a></li>
+	<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.chitkara.edu.in/overview/campus-leadership/">Campus <span>Leadership</span></a></li>
+	<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://www.chitkara.edu.in/overview/campus-infrastructure/">Campus <span>Infrastructure</span></a></li>
+	<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://www.chitkara.edu.in/photo-gallery/">Photo <span>Gallery</span></a></li>
+	<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://www.chitkara.edu.in/overview/campus-location/">Campus <span>Location</span></a></li>
+	<li id="menu-item-7746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7746"><a href="https://www.chitkara.edu.in/social-initiatives/">Social <span>Initiatives</span></a></li>
+	<li id="menu-item-28339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28339"><a href="https://www.chitkara.edu.in/accreditation/">Accreditation</a></li>
+</ul>
+</li>
+<li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-55"><a>OUR INSTITUTIONS</a>
+<ul class="sub-menu">
+	<li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="https://www.chitkara.edu.in/cbs">Chitkara Business School</a></li>
+	<li id="menu-item-551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a href="https://www.chitkara.edu.in/engineering">Chitkara University Institute of Engineering &#038; Technology</a></li>
+	<li id="menu-item-21669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21669"><a href="https://www.chitkara.edu.in/ccae/">Chitkara College of Applied Engineering</a></li>
+	<li id="menu-item-664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-664"><a href="https://www.chitkara.edu.in/architecture">Chitkara School of Planning and Architecture</a></li>
+	<li id="menu-item-20961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20961"><a href="https://www.chitkara.edu.in/arts/">Chitkara School of <span>Art &#038; Design</span></a></li>
+	<li id="menu-item-1842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1842"><a href="https://www.chitkara.edu.in/chitkara-school-of-mass-communication/">Chitkara <span>School of Mass Communication</span></a></li>
+	<li id="menu-item-14896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14896"><a href="https://www.chitkara.edu.in/sales-retail-marketing/">Chitkara <span>College of Sales &#038; Marketing</span></a></li>
+	<li id="menu-item-1840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1840"><a href="https://www.chitkara.edu.in/ihm">Chitkara College of Hospitality Management</a></li>
+	<li id="menu-item-870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-870"><a href="https://www.chitkara.edu.in/hospitality">Chitkara School of Hospitality (with NCHMCT)</a></li>
+	<li id="menu-item-1083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1083"><a href="https://www.chitkara.edu.in/pharmacy">Chitkara College of Pharmacy</a></li>
+	<li id="menu-item-1764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1764"><a href="https://www.chitkara.edu.in/healthscience">Chitkara School of Health Sciences</a></li>
+	<li id="menu-item-27777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27777"><a href="https://www.chitkara.edu.in/csbas/4-year-b-sc-agriculture/">Chitkara School of Basic &#038; Applied Sciences</a></li>
+	<li id="menu-item-1763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1763"><a href="https://www.chitkara.edu.in/education">Chitkara College of Education</a></li>
+	<li id="menu-item-14882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14882"><a href="https://www.chitkara.edu.in/polytechnic/">Chitkara Polytechnic</a></li>
+</ul>
+</li>
+<li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-53"><a>UNDERGRADUATE PROGRAMS</a>
+<ul class="sub-menu">
+	<li id="menu-item-179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-179"><a href="https://www.chitkara.edu.in/engineering">ENGINEERING &#038; TECHNOLOGY</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5319"><a href="https://www.chitkara.edu.in/engineering/computer-science-engineering/">Computer Science Engineering</a></li>
+		<li id="menu-item-23273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23273"><a href="https://www.chitkara.edu.in/engineering/electronics-computer-engineering/">Electronics and Computer Engineering</a></li>
+		<li id="menu-item-5320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5320"><a href="https://www.chitkara.edu.in/engineering/electronics-communication-engineering">Electronics &#038; Comm. Engineering</a></li>
+		<li id="menu-item-5321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5321"><a href="https://www.chitkara.edu.in/engineering/mechanical-engineering/">Mechanical Engineering</a></li>
+		<li id="menu-item-23605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23605"><a href="https://www.chitkara.edu.in/engineering/mechatronics-engineering/">Mechatronics Engineering</a></li>
+		<li id="menu-item-17109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17109"><a href="https://www.chitkara.edu.in/engineering/electrical-engineering/">Electrical Engineering</a></li>
+		<li id="menu-item-13146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13146"><a href="https://www.chitkara.edu.in/engineering/civil-engineering/">Civil Engineering</a></li>
+		<li id="menu-item-19179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19179"><a href="https://www.chitkara.edu.in/engineering/lateral-entry-programs/">Lateral Entry (For Diploma holders only)</a></li>
+	</ul>
+</li>
+	<li id="menu-item-182" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-182"><a href="https://www.chitkara.edu.in/hospitality">HOSPITALITY &#038; HOTEL MGMT</a>
+	<ul class="sub-menu">
+		<li id="menu-item-21123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21123"><a href="https://www.chitkara.edu.in/hospitality/3-year-b-sc-hospitality-hotel-administration/">B.Sc Hospitality affiliated with National Council of Hotel Management &#038; Catering Technology</a></li>
+		<li id="menu-item-3119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3119"><a href="https://www.chitkara.edu.in/ihm/3-Year-B.Sc-in-hospitality-administration">B.Sc Hospitality Administration</a></li>
+		<li id="menu-item-23405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23405"><a href="https://www.chitkara.edu.in/hospitality/3-year-b-sc-hospitality-administration-gbc/">B.Sc Hospitality  Administration with George Brown College, Toronto, Canada</a></li>
+		<li id="menu-item-21500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21500"><a href="https://www.chitkara.edu.in/culinary-arts/b-sc-culinary-arts/">B.Sc Culinary Arts</a></li>
+		<li id="menu-item-23410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23410"><a href="https://www.chitkara.edu.in/culinary-arts/b-sc-culinary-arts/specialisation-bakery-pastry-art-management/">B.Sc Culinary Arts with specialisation in Bakery &#038; Pastry Art Management</a></li>
+	</ul>
+</li>
+	<li id="menu-item-185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-185"><a href="https://www.chitkara.edu.in/healthscience">NURSING</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1563"><a href="https://www.chitkara.edu.in/healthscience/b-sc-nursing-with-fortis/">B.Sc Nursing Basic with Fortis</a></li>
+		<li id="menu-item-20694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20694"><a href="https://www.chitkara.edu.in/healthsciences/2-year-post-basic-b-sc-nursing/">Post Basic B.Sc Nursing with Fortis</a></li>
+	</ul>
+</li>
+	<li id="menu-item-17124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17124"><a href="https://www.chitkara.edu.in/arts/">ART &#038; DESIGN</a>
+	<ul class="sub-menu">
+		<li id="menu-item-25360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25360"><a href="https://www.chitkara.edu.in/arts/bachelor-fine-arts-bfa/">Bachelor of Fine Arts</a></li>
+		<li id="menu-item-25358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25358"><a href="https://www.chitkara.edu.in/arts/photography-visual-arts/">B.A. Photography &#038; Visual Arts</a></li>
+		<li id="menu-item-25361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25361"><a href="https://www.chitkara.edu.in/arts/b-sc-animation/">B.Sc / B. Des Animation</a></li>
+		<li id="menu-item-23426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23426"><a href="https://www.chitkara.edu.in/arts/b-des-game-design/">B. Des Game Design</a></li>
+		<li id="menu-item-25363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25363"><a href="https://www.chitkara.edu.in/arts/b-des-visual-communication/">B. Des  Visual Communication</a></li>
+		<li id="menu-item-25362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25362"><a href="https://www.chitkara.edu.in/arts/b-des/">B. Des User Experience</a></li>
+	</ul>
+</li>
+	<li id="menu-item-181" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-181"><a href="https://www.chitkara.edu.in/engineering">COMPUTER APPLICATION PROGRAMS</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1572"><a href="https://www.chitkara.edu.in/bca/">BCA</a></li>
+		<li id="menu-item-23576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23576"><a href="https://www.chitkara.edu.in/bca-mca-integrated/">Integrated BCA-MCA</a></li>
+	</ul>
+</li>
+	<li id="menu-item-183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-183"><a href="https://www.chitkara.edu.in/cbs">BUSINESS &#038; ACCOUNTING</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1569"><a href="https://www.chitkara.edu.in/bba">BBA</a></li>
+		<li id="menu-item-1570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1570"><a href="https://www.chitkara.edu.in/bcom">B. Com</a></li>
+	</ul>
+</li>
+	<li id="menu-item-184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-184"><a href="https://www.chitkara.edu.in/healthscience">ALLIED HEALTH SCIENCES</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1564"><a href="https://www.chitkara.edu.in/healthscience/b-sc-mlt-with-fortis">B.Sc Allied Healthcare (MLT/MIT/OTT/DT) with Fortis Healthcare</a></li>
+		<li id="menu-item-17122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17122"><a href="https://www.chitkara.edu.in/healthscience/bachelor-physiotherapy/">B. Physiotherapy</a></li>
+		<li id="menu-item-25422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25422"><a href="https://www.chitkara.edu.in/healthscience/bachelor-occupational-therapy/">B. Occupational Therapy</a></li>
+	</ul>
+</li>
+	<li id="menu-item-187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-187"><a href="https://www.chitkara.edu.in/chitkara-school-of-mass-communication/">JOURNALISM &#038; MASS COMM.</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1576"><a href="https://www.chitkara.edu.in/bjmc">B.A. Journalism</a></li>
+	</ul>
+</li>
+	<li id="menu-item-25419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25419"><a href="#">Basic &#038; Applied Sciences</a>
+	<ul class="sub-menu">
+		<li id="menu-item-25420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25420"><a href="https://www.chitkara.edu.in/csbas/4-year-b-sc-agriculture/">B.Sc Agriculture</a></li>
+	</ul>
+</li>
+	<li id="menu-item-188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-188"><a href="https://www.chitkara.edu.in/pharmacy">PHARMACEUTICAL SCIENCES</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1577"><a href="https://www.chitkara.edu.in/pharmacy/b-pharm">B. Pharma</a></li>
+		<li id="menu-item-23054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23054"><a href="https://www.chitkara.edu.in/pharmacy/2-year-b-pharma-practice/">B. Pharma (Practice)</a></li>
+		<li id="menu-item-15052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15052"><a href="https://www.chitkara.edu.in/pharm-d/">Pharm. D.</a></li>
+	</ul>
+</li>
+	<li id="menu-item-186" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-186"><a href="https://www.chitkara.edu.in/healthscience">OPTOMETRY</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1566"><a href="https://www.chitkara.edu.in/healthscience/b-optometry-with-sankara">B. Optometry with Sankara Eyecare</a></li>
+	</ul>
+</li>
+	<li id="menu-item-189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-189"><a href="https://www.chitkara.edu.in/architecture">PLANNING &#038; ARCHITECTURE</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1579"><a href="https://www.chitkara.edu.in/architecture/b-architecture">B. Arch</a></li>
+		<li id="menu-item-25121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25121"><a href="https://www.chitkara.edu.in/arts/b-des-interior-design/">B. Des Interior Design</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-54" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54"><a>POSTGRADUATE PROGRAMS</a>
+<ul class="sub-menu">
+	<li id="menu-item-3128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3128"><a href="https://www.chitkara.edu.in/cbs">MBA</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5314"><a href="https://www.chitkara.edu.in/mba/marketing">Marketing</a></li>
+		<li id="menu-item-5311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5311"><a href="https://www.chitkara.edu.in/mba/finance-banking">Finance &#038; Banking</a></li>
+		<li id="menu-item-8448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8448"><a href="https://www.chitkara.edu.in/mba/financial-markets-practice/">Financial Market Practices with BSE</a></li>
+		<li id="menu-item-5313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5313"><a href="https://www.chitkara.edu.in/mba/human-resource-management">Human Resource Management</a></li>
+		<li id="menu-item-5312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5312"><a href="https://www.chitkara.edu.in/mba/healthcare/">Healthcare Management With Fortis</a></li>
+		<li id="menu-item-22067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22067"><a href="https://www.chitkara.edu.in/mba/health-information-technology/">Health IT with Frost &#038; Sullivan</a></li>
+		<li id="menu-item-12232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12232"><a href="https://www.chitkara.edu.in/mba/supply-chain-management">Supply Chain &#038; Logistics with Safeducate</a></li>
+		<li id="menu-item-23131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23131"><a href="https://www.chitkara.edu.in/mba/business-analytics/">Business Analytics</a></li>
+		<li id="menu-item-13055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13055"><a href="https://www.chitkara.edu.in/mba/sales-retail-marketing/">Sales &#038; Retail Marketing</a></li>
+		<li id="menu-item-24147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24147"><a href="https://www.chitkara.edu.in/mba/banking-financial-services-insurance/">Banking &#038; Financial Services</a></li>
+		<li id="menu-item-21039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21039"><a href="https://www.chitkara.edu.in/mba/pharmaceutical/">Pharmaceutical Management</a></li>
+		<li id="menu-item-20092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20092"><a href="http://bfsi.chitkara.edu.in/mba-in-insurance-financial-planning/">Insurance &#038; Financial Planning</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3126"><a href="https://www.chitkara.edu.in/engineering">ENGINEERING &#038; TECHNOLOGY</a>
+	<ul class="sub-menu">
+		<li id="menu-item-20199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20199"><a href="https://www.chitkara.edu.in/engineering/me/computer-science-engineering/">M.E. Computer Science</a></li>
+		<li id="menu-item-20200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20200"><a href="https://www.chitkara.edu.in/engineering/me/electronics-communication-engineering/">M.E. Electronics &#038; Communication</a></li>
+		<li id="menu-item-20201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20201"><a href="https://www.chitkara.edu.in/engineering/me/construction-technology-management/">M.E. Construction Technology</a></li>
+		<li id="menu-item-20202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20202"><a href="https://www.chitkara.edu.in/engineering/me/mechanical-engineering/">M.E. Mechanical Engineering</a></li>
+		<li id="menu-item-12651" class="dcmenutop50 menu-item menu-item-type-custom menu-item-object-custom menu-item-12651"><a href="https://www.chitkara.edu.in/engineering">COMPUTER APPLICATION PROGRAMS</a></li>
+		<li id="menu-item-3406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3406"><a href="https://www.chitkara.edu.in/engineering/mca/">MCA (Lateral Entry)</a></li>
+		<li id="menu-item-190" class="dcmenutop50 menu-item menu-item-type-custom menu-item-object-custom menu-item-190"><a href="https://www.chitkara.edu.in/education">EDUCATION</a></li>
+		<li id="menu-item-1562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1562"><a href="https://www.chitkara.edu.in/education/b-ed">B.Ed</a></li>
+		<li id="menu-item-28061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28061"><a href="https://www.chitkara.edu.in/education/m-ed">M.Ed</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3141"><a href="https://www.chitkara.edu.in/pharmacy">PHARMACEUTICAL SCIENCES</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3143"><a href="https://www.chitkara.edu.in/pharmacy/m-pharm">M. Pharma (Pharmaceutics / Pharmaceutical Tech / Pharmacology / Clinical Research)</a></li>
+		<li id="menu-item-21803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21803"><a href="https://www.chitkara.edu.in/pharm-d-post-buccalureate/">Pharm D (Post Buccalureate)</a></li>
+		<li id="menu-item-3136" class="dcmenutop70 menu-item menu-item-type-custom menu-item-object-custom menu-item-3136"><a href="https://www.chitkara.edu.in/healthscience">OPTOMETRY</a></li>
+		<li id="menu-item-3137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3137"><a href="https://www.chitkara.edu.in/healthscience/m-optometry">M. Optometry</a></li>
+		<li id="menu-item-17123" class="dcmenutop20 menu-item menu-item-type-custom menu-item-object-custom menu-item-17123"><a href="https://www.chitkara.edu.in/healthscience">PHYSIOTHERAPY</a></li>
+		<li id="menu-item-17121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17121"><a href="https://www.chitkara.edu.in/healthscience/master-physiotherapy/">M. Physiotherapy</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-3138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3138"><a href="https://www.chitkara.edu.in/chitkara-school-of-mass-communication/">JOURNALISM &#038; MASS COMM.</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3139"><a href="https://www.chitkara.edu.in/masscomm/2-year-master-in-journalism-and-mass-communication">M.A.  Journalism</a></li>
+		<li id="menu-item-25365" class="dcmenutop40 menu-item menu-item-type-custom menu-item-object-custom menu-item-25365"><a href="#">PLANNING &#038; ARCHITECTURE</a></li>
+		<li id="menu-item-25364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25364"><a href="https://www.chitkara.edu.in/arts/m-des-interior-design/">M. Des  in Interior Design</a></li>
+		<li id="menu-item-24433" class="dcmenutop90 menu-item menu-item-type-custom menu-item-object-custom menu-item-24433"><a href="#">ART &#038; DESIGN</a></li>
+		<li id="menu-item-24434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24434"><a href="https://www.chitkara.edu.in/arts/master-design/">M. Des in User Experience (UX/UI)</a></li>
+		<li id="menu-item-28007" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28007"><a href="https://www.chitkara.edu.in/arts/master-of-fine-arts-mfa/">MFA</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-18998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18998"><a href="https://www.chitkara.edu.in/doctoral-program/">DOCTORAL PROGRAMS</a>
+<ul class="sub-menu">
+	<li id="menu-item-19001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19001"><a href="/phde">Business Management</a></li>
+	<li id="menu-item-19002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19002"><a href="https://www.chitkara.edu.in/phdcs">Computer Science &#038; Engineering</a></li>
+	<li id="menu-item-19003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19003"><a href="https://www.chitkara.edu.in/phdee">Electronics &#038; Communication Engineering</a></li>
+	<li id="menu-item-20036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20036"><a href="https://www.chitkara.edu.in/phdme">Mechanical Engineering</a></li>
+	<li id="menu-item-19007" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19007"><a href="https://www.chitkara.edu.in/phd/pharmaceutical-sciences/">Pharmaceutical Sciences</a></li>
+	<li id="menu-item-19004" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19004"><a href="https://www.chitkara.edu.in/phd/applied-scinces/">Applied Sciences</a></li>
+	<li id="menu-item-20174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20174"><a href="https://www.chitkara.edu.in/phd/health-sciences/">Health Sciences</a></li>
+	<li id="menu-item-19008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19008"><a href="https://www.chitkara.edu.in/phd/education/">Education</a></li>
+	<li id="menu-item-25809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25809"><a href="https://www.chitkara.edu.in/phd/mass-communication/">Mass Communication</a></li>
+</ul>
+</li>
+<li id="menu-item-19009" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19009"><a href="#">Research</a>
+<ul class="sub-menu">
+	<li id="menu-item-19010" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19010"><a target="_blank" href="http://curin.chitkara.edu.in">CURIN (Centre of Excellence)</a></li>
+	<li id="menu-item-19011" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19011"><a href="https://publications.chitkara.edu.in/">University Publications</a></li>
+	<li id="menu-item-19012" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19012"><a href="https://www.chitkara.edu.in/events/">Conferences</a></li>
+	<li id="menu-item-19013" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19013"><a href="https://www.chitkara.edu.in/faculty-publications/">Faculty Publications</a></li>
+	<li id="menu-item-19014" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19014"><a href="https://www.chitkara.edu.in/funded-projects/">Funded Projects</a></li>
+	<li id="menu-item-19975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19975"><a href="https://www.chitkara.edu.in/rese-novae-newsletter/">Res Novae – The quarterly NewsLetter of Chitkara University Research and Innovation Network (CURIN)</a></li>
+</ul>
+</li>
+</ul> 
+	</nav>
+</div>	
+<div class="header1">
+	<div class="container">
+	<!-- FB COUNTS -->
+
+<!-- FB COUNTS ENDS-->
+		
+		<div class="logo">
+			<a href="https://www.chitkara.edu.in"><img src="https://www.chitkara.edu.in/chitkara-university-logo.png" alt="logo" title="Chitkara University Logo"  width="181" height="78" class="dlogo" /></a>
+			<a href="https://www.chitkara.edu.in"><img src="https://www.chitkara.edu.in/cu-logo-mob.png" alt="logo" title="Chitkara University Logo"  width="181" height="78" class="mlogo" /></a>
+			<div class="headermenu">
+				<a class="header__nav-button" href="#menu"><span></span><span></span> <span></span></a>
+			</div>
+		</div>
+		<div class="logoM">
+			<a href="https://www.chitkara.edu.in"><img src="https://www.chitkara.edu.in/chitkara-university-logo.png" alt="logo" title="Chitkara University Logo"  width="120" height="58" /></a>
+			<div class="logotxt">Admissions Helpline: <span class="redtxt">+91 9501105714</span></div>
+			 
+		</div>
+		<div class="main-nav" >
+				<div class="tollfree">
+					<div class="leftNumber">
+						<div style="font-size:11px;">For more information<br> give a miss call on</div>
+						<div class="mTop4">
+							<b>1800 267 1999</b>
+						</div>
+					</div>
+					<div class="rightNumber">
+						<div  style="font-size:11px;">Admission Helpline</div>
+						<div class="mTop4">
+							<b>+91 9501105714 <br>+91 9501105715</b>
+						</div>
+					</div>
+					<div class="rightNumber">
+						<div  style="font-size:11px;">Delhi & NCR<br> please call on</div>
+						<div class="mTop4">
+							<b>9599368734</b>
+						</div>
+					</div>
+					<div class="rightNumber">
+						<div  style="font-size:11px;">WB / North East<br> Helpline</div>
+						<div class="mTop4">
+							<b>9810355724</b>
+						</div>
+					</div>
+					<div class="rightNumber">
+						<div  style="font-size:11px;">UP /  Bihar / Jharkhand<br> Helpline</div>
+						<div class="mTop4">
+							<b>9873288076</b>
+						</div>
+					</div>
+					<div class="Number">
+						<div  style="font-size:11px;">J&K<br> Helpline</div>
+						<div class="mTop4">
+							<b>9501105716</b>
+						</div>
+					</div>
+				</div>
+		</div>
+	</div>
+</div>
+<div class="topbarMenu">
+	<div class="container">
+		<ul class="topnav">
+			<li><a href="/">Home</a></li>
+			<li><a href="https://www.chitkara.edu.in/can/">Alumni</a></li>
+			<li><a href="http://careers.chitkara.edu.in/">Careers</a></li>
+			<li><a href="https://www.chitkara.edu.in/chalkpad/">Chalkpad</a></li>
+			<li><a class="" href="https://www.google.com/a/chitkara.edu.in/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/a/chitkara.edu.in/&ss=1&ltmpl=default&ltmplcache=2" target="_blank">Univ Email</a></li>
+			<li><a href="https://www.chitkara.edu.in/admissions/admission-helpline/">Contact Us</a></li>
+			<li>
+				<div class="searchbar" id='divSearch1' onclick="getCheck(); return false;">
+					<a href="">
+						<span class="fa fa-search"></span>
+					</a>
+				</div>
+			</li>
+			<div class="searchblock" id='divSearch' style='display:none'>
+				<form role="search" method="get" id="searchform" class="searchform" action="https://www.chitkara.edu.in/">
+					<div>
+						<label class="screen-reader-text" for="s"></label>
+						<input type="text" value="" name="s" id="s" placeholder="Enter Text Here" />
+						<input type="submit" id="searchsubmit" value="Search" />
+					</div>
+				</form>
+				<!--<input type="text" name="search" id="search" placeholder="Enter Text Here" />
+				<input type="button" class="" value="Search" />-->
+			</div>
+		</ul>
+	</div>
+</div>
+<div id="sticky_navigation_wrapper">
+	<div id="sticky_navigation">
+		<div id="logo1">
+			<a href="https://www.chitkara.edu.in"><img style="margin-top:3px;" src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/mini-logo.png" alt="logo" title="chitkara University"  width="110" height="49" /></a>
+		</div>
+		
+			<div class="mainnv">
+				<div class="container">
+				<div id="my-mega-menu-widget">		<div class="dcjq-mega-menu" id="dc_jqmegamenu_widget-8-item">
+		
+		<ul id="menu-main_menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-125"><a>ABOUT US</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13205"><a href="https://www.chitkara.edu.in/overview/">Overview</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.chitkara.edu.in/overview/campus-leadership/">Campus <span>Leadership</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://www.chitkara.edu.in/overview/campus-infrastructure/">Campus <span>Infrastructure</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://www.chitkara.edu.in/photo-gallery/">Photo <span>Gallery</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://www.chitkara.edu.in/overview/campus-location/">Campus <span>Location</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7746"><a href="https://www.chitkara.edu.in/social-initiatives/">Social <span>Initiatives</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28339"><a href="https://www.chitkara.edu.in/accreditation/">Accreditation</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-55"><a>OUR INSTITUTIONS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="https://www.chitkara.edu.in/cbs">Chitkara Business School</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a href="https://www.chitkara.edu.in/engineering">Chitkara University Institute of Engineering &#038; Technology</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21669"><a href="https://www.chitkara.edu.in/ccae/">Chitkara College of Applied Engineering</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-664"><a href="https://www.chitkara.edu.in/architecture">Chitkara School of Planning and Architecture</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20961"><a href="https://www.chitkara.edu.in/arts/">Chitkara School of <span>Art &#038; Design</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1842"><a href="https://www.chitkara.edu.in/chitkara-school-of-mass-communication/">Chitkara <span>School of Mass Communication</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14896"><a href="https://www.chitkara.edu.in/sales-retail-marketing/">Chitkara <span>College of Sales &#038; Marketing</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1840"><a href="https://www.chitkara.edu.in/ihm">Chitkara College of Hospitality Management</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-870"><a href="https://www.chitkara.edu.in/hospitality">Chitkara School of Hospitality (with NCHMCT)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1083"><a href="https://www.chitkara.edu.in/pharmacy">Chitkara College of Pharmacy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1764"><a href="https://www.chitkara.edu.in/healthscience">Chitkara School of Health Sciences</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27777"><a href="https://www.chitkara.edu.in/csbas/4-year-b-sc-agriculture/">Chitkara School of Basic &#038; Applied Sciences</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1763"><a href="https://www.chitkara.edu.in/education">Chitkara College of Education</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14882"><a href="https://www.chitkara.edu.in/polytechnic/">Chitkara Polytechnic</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-53"><a>UNDERGRADUATE PROGRAMS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-179"><a href="https://www.chitkara.edu.in/engineering">ENGINEERING &#038; TECHNOLOGY</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5319"><a href="https://www.chitkara.edu.in/engineering/computer-science-engineering/">Computer Science Engineering</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23273"><a href="https://www.chitkara.edu.in/engineering/electronics-computer-engineering/">Electronics and Computer Engineering</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5320"><a href="https://www.chitkara.edu.in/engineering/electronics-communication-engineering">Electronics &#038; Comm. Engineering</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5321"><a href="https://www.chitkara.edu.in/engineering/mechanical-engineering/">Mechanical Engineering</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23605"><a href="https://www.chitkara.edu.in/engineering/mechatronics-engineering/">Mechatronics Engineering</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17109"><a href="https://www.chitkara.edu.in/engineering/electrical-engineering/">Electrical Engineering</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13146"><a href="https://www.chitkara.edu.in/engineering/civil-engineering/">Civil Engineering</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19179"><a href="https://www.chitkara.edu.in/engineering/lateral-entry-programs/">Lateral Entry (For Diploma holders only)</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-182"><a href="https://www.chitkara.edu.in/hospitality">HOSPITALITY &#038; HOTEL MGMT</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21123"><a href="https://www.chitkara.edu.in/hospitality/3-year-b-sc-hospitality-hotel-administration/">B.Sc Hospitality affiliated with National Council of Hotel Management &#038; Catering Technology</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3119"><a href="https://www.chitkara.edu.in/ihm/3-Year-B.Sc-in-hospitality-administration">B.Sc Hospitality Administration</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23405"><a href="https://www.chitkara.edu.in/hospitality/3-year-b-sc-hospitality-administration-gbc/">B.Sc Hospitality  Administration with George Brown College, Toronto, Canada</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21500"><a href="https://www.chitkara.edu.in/culinary-arts/b-sc-culinary-arts/">B.Sc Culinary Arts</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23410"><a href="https://www.chitkara.edu.in/culinary-arts/b-sc-culinary-arts/specialisation-bakery-pastry-art-management/">B.Sc Culinary Arts with specialisation in Bakery &#038; Pastry Art Management</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-185"><a href="https://www.chitkara.edu.in/healthscience">NURSING</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1563"><a href="https://www.chitkara.edu.in/healthscience/b-sc-nursing-with-fortis/">B.Sc Nursing Basic with Fortis</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20694"><a href="https://www.chitkara.edu.in/healthsciences/2-year-post-basic-b-sc-nursing/">Post Basic B.Sc Nursing with Fortis</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17124"><a href="https://www.chitkara.edu.in/arts/">ART &#038; DESIGN</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25360"><a href="https://www.chitkara.edu.in/arts/bachelor-fine-arts-bfa/">Bachelor of Fine Arts</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25358"><a href="https://www.chitkara.edu.in/arts/photography-visual-arts/">B.A. Photography &#038; Visual Arts</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25361"><a href="https://www.chitkara.edu.in/arts/b-sc-animation/">B.Sc / B. Des Animation</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23426"><a href="https://www.chitkara.edu.in/arts/b-des-game-design/">B. Des Game Design</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25363"><a href="https://www.chitkara.edu.in/arts/b-des-visual-communication/">B. Des  Visual Communication</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25362"><a href="https://www.chitkara.edu.in/arts/b-des/">B. Des User Experience</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-181"><a href="https://www.chitkara.edu.in/engineering">COMPUTER APPLICATION PROGRAMS</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1572"><a href="https://www.chitkara.edu.in/bca/">BCA</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23576"><a href="https://www.chitkara.edu.in/bca-mca-integrated/">Integrated BCA-MCA</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-183"><a href="https://www.chitkara.edu.in/cbs">BUSINESS &#038; ACCOUNTING</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1569"><a href="https://www.chitkara.edu.in/bba">BBA</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1570"><a href="https://www.chitkara.edu.in/bcom">B. Com</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-184"><a href="https://www.chitkara.edu.in/healthscience">ALLIED HEALTH SCIENCES</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1564"><a href="https://www.chitkara.edu.in/healthscience/b-sc-mlt-with-fortis">B.Sc Allied Healthcare (MLT/MIT/OTT/DT) with Fortis Healthcare</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17122"><a href="https://www.chitkara.edu.in/healthscience/bachelor-physiotherapy/">B. Physiotherapy</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25422"><a href="https://www.chitkara.edu.in/healthscience/bachelor-occupational-therapy/">B. Occupational Therapy</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-187"><a href="https://www.chitkara.edu.in/chitkara-school-of-mass-communication/">JOURNALISM &#038; MASS COMM.</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1576"><a href="https://www.chitkara.edu.in/bjmc">B.A. Journalism</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25419"><a href="#">Basic &#038; Applied Sciences</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25420"><a href="https://www.chitkara.edu.in/csbas/4-year-b-sc-agriculture/">B.Sc Agriculture</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-188"><a href="https://www.chitkara.edu.in/pharmacy">PHARMACEUTICAL SCIENCES</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1577"><a href="https://www.chitkara.edu.in/pharmacy/b-pharm">B. Pharma</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23054"><a href="https://www.chitkara.edu.in/pharmacy/2-year-b-pharma-practice/">B. Pharma (Practice)</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15052"><a href="https://www.chitkara.edu.in/pharm-d/">Pharm. D.</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-186"><a href="https://www.chitkara.edu.in/healthscience">OPTOMETRY</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1566"><a href="https://www.chitkara.edu.in/healthscience/b-optometry-with-sankara">B. Optometry with Sankara Eyecare</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-189"><a href="https://www.chitkara.edu.in/architecture">PLANNING &#038; ARCHITECTURE</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1579"><a href="https://www.chitkara.edu.in/architecture/b-architecture">B. Arch</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25121"><a href="https://www.chitkara.edu.in/arts/b-des-interior-design/">B. Des Interior Design</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54"><a>POSTGRADUATE PROGRAMS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3128"><a href="https://www.chitkara.edu.in/cbs">MBA</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5314"><a href="https://www.chitkara.edu.in/mba/marketing">Marketing</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5311"><a href="https://www.chitkara.edu.in/mba/finance-banking">Finance &#038; Banking</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8448"><a href="https://www.chitkara.edu.in/mba/financial-markets-practice/">Financial Market Practices with BSE</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5313"><a href="https://www.chitkara.edu.in/mba/human-resource-management">Human Resource Management</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5312"><a href="https://www.chitkara.edu.in/mba/healthcare/">Healthcare Management With Fortis</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22067"><a href="https://www.chitkara.edu.in/mba/health-information-technology/">Health IT with Frost &#038; Sullivan</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12232"><a href="https://www.chitkara.edu.in/mba/supply-chain-management">Supply Chain &#038; Logistics with Safeducate</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23131"><a href="https://www.chitkara.edu.in/mba/business-analytics/">Business Analytics</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13055"><a href="https://www.chitkara.edu.in/mba/sales-retail-marketing/">Sales &#038; Retail Marketing</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24147"><a href="https://www.chitkara.edu.in/mba/banking-financial-services-insurance/">Banking &#038; Financial Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21039"><a href="https://www.chitkara.edu.in/mba/pharmaceutical/">Pharmaceutical Management</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20092"><a href="http://bfsi.chitkara.edu.in/mba-in-insurance-financial-planning/">Insurance &#038; Financial Planning</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3126"><a href="https://www.chitkara.edu.in/engineering">ENGINEERING &#038; TECHNOLOGY</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20199"><a href="https://www.chitkara.edu.in/engineering/me/computer-science-engineering/">M.E. Computer Science</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20200"><a href="https://www.chitkara.edu.in/engineering/me/electronics-communication-engineering/">M.E. Electronics &#038; Communication</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20201"><a href="https://www.chitkara.edu.in/engineering/me/construction-technology-management/">M.E. Construction Technology</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20202"><a href="https://www.chitkara.edu.in/engineering/me/mechanical-engineering/">M.E. Mechanical Engineering</a></li>
+		<li class="dcmenutop50 menu-item menu-item-type-custom menu-item-object-custom menu-item-12651"><a href="https://www.chitkara.edu.in/engineering">COMPUTER APPLICATION PROGRAMS</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3406"><a href="https://www.chitkara.edu.in/engineering/mca/">MCA (Lateral Entry)</a></li>
+		<li class="dcmenutop50 menu-item menu-item-type-custom menu-item-object-custom menu-item-190"><a href="https://www.chitkara.edu.in/education">EDUCATION</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1562"><a href="https://www.chitkara.edu.in/education/b-ed">B.Ed</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28061"><a href="https://www.chitkara.edu.in/education/m-ed">M.Ed</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3141"><a href="https://www.chitkara.edu.in/pharmacy">PHARMACEUTICAL SCIENCES</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3143"><a href="https://www.chitkara.edu.in/pharmacy/m-pharm">M. Pharma (Pharmaceutics / Pharmaceutical Tech / Pharmacology / Clinical Research)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21803"><a href="https://www.chitkara.edu.in/pharm-d-post-buccalureate/">Pharm D (Post Buccalureate)</a></li>
+		<li class="dcmenutop70 menu-item menu-item-type-custom menu-item-object-custom menu-item-3136"><a href="https://www.chitkara.edu.in/healthscience">OPTOMETRY</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3137"><a href="https://www.chitkara.edu.in/healthscience/m-optometry">M. Optometry</a></li>
+		<li class="dcmenutop20 menu-item menu-item-type-custom menu-item-object-custom menu-item-17123"><a href="https://www.chitkara.edu.in/healthscience">PHYSIOTHERAPY</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17121"><a href="https://www.chitkara.edu.in/healthscience/master-physiotherapy/">M. Physiotherapy</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3138"><a href="https://www.chitkara.edu.in/chitkara-school-of-mass-communication/">JOURNALISM &#038; MASS COMM.</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3139"><a href="https://www.chitkara.edu.in/masscomm/2-year-master-in-journalism-and-mass-communication">M.A.  Journalism</a></li>
+		<li class="dcmenutop40 menu-item menu-item-type-custom menu-item-object-custom menu-item-25365"><a href="#">PLANNING &#038; ARCHITECTURE</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25364"><a href="https://www.chitkara.edu.in/arts/m-des-interior-design/">M. Des  in Interior Design</a></li>
+		<li class="dcmenutop90 menu-item menu-item-type-custom menu-item-object-custom menu-item-24433"><a href="#">ART &#038; DESIGN</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24434"><a href="https://www.chitkara.edu.in/arts/master-design/">M. Des in User Experience (UX/UI)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28007"><a href="https://www.chitkara.edu.in/arts/master-of-fine-arts-mfa/">MFA</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18998"><a href="https://www.chitkara.edu.in/doctoral-program/">DOCTORAL PROGRAMS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19001"><a href="/phde">Business Management</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19002"><a href="https://www.chitkara.edu.in/phdcs">Computer Science &#038; Engineering</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19003"><a href="https://www.chitkara.edu.in/phdee">Electronics &#038; Communication Engineering</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20036"><a href="https://www.chitkara.edu.in/phdme">Mechanical Engineering</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19007"><a href="https://www.chitkara.edu.in/phd/pharmaceutical-sciences/">Pharmaceutical Sciences</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19004"><a href="https://www.chitkara.edu.in/phd/applied-scinces/">Applied Sciences</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20174"><a href="https://www.chitkara.edu.in/phd/health-sciences/">Health Sciences</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19008"><a href="https://www.chitkara.edu.in/phd/education/">Education</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25809"><a href="https://www.chitkara.edu.in/phd/mass-communication/">Mass Communication</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19009"><a href="#">Research</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19010"><a target="_blank" href="http://curin.chitkara.edu.in">CURIN (Centre of Excellence)</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19011"><a href="https://publications.chitkara.edu.in/">University Publications</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19012"><a href="https://www.chitkara.edu.in/events/">Conferences</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19013"><a href="https://www.chitkara.edu.in/faculty-publications/">Faculty Publications</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19014"><a href="https://www.chitkara.edu.in/funded-projects/">Funded Projects</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19975"><a href="https://www.chitkara.edu.in/rese-novae-newsletter/">Res Novae – The quarterly NewsLetter of Chitkara University Research and Innovation Network (CURIN)</a></li>
+</ul>
+</li>
+</ul>		
+		</div>
+		</div>				<div class="applyNow"><a href="https://www.chitkara.edu.in/admission-procedure/">Admissions</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+			
+
+<div class="slider-full-hm" style="float:left;">
+
+
+    <div id="homesmall" class="owl-carousel owl-theme">
+     
+      
+      <div class="item"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/home-banner/Art-Design.jpg" alt="Chitkara University Banner"></div>
+	  <div class="item"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/home-banner/Engineering.jpg" alt="Chitkara University Banner"></div>
+     <div class="item"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/home-banner/Hospitality.jpg" alt="Chitkara University Banner"></div>
+	 <div class="item"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/home-banner/Healthcare.jpg" alt="Chitkara University Banner"></div>
+	 <div class="item"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/home-banner/MBA.jpg" alt="Chitkara University Banner"></div>
+	 
+    </div>
+
+
+	<!--<img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara-university-punjab.jpg" width="100%" height="400" alt="chitkara-university-punjab" title="Chitkara University Punjab">
+			-->
+</div>
+<div>
+<ul id="slideshow-bottom-links">
+        <li id="slideshow-bottom-links-li-1" class="">
+            <a href="https://www.chitkara.edu.in/learn-about-education-that-works">
+                <p>Learn About</p>
+                <h2>
+                    Education<br>That Works
+                </h2>
+            </a>
+        </li>
+        <li id="slideshow-bottom-links-li-2" class="">
+            <a href="https://www.chitkara.edu.in/campus-recruitment/">
+                <p>Explore Our</p>
+                <h2>
+                    Campus<br>Recruitment
+                </h2>
+            </a>
+        </li>
+		<li id="slideshow-bottom-links-li-3" class="">
+            <a href="https://www.chitkara.edu.in/industry-partnerships">
+                <p>OVERVIEW ABOUT</p>
+                <h2>
+                    Industry<br>Partnerships
+            	</h2>
+            </a>
+        </li>
+        <li id="slideshow-bottom-links-li-4" class="">
+            <a href="https://www.chitkara.edu.in/international-collaborations/">
+                <p>DISCOVER OUR</p>
+                <h2>
+                    International<br>Collaborations
+                </h2>
+            </a>
+        </li>
+        
+        <li id="slideshow-bottom-links-li-5" class="">
+            <a href="https://www.chitkara.edu.in/chitkara-innovation-incubator/">
+                <p>Know About</p>
+                <h2>
+                    Innovation<br>Incubator
+                </h2>
+            </a>
+        </li>
+    </ul>
+</div>
+
+	
+
+
+
+	<div class="aboutusHome">
+	<div class="container clr">
+		<div class="row">
+			<div class="col-md-7 col-sm-7">
+				<div class="abouthm-slider cutitle">
+					<!--<img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/Slider1-1.jpg">-->
+				
+										
+					
+				<div id="owl-demo" class="owl-carousel owl-theme">
+				 
+				  
+				  <div class="item"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/home-banner/small/This-is-Chandigarh.jpg" alt="Chitkara University Banner"></div>
+				  <div class="item"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/home-banner/small/This-is-Chitkara.jpg" alt="Chitkara University Banner"></div>
+				 <div class="item"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/home-banner/small/This-is-Discovery.jpg" alt="Chitkara University Banner"></div>
+				 <div class="item"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/home-banner/small/This-is-Learning.jpg" alt="Chitkara University Banner"></div>
+				 <div class="item"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/home-banner/small/This-is-Research.jpg" alt="Chitkara University Banner"></div>
+				 <div class="item"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/home-banner/small/This-is-Success.jpg" alt="Chitkara University Banner"></div>
+				 
+				</div>
+					<div class="fb-like" data-href="https://www.youtube.com/embed/k2dMfJJkQrM" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>	
+				</div>
+			</div>
+			<div class="col-md-5 col-sm-5">
+				<div class="abouthmtxt">
+				<div class="left" style="width:52px; margin-right: 12px; margin-top: 2px;">
+					<img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/cu-icon.png" width="52" height="52">
+				</div>
+				<h2>Your Career Needs <br>Chitkara University</h2>
+				<p>
+				<b>Chitkara University in Punjab, has been founded by Dr.&nbsp;Ashok Chitkara and Dr.&nbsp;Madhu Chitkara, who have been passionate teachers for more than 40 years now.</b> Since inception, Chitkara University has been different. Our students have been different. So are our faculty, our academic strengths and our outlook towards teaching and learning. Within a decade, most of our academic programs are ranked in top 50 programs in the country. 
+				</p>
+				<p class="mtop10">
+Students from around the country are getting attracted to Chitkara University because of our commitment to teaching excellence, focus on research, tailored courses that makes our education relevant to changing career dynamics and formidable industry partnerships. </b>
+				</p>
+				<p class="mtop10"><b>Come and 'Explore Your Potential' at Chitkara University...</b>
+				</p>
+				
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+﻿<div class="in-the-press">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3 eventsmac">
+				<div class="spotlightpanel bgf7">
+					<ul class="bxslider">
+					
+												
+					
+					
+                                        
+	                  <li>
+	                  	<h3><a href="https://www.chitkara.edu.in/events/icbf-2019-international-conference-banking-finance/" title="ICBF 2019 &#8211; International Conference on Banking and Finance">ICBF 2019 &#8211; International Conference on Banking and Finance</a> </h3>
+	                    <p><i>April 13-14th, 2019</i></p>
+<p>Opportunity to get your paper published in SCOPUS Indexed Journal and UGC Listed Journal </p>
+						<img width="270" height="155" src="https://www.chitkara.edu.in/wp-content/uploads/2018/11/Spotlight.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2018/11/Spotlight.jpg 270w, https://www.chitkara.edu.in/wp-content/uploads/2018/11/Spotlight-228x130.jpg 228w" sizes="(max-width: 270px) 100vw, 270px" />	                  </li>
+	                 <!-- <li><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara_university_spotlight.jpg" alt="" title="">
+	                  	<h3>International conference on AMMT </h3>
+	                    <p>October 10 – 11, 2014<br>4th International Conference on Advances in Materials and Manufacturing Technology </p> 
+	                  </li>-->
+								                     
+	                  <li>
+	                  	<h3><a href="https://www.chitkara.edu.in/events/chitkara-university-doctoral-consortium-cudc-2019/" title="Chitkara University Doctoral Consortium &#8211; CUDC 2019">Chitkara University Doctoral Consortium &#8211; CUDC 2019</a> </h3>
+	                    <p><i>May 17-18, 2019</i></p>
+<p>Selected Papers will be Published in Scopus Indexed and ABDC listed Journals</p>
+						<img width="270" height="155" src="https://www.chitkara.edu.in/wp-content/uploads/2019/03/Spotlight-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/03/Spotlight-1.jpg 270w, https://www.chitkara.edu.in/wp-content/uploads/2019/03/Spotlight-1-228x130.jpg 228w" sizes="(max-width: 270px) 100vw, 270px" />	                  </li>
+	                 <!-- <li><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara_university_spotlight.jpg" alt="" title="">
+	                  	<h3>International conference on AMMT </h3>
+	                    <p>October 10 – 11, 2014<br>4th International Conference on Advances in Materials and Manufacturing Technology </p> 
+	                  </li>-->
+								                     
+	                  <li>
+	                  	<h3><a href="https://www.chitkara.edu.in/events/international-conference-sustainable-civil-engineering-practices/" title="International Conference on Sustainable Civil Engineering Practices">International Conference on Sustainable Civil Engineering Practices</a> </h3>
+	                    <p><i>July 19-20th, 2019</i></p>
+						<img width="270" height="155" src="https://www.chitkara.edu.in/wp-content/uploads/2018/07/sustainability_spotlight.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2018/07/sustainability_spotlight.jpg 270w, https://www.chitkara.edu.in/wp-content/uploads/2018/07/sustainability_spotlight-228x130.jpg 228w" sizes="(max-width: 270px) 100vw, 270px" />	                  </li>
+	                 <!-- <li><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara_university_spotlight.jpg" alt="" title="">
+	                  	<h3>International conference on AMMT </h3>
+	                    <p>October 10 – 11, 2014<br>4th International Conference on Advances in Materials and Manufacturing Technology </p> 
+	                  </li>-->
+								                     
+	                  <li>
+	                  	<h3><a href="https://www.chitkara.edu.in/events/business-today-ranks-chitkara-business-school-among-top-100-best-b-schools-india/" title="Business Today ranks Chitkara Business School among &#8216;top 100 Best B-Schools of India&#8217;">Business Today ranks Chitkara Business School among &#8216;top 100 Best B-Schools of India&#8217;</a> </h3>
+	                    <p>We are excited and extremely proud to announce that Chitkara Business School&#8230;</p>
+						<img width="270" height="155" src="https://www.chitkara.edu.in/wp-content/uploads/2018/12/ranking.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2018/12/ranking.jpg 270w, https://www.chitkara.edu.in/wp-content/uploads/2018/12/ranking-228x130.jpg 228w" sizes="(max-width: 270px) 100vw, 270px" />	                  </li>
+	                 <!-- <li><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara_university_spotlight.jpg" alt="" title="">
+	                  	<h3>International conference on AMMT </h3>
+	                    <p>October 10 – 11, 2014<br>4th International Conference on Advances in Materials and Manufacturing Technology </p> 
+	                  </li>-->
+								                     
+	                  <li>
+	                  	<h3><a href="https://www.chitkara.edu.in/events/we-mean-business-cbs-gallops-ahead-ranked-21st-among-top-b-schools-of-north-india-by-business-world/" title="We Mean Business! CBS gallops ahead, Ranked 21st among ‘Top B-Schools of North India’ by ‘Business World’">We Mean Business! CBS gallops ahead, Ranked 21st among ‘Top B-Schools of North India’ by ‘Business World’</a> </h3>
+	                    <p>We are delighted and extremely proud to share the news that &#8216;Business&#8230;</p>
+						<img width="270" height="155" src="https://www.chitkara.edu.in/wp-content/uploads/2018/12/Ranked-21st.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2018/12/Ranked-21st.jpg 270w, https://www.chitkara.edu.in/wp-content/uploads/2018/12/Ranked-21st-228x130.jpg 228w" sizes="(max-width: 270px) 100vw, 270px" />	                  </li>
+	                 <!-- <li><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara_university_spotlight.jpg" alt="" title="">
+	                  	<h3>International conference on AMMT </h3>
+	                    <p>October 10 – 11, 2014<br>4th International Conference on Advances in Materials and Manufacturing Technology </p> 
+	                  </li>-->
+								                     
+	                  <li>
+	                  	<h3><a href="https://www.chitkara.edu.in/events/unveiling-the-best-in-business-schools-digital-learning-magazine-gives-aaaa-rating-to-cbs-lists-it-among-top-private-b-school-2018-punjab/" title="Unveiling the best in Business Schools: Digital Learning Magazine gives AAAA+ Rating to CBS, lists it among &#8216;Top Private B-School 2018: Punjab&#8217;">Unveiling the best in Business Schools: Digital Learning Magazine gives AAAA+ Rating to CBS, lists it among &#8216;Top Private B-School 2018: Punjab&#8217;</a> </h3>
+	                    <p>It&#8217;s raining awards for CBS this season! We are delighted and extremely&#8230;</p>
+						<img width="270" height="155" src="https://www.chitkara.edu.in/wp-content/uploads/2019/01/DL-Ranking.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/01/DL-Ranking.jpg 270w, https://www.chitkara.edu.in/wp-content/uploads/2019/01/DL-Ranking-228x130.jpg 228w" sizes="(max-width: 270px) 100vw, 270px" />	                  </li>
+	                 <!-- <li><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara_university_spotlight.jpg" alt="" title="">
+	                  	<h3>International conference on AMMT </h3>
+	                    <p>October 10 – 11, 2014<br>4th International Conference on Advances in Materials and Manufacturing Technology </p> 
+	                  </li>-->
+								                     
+	                  <li>
+	                  	<h3><a href="https://www.chitkara.edu.in/events/time-cyber-media-accords-chitkara-university-title-of-best-private-university-for-academic-excellence-in-punjab/" title="Time Cyber Media accords Chitkara University title of &#8216;Best Private University for Academic Excellence in Punjab&#8217;">Time Cyber Media accords Chitkara University title of &#8216;Best Private University for Academic Excellence in Punjab&#8217;</a> </h3>
+	                    <p>We are extremely proud to share that Chitkara University has been accorded&#8230;</p>
+						<img width="270" height="155" src="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Spotlight.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Spotlight.jpg 270w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/Spotlight-228x130.jpg 228w" sizes="(max-width: 270px) 100vw, 270px" />	                  </li>
+	                 <!-- <li><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara_university_spotlight.jpg" alt="" title="">
+	                  	<h3>International conference on AMMT </h3>
+	                    <p>October 10 – 11, 2014<br>4th International Conference on Advances in Materials and Manufacturing Technology </p> 
+	                  </li>-->
+								                     
+	                  <li>
+	                  	<h3><a href="https://www.chitkara.edu.in/events/chitkara-awarded-best-university-for-journalism-mass-communication-in-india-2019-icci/" title="Chitkara awarded &#8216;Best University for Journalism &#038; Mass Communication in India 2019&#8217;: ICCI">Chitkara awarded &#8216;Best University for Journalism &#038; Mass Communication in India 2019&#8217;: ICCI</a> </h3>
+	                    <p>Chitkara School of Mass Communication, Chitkara University, Punjab, has been Awarded with&#8230;</p>
+						<img width="270" height="155" src="https://www.chitkara.edu.in/wp-content/uploads/2019/03/ICCI-Award1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/03/ICCI-Award1.jpg 270w, https://www.chitkara.edu.in/wp-content/uploads/2019/03/ICCI-Award1-228x130.jpg 228w" sizes="(max-width: 270px) 100vw, 270px" />	                  </li>
+	                 <!-- <li><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara_university_spotlight.jpg" alt="" title="">
+	                  	<h3>International conference on AMMT </h3>
+	                    <p>October 10 – 11, 2014<br>4th International Conference on Advances in Materials and Manufacturing Technology </p> 
+	                  </li>-->
+								                     
+	                  <li>
+	                  	<h3><a href="https://www.chitkara.edu.in/events/incubation-ready-chitkara-university-featured-in-latest-issue-of-seasonal-magazine/" title="&#8216;Incubation Ready&#8217; Chitkara University featured in latest issue of Seasonal Magazine">&#8216;Incubation Ready&#8217; Chitkara University featured in latest issue of Seasonal Magazine</a> </h3>
+	                    <p>It is a matter of immense pride &#038; prestige that Hon&#8217;ble Dr&#8230;</p>
+						<img width="270" height="155" src="https://www.chitkara.edu.in/wp-content/uploads/2019/03/Seasonal-Spotlight.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/03/Seasonal-Spotlight.jpg 270w, https://www.chitkara.edu.in/wp-content/uploads/2019/03/Seasonal-Spotlight-228x130.jpg 228w" sizes="(max-width: 270px) 100vw, 270px" />	                  </li>
+	                 <!-- <li><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara_university_spotlight.jpg" alt="" title="">
+	                  	<h3>International conference on AMMT </h3>
+	                    <p>October 10 – 11, 2014<br>4th International Conference on Advances in Materials and Manufacturing Technology </p> 
+	                  </li>-->
+								                     
+	                  <li>
+	                  	<h3><a href="https://www.chitkara.edu.in/events/chitkara-university-ranked-14th-in-private-deemed-university-by-digital-learning-magazine/" title="Chitkara University ranked 14th, in &#8216;Private &#038; Deemed University&#8217; by Digital Learning Magazine">Chitkara University ranked 14th, in &#8216;Private &#038; Deemed University&#8217; by Digital Learning Magazine</a> </h3>
+	                    <p>Chitkara University has been Ranked &#8216;One of the Best University in North&#8230;</p>
+						<img width="270" height="155" src="https://www.chitkara.edu.in/wp-content/uploads/2019/03/Spotlight-DL-Ranking.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/03/Spotlight-DL-Ranking.jpg 270w, https://www.chitkara.edu.in/wp-content/uploads/2019/03/Spotlight-DL-Ranking-228x130.jpg 228w" sizes="(max-width: 270px) 100vw, 270px" />	                  </li>
+	                 <!-- <li><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara_university_spotlight.jpg" alt="" title="">
+	                  	<h3>International conference on AMMT </h3>
+	                    <p>October 10 – 11, 2014<br>4th International Conference on Advances in Materials and Manufacturing Technology </p> 
+	                  </li>-->
+								 	                </ul>
+	                <div class="in-the-press-btn">
+	            		<a href="https://www.chitkara.edu.in/events/">Read all Spotlight >></a>
+	            	</div>
+                </div>
+			</div>
+			<div class="col-md-3 newsmac">
+				<div class="newspanel bgf7">
+					<div class="cutimes">
+						<a href="https://www.chitkara.edu.in/cu-times/"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/cu-times-logo.png" alt="cu-times-logo" title="cu-times-logo" width="140" height="41" /></a>
+					<span>28-03-2019</span>
+					</div>
+					<ul class="newslist">
+						                                <li>
+	                                	<a href="https://www.chitkara.edu.in/news/me-batch-2016-students-voice-thoughts-on-social-issues-present-brilliant-theatrical-interpretations/">ME Batch 2016 students &#8216;voice&#8217; thoughts on social issues, present brilliant theatrical interpretations</a>
+	                                </li>
+                                	                                <li>
+	                                	<a href="https://www.chitkara.edu.in/news/nss-volunteers-of-chitkara-celebrate-holi-spread-love-affection/">NSS Volunteers of Chitkara celebrate Holi, spread &#8216;love &#038; affection&#8217;</a>
+	                                </li>
+                                	                                <li>
+	                                	<a href="https://www.chitkara.edu.in/news/cshs-students-mark-world-optometry-day-with-expert-talk-cultural-show/">CSHS students mark World Optometry Day with expert talk, cultural show</a>
+	                                </li>
+                                					</ul>	
+					<div class="in-the-press-btn-news">	
+                    <a href="https://www.chitkara.edu.in/cu-times/">More News on CU Times>> </a>
+                    </div>
+					<!--<div class="featured">
+					<h3>featured programs</h3>
+						<ul>
+						<li><a href="https://www.chitkara.edu.in/pdf/health-science.pdf" target="blank">M.Sc (MLT) & M.Sc (MIT)</a></li>
+						<li><a href="https://www.chitkara.edu.in/mba/health-information-technology/">MBA in Healthcare Information Technology with Frost & Sullivan</a></li>
+						</ul>
+					</div>-->
+					
+					<div class="in-the-press-ad">
+	            		<!--<a href="https://www.chitkara.edu.in/cfec/" target="_blank"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/CU_CFEC.gif" width="272px" height="73px"></a>-->
+						<a href="https://www.chitkara.edu.in/polytechnic/" target="_blank"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara-polytecnic.gif" width="272px" height="73px"></a>
+	            	</div>
+				</div>
+				
+			</div>
+			<div class="col-md-3">
+				<div class="quicklinkspanel">
+	<div class="admissionstxt"><a href="https://www.chitkara.edu.in/admissions/"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/Admissions-2019.jpg" width="252" height="55" alt="admission-2019" title="admission-2019"></a></div>
+	<ul class="quicklink">
+		<li>
+			<a href="https://www.chitkara.edu.in/cbs">MBA</a> <a href="https://www.chitkara.edu.in/mba/marketing">(Mktg</a> | 
+			<a href="https://www.chitkara.edu.in/mba/finance-banking">Finance</a> | 
+			<a href="https://www.chitkara.edu.in/mba/human-resource-management">HR</a> | 
+			<a href="https://www.chitkara.edu.in/mba/supply-chain-management">Logistics</a>) 
+		</li>
+		
+		<li>
+			<a href="https://www.chitkara.edu.in/cbs">MBA</a> (<a href="https://www.chitkara.edu.in/mba/healthcare/">Healthcare</a> |
+			<a href="https://www.chitkara.edu.in/mba/health-information-technology/">Health IT</a> | 
+			<a href="https://www.chitkara.edu.in/mba/business-analytics/">Analytics</a>)
+		</li>
+		
+		<li>
+			<a href="https://www.chitkara.edu.in/cbs">MBA Sales</a> (<a href="https://www.chitkara.edu.in/mba/sales-retail-marketing/">Retail</a> | 
+			<a href="https://www.chitkara.edu.in/mba/pharmaceutical/">Pharma</a> | 
+			<a href="https://www.chitkara.edu.in/mba/banking-financial-services-insurance/">BFSI </a> )
+		</li>
+		
+		<li>
+			<a href="https://www.chitkara.edu.in/engineering">B.E.</a> <a href="https://www.chitkara.edu.in/engineering/computer-science-engineering/">(CSE</a> | 
+			<a href="https://www.chitkara.edu.in/engineering/civil-engineering/">Civil</a> | 
+			<a href="https://www.chitkara.edu.in/engineering/electronics-communication-engineering">ECE</a> |
+			<a href="https://www.chitkara.edu.in/engineering/electronics-computer-engineering/">ECS</a> | 
+			<a href="https://www.chitkara.edu.in/engineering/electrical-engineering/">EE</a> | 
+			<a href="https://www.chitkara.edu.in/engineering/mechanical-engineering/">Mech</a>)
+		</li>
+		
+		<li>
+			<a href="https://www.chitkara.edu.in/csbas/4-year-b-sc-agriculture/">B. Sc Agriculture</a> |  
+			<a href="https://www.chitkara.edu.in/csbas/4-year-b-sc-agriculture/">Applied Sciences</a>
+		</li>			
+		<li>
+			<a href="https://www.chitkara.edu.in/bca/">BCA</a> | 
+			<a href="https://www.chitkara.edu.in/engineering/mca/">MCA</a> | 
+			<a href="https://www.chitkara.edu.in/bca-mca-integrated/">Integrated BCA-MCA</a> 
+		</li>		
+		<li>
+			<a href="https://www.chitkara.edu.in/bba">BBA</a> | 
+			<a href="https://www.chitkara.edu.in/bcom">B. Com</a>
+		</li>
+		<li><a href="https://www.chitkara.edu.in/architecture/">Architecture</a> | 
+			<a href="https://www.chitkara.edu.in/arts/b-des-interior-design/">Interior Design</a> |
+			<a href="https://www.chitkara.edu.in/arts/b-des-visual-communication/">Visual Arts</a>
+		</li>	
+		<li>
+			<a href="https://www.chitkara.edu.in/arts/bachelor-fine-arts-bfa/">Fine Arts</a> | 
+			<a href="https://www.chitkara.edu.in/arts/b-sc-animation/">Animation</a> | 
+			<a href="https://www.chitkara.edu.in/arts/b-des-game-design/">Game Design</a> | 
+			<a href="https://www.chitkara.edu.in/arts/b-des/">UX</a> 
+		</li>	
+		<li>
+			<a href="https://www.chitkara.edu.in/ihm">Hotel Management</a> | 
+			<a href="https://www.chitkara.edu.in/culinary-arts/">Culinary Arts</a> | 
+			<a href="https://www.chitkara.edu.in/culinary-arts/b-sc-culinary-arts/specialisation-bakery-pastry-art-management/">Baking</a>
+		</li>
+		<li>
+			<a href="https://www.chitkara.edu.in/chitkara-school-of-mass-communication/">Journalism</a> |
+			<a href="https://www.chitkara.edu.in/arts/photography-visual-arts/">Photography</a>
+		</li>	
+		<li>
+			<a href="https://www.chitkara.edu.in/pharmacy">Pharmacy</a> 
+			<a href="https://www.chitkara.edu.in/pharmacy/b-pharm">(B.Pharm</a> | 
+			<a href="https://www.chitkara.edu.in/pharmacy/m-pharm">M.Pharm</a> | 
+			<a href="https://www.chitkara.edu.in/pharm-d/">Pharm.D)</a></li>
+		<li>
+			<a href="https://www.chitkara.edu.in/healthscience">Allied Healthcare </a> 
+			( <a href="https://www.chitkara.edu.in/healthscience/b-sc-mlt-with-fortis">MLT</a> | 
+			<a href="https://www.chitkara.edu.in/b-sc-mit-fortis-healthcare/">MIT</a> | 
+			<a href="https://www.chitkara.edu.in/b-sc-ott-fortis-healthcare/">OTT</a> | 
+			<a href="https://www.chitkara.edu.in/healthscience/b-sc-dialysis-therapy-fortis-healthcare/">DT</a>)
+		</li>		
+		<li>
+			<a href="https://www.chitkara.edu.in/healthscience/bachelor-physiotherapy/">Physiotherapy</a> | 
+			<a href="https://www.chitkara.edu.in/healthscience/bachelor-occupational-therapy/">Occupation Therapy</a>
+		</li>		
+		<li>
+			<a href="https://www.chitkara.edu.in/healthscience/b-sc-nursing-with-fortis/">Nursing </a> | 
+			<a href="https://www.chitkara.edu.in/healthscience/b-optometry-with-sankara">Optometry </a>
+		</li>		
+		<li><a href="https://www.chitkara.edu.in/education/b-ed">Teacher Training (B.Ed)</a></li>	
+		<li><a href="https://www.chitkara.edu.in/doctoral-program/">Doctoral Programs</a></li>
+		<li>
+			<a class="redtxt" href="https://www.chitkara.edu.in/admissions/international-students/"><b>For International Students</b></a>
+		</li>
+	</ul>
+</div>
+						</div>
+			<div class="col-md-3">
+				<div class="eventspanel bgf7">
+	<style>
+.g-recaptcha {margin: 0px;}	
+.ui-helper-hidden-accessible{display:none;}
+.ui-menu{z-index:100;}
+</style>
+<script>
+
+function getGetInTouchValidate()
+        {
+           var x = trim(document.getElementById('your-name').value);
+           var y = trim(document.getElementById('tel-426').value);
+		   var z = trim(document.getElementById('email').value);
+           
+		   document.getElementById('btnL').style.display=''; 
+		   document.getElementById('btnS').style.display='none';
+		   document.getElementById('err1').style.display='none';
+		   document.getElementById('err3').style.display='none';
+		   document.getElementById('err2').style.display='none';
+		   document.getElementById('err4').style.display='none';
+
+		   var regex = /^[a-zA-Z. ]*$/;
+		   if (x=='') {
+			  document.getElementById('err1').innerHTML='Required';
+			  document.getElementById('err1').style.display='';
+			   document.getElementById('btnL').style.display='none'; 
+			  document.getElementById('btnS').style.display='';
+			  document.getElementById('your-name').focus();
+            
+           }
+           else if (!regex.test(x)) {
+			  document.getElementById('err1').innerHTML='Invalid Name';
+			  document.getElementById('err1').style.display='';
+			  document.getElementById('btnS').style.display='';
+			  document.getElementById('btnL').style.display='none'; 
+			  document.getElementById('your-name').focus();
+            
+           }
+           if (y=='') {
+  			  document.getElementById('err2').innerHTML='Required';
+			  document.getElementById('err2').style.display='';
+			  document.getElementById('btnS').style.display='';
+			  document.getElementById('btnL').style.display='none'; 
+			  document.getElementById('tel-426').focus();
+             
+           }
+           else if(isNaN(y)||y.indexOf(" ")!=-1)
+           {
+			  document.getElementById('err2').innerHTML='Enter numeric value';
+			  document.getElementById('err2').style.display='';
+			  document.getElementById('btnS').style.display='';
+			  document.getElementById('btnL').style.display='none'; 
+			  document.getElementById('tel-426').focus();
+              
+           }
+           /*
+		   else if (y.length<10)
+           {
+	 		   document.getElementById('err2').innerHTML='Invalid Mobile Number';
+			   document.getElementById('err2').style.display='';
+			   document.getElementById('tel-426').focus();
+             
+           }
+           else if (y.charAt(0)!="9" && y.charAt(0)!="8" && y.charAt(0)!="7")
+           {
+               	document.getElementById('err2').innerHTML='Invalid Mobile Number';
+	 		    document.getElementById('err2').style.display='';
+				document.getElementById('tel-426').focus();				
+                
+           }
+		   */	
+			if(z!='') {
+			  if(!ValidateEmail(z)) {
+				document.getElementById('err4').innerHTML='Invalid Email Id';
+			    document.getElementById('err4').style.display='';
+				document.getElementById('btnS').style.display='';
+				document.getElementById('btnL').style.display='none'; 
+			    document.getElementById('email').focus(); 
+			  } 
+		   }
+	
+			
+		   if(document.getElementById('err1').style.display=='none'  && document.getElementById('err2').style.display=='none') {
+			  document.getElementById('btnL').style.display=''; 
+			  if(document.getElementById('turl').value=='facebook') {
+				fbq('track', 'Lead');
+			  }
+              document.getElementById('frmMail').submit();
+		   }
+        }
+</script>
+		
+<div class="form-home">
+    <h2>Get in Touch With Us</h2>
+	<div class="contact-t-line"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/contact-t-line.png"></div>
+	<script src='https://www.google.com/recaptcha/api.js'></script>	
+    <form  method="post" name="frmMail" id="frmMail" target = 'uploadTargetAdd' action="https://www.chitkara.edu.in/wp-content/themes/chitkara/esend.php" class="getintouchForm" style="position:relative;">
+	     
+		<input type="hidden" value="" name="utm_source" id="utm_source" readonly />
+		<input type="hidden" value="" name="utm_medium" id="utm_medium" readonly />
+		<input type="hidden" value="" name="utm_campaign" id="utm_campaign" readonly />
+		<input type="hidden" value="" name="utm_term" id="utm_term" readonly />
+		<input type="hidden" value="" name="utm_content" id="utm_content" readonly />
+		
+        <input type="hidden" value="/" name="turl" id="turl" readonly />
+		<input type="hidden" value="/hospitalityl-marketing/-communication/" name="url" id="url" readonly />
+	    <iframe id="uploadTargetAdd" name="uploadTargetAdd" style="width:0px;height:0px;border:0px solid #fff;"></iframe>
+		<div style="position:relative; float:left; width:100%;">
+			<!--<label>YOUR NAME</label>-->
+			<input name="your-name" onkeyup="document.getElementById('err4').style.display='none';document.getElementById('err3').style.display='none';document.getElementById('err1').style.display='none';" placeholder="NAME*"
+			id="your-name" value="" aria-required="true" type="text" size="40">
+			<div id='err1' style="display:none" class="errorhm"></div>
+		</div>
+		<div style="position:relative; float:left; width:100%;">
+			<!--<label>YOUR MOBILE NUMBER</label>-->
+			<input name="tel-426" id="tel-426"  onkeyup="document.getElementById('err4').style.display='none';document.getElementById('err3').style.display='none';document.getElementById('err2').style.display='none';" value="" placeholder="MOBILE NUMBER*"
+			size="40" maxlength="10" aria-required="true" type="tel"  class="mobIcon1">
+			<div id='err2' style="display:none" class="errorhm"></div>
+		</div>
+		<div style="position:relative; float:left; width:100%;">
+			<!--<label>YOUR EMAIL ID</label>-->
+			<input name="email" id="email"  onkeyup="document.getElementById('err4').style.display='none';document.getElementById('err3').style.display='none';document.getElementById('err2').style.display='none';" value="" size="40" aria-required="true" type="email" placeholder="EMAIL ID" class="emailIcon1">
+			<div id='err4' style="display:none" class="errorhm"></div>
+		</div>
+		
+		<div style="position:relative; float:left; width:100%;">
+			<!--<label>SELECT PROGRAM</label>-->
+			<select name="program" value="" id="program" class="proIcon"  style="color:#757575">
+				<option selected="selected" value="">&nbsp; SELECT PROGRAM</option>
+				<option value="Animation / Game Design">&nbsp; Animation / Game Design</option>
+				<option value="M. Des UX Design">&nbsp; M. Des UX Design</option>
+				<option value="Architecture">&nbsp; Architecture</option>
+				<option value="B. Ed">&nbsp; B. Ed</option>
+				<option value="B.Com">&nbsp; B.Com</option>
+				<option value="B.Pharm/M.Pharm">&nbsp; B.Pharm/M.Pharm</option>
+				<option value="BBA">&nbsp; BBA</option>
+				<option value="BCA">&nbsp; BCA /MCA</option>
+				<option value="BPT/MPT">&nbsp; BPT/MPT</option>
+				<option value="Culinary/Bakery">&nbsp; Culinary / Bakery</option>
+				<option value="Doctoral Programs">&nbsp; Doctoral Programs</option>
+				<option value="Engineering (B.E.) Programs">&nbsp; Engineering</option>
+				<option value="Engineering lateral entry">&nbsp; Engineering (Lateral Entry)</option>
+				<option value="Fine Arts">&nbsp; Fine Arts / Visual Communication </option>
+				<option value="Hotel Management">&nbsp; Hotel Management</option>
+				<option value="Interior Design">&nbsp; Interior Design</option>
+				<option value="Mass Communication">&nbsp; Mass Communication</option>
+				<option value="Photography Visual Arts">&nbsp; Photography & Visual Arts</option>
+				<option value="MBA">&nbsp; MBA</option>
+				<option value="MLT/MIT/OTT/DTT">&nbsp; MLT/MIT/OTT/DTT</option>
+				<option value="Nursing">&nbsp; Nursing</option>
+				<option value="Optometry">&nbsp; Optometry</option>
+				<option value="Agriculture">&nbsp; B.Sc Agriculture</option>
+			</select>
+		</div>
+		
+	
+		<div style="position:relative; float:left; width:100%;">
+			<input type="text" id="stateGet" name="state" placeholder="STATE" />
+		</div>
+		<div style="position:relative; float:left; width:100%; display:none;">
+			<!--<label>YOUR NAME</label>-->
+			<input name="city" onkeyup="document.getElementById('err4').style.display='none';document.getElementById('err3').style.display='none';document.getElementById('err1').style.display='none';" placeholder="CITY"
+			id="City" value="" aria-required="true" type="text" size="40">
+			<div id='err1' style="display:none" class="errorhm"></div>
+		</div>
+		<div style="position:relative; float:left; width:100%; margin-top:20px;">
+			<div class="g-recaptcha" data-sitekey="6LcZIyATAAAAAEn2kh7pKjqKJ9G6JiAlxlPbdtzh"></div>	
+		</div>
+    	<input value="Send" type="button" onClick="getGetInTouchValidate(); return false;" id='btnS' class="button_send">
+		<div id='btnL' style='display:none'><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/fancybox_loading.gif"></div>
+    	<div id='err3' style="display:none" class="success-form"></div>
+    </form>
+</div>
+
+
+
+
+
+   
+	<!--<div class="important-links clr">	
+		<a href="https://www.chitkara.edu.in/jeesprint/" target="blank">
+		<img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/jee-sprint-banner.jpg"/>	
+		<a href="https://www.chitkara.edu.in/jeesprint/" target="blank"><h4>Start your JEE preparation now!!</h4></a>	
+		</a>
+		<a href="http://arts.chitkara.edu.in/" target="blank">
+		<img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/art&design-banner.jpg"/>	
+		<a href="https://www.chitkara.edu.in/counseling-schedule-for-engineering-programs-2016" target="blank">
+		<img width="255" height="85" src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/counselling-img.png"/></a>
+		<a href="https://www.chitkara.edu.in/microsite" target="blank">
+	-->
+		<!--<a class="form_sales" href="https://chitkara.edu.in/pdf/2017/brochure/lateral-entry-first-year.pdf" target="blank">
+		<div class="adbtn clr">			
+			<h2>important notice</h2>
+			<h3>Admission to<br>first year(Second Semester) of<br><span>Engineering Program 2017-18</span><h2>
+		</div>
+		</a>-->
+		<!--
+		
+		<a class="form_sales" href="https://www.chitkara.edu.in/admissions/availability-forms/" target="blank">
+		<div class="adbtn1 clr">
+			<h2>Buy application form<br>from book stores near you</h2>
+		</div></a>	
+		
+		<a href="https://www.chitkara.edu.in/welcomekit">
+		<div class="adbtn3 clr">
+		<h2>Orientation Schedule 2017</h2>
+		</div>
+		</a>
+		-->
+		
+</div><!--eventspanel-->
+			</div>
+		</div>		
+	</div>
+</div>
+   
+<script type="text/javascript" src="https://www.chitkara.edu.in/?w3tc_minify=4dd1e.js"></script>
+
+<div class="cbs_block">
+	 <div class="container">
+		<div class="row">
+			<div class="col-md-5">
+				<div class="cbs_img_block">
+					<img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/cbs-begins-new.png">
+				</div>
+			</div>
+			<div class="col-md-7">
+				<!--<div class="cbs_txt">
+					<h2>Chitkara<span> Business<br>School</span></h2>
+				</div>-->
+				<div class="cbs_mid_txt1">
+					<div class="aplus">
+						<img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/A+-image.png">
+					</div>
+					<p>110 companies recruited our MBA graduates this year with the highest annual package of Rs.&nbsp;32 lakh and average package being Rs.&nbsp;6 lakh<br/><br/>
+					Consistently ranked very high by NIRF | Business&nbsp;Standard | Business&nbsp;World | Business&nbsp;Today | Career&nbsp;360 | Assocham | Academic&nbsp;Insights | Asia&nbsp;INC&nbsp;500</p>
+				</div>
+				<div class="clr"></div>
+				<div class="cbsProList">
+					<h3 class="mba_prog">
+						<a href="https://www.chitkara.edu.in/mba">2-Year Full Time MBA Programs</a>
+					</h3>
+					<ul class="cbsProLHead1">
+						<li><a href="https://www.chitkara.edu.in/mba/marketing">Marketing</a> | <a href="https://www.chitkara.edu.in/mba/finance-banking"> Finance & Banking </a> | <a href="https://www.chitkara.edu.in/mba/human-resource-management">HR</a> | <a href="https://www.chitkara.edu.in/mba/business-analytics/">Business Analytics</li>
+						<li><a href="https://www.chitkara.edu.in/mba/supply-chain-management">Supply Chain & Logistics with Safeducate</a></li>
+						<li><a href="https://www.chitkara.edu.in/mba/financial-markets-practice/">Financial Markets in collaboration with Bombay Stock Exchange (BSE)</a></li>
+						<li><a href="https://www.chitkara.edu.in/mba/healthcare/">Healthcare with Fortis Healthcare</a> |	<a href="https://www.chitkara.edu.in/mba/health-information-technology/">Healthcare IT with Frost & Sullivan</a></li>
+						<li><a href="https://www.chitkara.edu.in/mba/sales-retail-marketing/">Sales with specialisation in Retail</a> | <a href="https://www.chitkara.edu.in/mba/pharmaceutical/"> Pharma Management </a> | <a href="https://www.chitkara.edu.in/mba/banking-financial-services-insurance/">BFSI</a></li>
+					</ul>
+						<h3 class="mba_prog"><a href="https://www.chitkara.edu.in/cbs">3-Year Full Time Undergraduate Programs</a></h3>
+					<ul class="cbsProLHead1">
+					<li><a href="https://www.chitkara.edu.in/bba">BBA</a> | <a href="https://www.chitkara.edu.in/bcom">B.Com</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	 </div>
+	 
+	<div class="cbs-marq clr">	
+<script type="text/javascript">
+marqueeInit({
+	uniqueid: 'mycrawler',
+	style: {
+		'width': '100%',		
+	},
+	inc: 5, //speed - pixel increment for each iteration of this marquee's movement
+	mouse: 'cursor driven', //mouseover behavior ('pause' 'cursor driven' or false)
+	moveatleast: 2,
+	neutral: 150,
+	persist: true,
+	savedirection: true
+});
+</script>
+
+
+
+				<div class="client_logo">
+					<div class="item">
+						<img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/cbs-hm/2019/citibank-logo.png" title="Citibank" alt="Citibank"class="img-fluid" height="72" width="278"></div>
+					<div class="item">
+						<img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/cbs-hm/2019/deloitte-logo.png" title="deloitte" alt="deloitte"class="img-fluid" height="72" width="278"></div>
+					<div class="item">
+						<img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/cbs-hm/2019/itc-logo.png" title="ITC" alt="ITC" class="img-fluid" height="72" width="278"></div>
+					<div class="item">
+						<img src="https://www.chitkara.edu.in/wp-content/themes/chi

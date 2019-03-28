@@ -245,6 +245,42 @@ char* load_file(char const* path)
 
     return buffer;
 }
+void putInList(char **links) {
+    struct LinkList *obj, *listHeadPtr;
+    listHead = (struct LinkList*)malloc(sizeof(struct LinkList));
+    listHeadPtr = listHead;
+    listHeadPtr->url = links[0];
+    listHeadPtr->next = 0;
+    for(int i = 2;i<101;i++) {
+
+        obj = (struct LinkList*)malloc(sizeof(struct LinkList));
+        //obj->url = (char*)malloc(sizeof(char) * 1000);
+        obj->url = links[i];
+        obj->next = 0;
+        listHeadPtr->next = obj;
+        listHeadPtr = listHeadPtr->next;
+    }
+}
+int linkcount=0;
+void get_eachpage(char url[100]){
+  char fileName[25]="/link";
+  char count[5];
+
+  sprintf(count,"%d",linkcount);
+  //printf("%s\n", fileName);
+  //sscanf(linkcount,"%s",&count);
+  strcat(fileName,count);
+  strcat(fileName,".txt ");
+  char urlBuffer[urlLength + 300] = {0};
+  strcat(urlBuffer, "wget -O ./");
+  strcat(urlBuffer,"Links");
+  strcat(urlBuffer, fileName);
+  strcat(urlBuffer, url);
+  printf("%s\n",urlBuffer );
+  system(urlBuffer);
+  linkcount++;
+
+}
 void get_Page(char *url,char* argv[])  // function to fetch url from user and contact in urlBuffer and fetch page source code and add it to temp file
 {
   char urlBuffer[urlLength + 300] = {0};
@@ -260,6 +296,7 @@ void get_Page(char *url,char* argv[])  // function to fetch url from user and co
   char *result;
 
   int ans=0;
+
   char **links;
   links=(char **)malloc(sizeof(char *)*101);
   for(int i=0;i<100;i++){
@@ -297,6 +334,13 @@ void get_Page(char *url,char* argv[])  // function to fetch url from user and co
 
 for(int i=0;i<l;i++){
   printf("\n%s",links[i]);
+
+  }
+  putInList(links);
+  while(listHead->next != 0) {
+      //printf("%s\n", listHead->url);
+      get_eachpage(listHead->url);
+      listHead = listHead->next;
 }
 //now there are 100 unique links in array named 'links'
 
@@ -320,7 +364,7 @@ void Check_Arguments(int argc,char* argv[])  // function to check whether all ar
         }
 }
 char* convertDataInStr(char *fileName) {
- 
+
     struct stat st;
     stat(fileName, &st);
     int fileSize = st.st_size, i = 0;
@@ -332,42 +376,19 @@ char* convertDataInStr(char *fileName) {
         ch = getc(file);
         i++;
     }
-    
+
     fileContent[i] = '\0';
 //    fclose(file);
     return fileContent;
 }
-void putInList(char **links) {
-    struct LinkList *obj, *listHeadPtr;
-    listHead = (struct LinkList*)malloc(sizeof(struct LinkList));
-    listHeadPtr = listHead;
-    listHeadPtr->url = links[0];
-    listHeadPtr->next = 0;
-    for(int i = 1;i<100;i++) {
-    
-        obj = (struct LinkList*)malloc(sizeof(struct LinkList));
-        //obj->url = (char*)malloc(sizeof(char) * 1000);
-        obj->url = links[i];
-        obj->next = 0;
-        listHeadPtr->next = obj;
-        listHeadPtr = listHeadPtr->next;
-    }
-}
+
 
 int main(int argc,char* argv[])
 {
     Check_Arguments(argc,argv);
     get_Page(argv[1],argv);
-    char *fileContent = convertDataInStr("htmlIntxt.txt");
+    //char *fileContent = convertDataInStr("htmlIntxt.txt");
     int pos = 0;
-    char **links = (char**) malloc(sizeof(char*) * 100);
-    for(int i = 0;i<100;i++) {
-        links[i] = (char*)malloc(sizeof(char)*100);
-        pos = GetNextURL(fileContent, argv[1], links[i], pos);
-    }
-    putInList(links);
-    while(listHead->next != 0) {
-        printf("%s\n", listHead->url);
-        listHead = listHead->next;
-    }
+    //printf("asd\n");
+
 }
