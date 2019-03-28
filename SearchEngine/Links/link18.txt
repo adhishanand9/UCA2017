@@ -275,8 +275,8 @@ $(window).scroll(function() {
 		<input type="hidden" value="" name="m_utm_term" id="m_utm_term" readonly />
 		<input type="hidden" value="" name="m_utm_content" id="m_utm_content" readonly />
 		
-        <input type="hidden" value="/" name="m_turl" id="m_turl" readonly="readonly" />
-		<input type="hidden" value="/" name="m_url" id="m_url" readonly />
+        <input type="hidden" value="/pharmacyityl-marketing/-communication/" name="m_turl" id="m_turl" readonly="readonly" />
+		<input type="hidden" value="/pharmacyityl-marketing/-communication/" name="m_url" id="m_url" readonly />
  <div class="mobCodeGen">
 		<div class="closediv"><a href="" onClick="document.getElementById('chk1c').style.display='none';document.getElementById('mobileSimplediv').style.display='none'; return false;">X</a></div>
 	    <div class="mobCodeGenTopLbl">
@@ -1297,7 +1297,7 @@ function getGetInTouchValidate()
 		<input type="hidden" value="" name="utm_content" id="utm_content" readonly />
 		
         <input type="hidden" value="/" name="turl" id="turl" readonly />
-		<input type="hidden" value="/" name="url" id="url" readonly />
+		<input type="hidden" value="/pharmacyityl-marketing/-communication/" name="url" id="url" readonly />
 	    <iframe id="uploadTargetAdd" name="uploadTargetAdd" style="width:0px;height:0px;border:0px solid #fff;"></iframe>
 		<div style="position:relative; float:left; width:100%;">
 			<!--<label>YOUR NAME</label>-->
@@ -2467,9 +2467,9 @@ s.parentNode.insertBefore(b, s);})();
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 364/576 objects using disk
+Object Caching 443/482 objects using disk
 Page Caching using disk: enhanced 
 Minified using disk
 
-Served from: www.chitkara.edu.in @ 2019-03-28 05:00:06 by W3 Total Cache
+Served from: www.chitkara.edu.in @ 2019-03-28 05:00:48 by W3 Total Cache
 -->

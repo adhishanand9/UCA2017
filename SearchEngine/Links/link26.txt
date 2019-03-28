@@ -30,17 +30,17 @@
 				 fjs.parentNode.insertBefore(js, fjs);
 			   }(document, 'script', 'facebook-jssdk'));</script>
 <!-- This site is optimized with the Yoast SEO plugin v9.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<title>Campus Infrastructure - Chitkara University</title>
-<meta name="description" content="Chitkara University Punjab campus provides comfortable hostel facilities separately for boys and girls. All rooms in the hostels have Internet connections. The pollution-free environment adds to the healthy living conditions on the campus."/>
-<link rel="canonical" href="https://www.chitkara.edu.in/overview/campus-infrastructure/" />
+<title>ECE Colleges in Chandigarh and Punjab - Chitkara University</title>
+<meta name="description" content="Chitkara University is the best and reputed electronics and communication engineering colleges in Punjab and Chandigarh."/>
+<link rel="canonical" href="https://www.chitkara.edu.in/engineering/electronics-communication-engineering" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Campus Infrastructure - Chitkara University" />
-<meta property="og:description" content="Chitkara University Punjab campus provides comfortable hostel facilities separately for boys and girls. All rooms in the hostels have Internet connections. The pollution-free environment adds to the healthy living conditions on the campus." />
-<meta property="og:url" content="https://www.chitkara.edu.in/overview/campus-infrastructure/" />
-<meta property="article:section" content="main" />
-<meta property="og:image" content="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Infrastructure_Banner.jpg" />
-<meta property="og:image:secure_url" content="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Infrastructure_Banner.jpg" />
+<meta property="og:title" content="ECE Colleges in Chandigarh and Punjab - Chitkara University" />
+<meta property="og:description" content="Chitkara University is the best and reputed electronics and communication engineering colleges in Punjab and Chandigarh." />
+<meta property="og:url" content="https://www.chitkara.edu.in/engineering/electronics-communication-engineering" />
+<meta property="article:section" content="engineering" />
+<meta property="og:image" content="https://www.chitkara.edu.in/wp-content/uploads/2019/02/ELECTRONICS-COMMUNICATION1.jpg" />
+<meta property="og:image:secure_url" content="https://www.chitkara.edu.in/wp-content/uploads/2019/02/ELECTRONICS-COMMUNICATION1.jpg" />
 <meta property="og:image:width" content="1900" />
 <meta property="og:image:height" content="645" />
 <!-- / Yoast SEO plugin. -->
@@ -51,7 +51,7 @@
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://www.chitkara.edu.in/feed/" />
 <link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="https://www.chitkara.edu.in/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title=" &raquo; Campus Infrastructure Comments Feed" href="https://www.chitkara.edu.in/overview/campus-infrastructure/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; ELECTRONICS &#038; COMMUNICATION ENGINEERING Comments Feed" href="https://www.chitkara.edu.in/engineering/electronics-communication-engineering/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.chitkara.edu.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.2"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -91,9 +91,9 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.chitkara.edu.in/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.chitkara.edu.in/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.0.2" />
-<link rel='shortlink' href='https://www.chitkara.edu.in/?p=131' />
-<link rel="alternate" type="application/json+oembed" href="https://www.chitkara.edu.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chitkara.edu.in%2Foverview%2Fcampus-infrastructure%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.chitkara.edu.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chitkara.edu.in%2Foverview%2Fcampus-infrastructure%2F&#038;format=xml" />
+<link rel='shortlink' href='https://www.chitkara.edu.in/?p=541' />
+<link rel="alternate" type="application/json+oembed" href="https://www.chitkara.edu.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chitkara.edu.in%2Fengineering%2Felectronics-communication-engineering" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.chitkara.edu.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chitkara.edu.in%2Fengineering%2Felectronics-communication-engineering&#038;format=xml" />
     <script type="text/javascript">
         var imgpath = "https://www.chitkara.edu.in/wp-content/plugins/tz-plus-gallery/";
     </script>
@@ -283,8 +283,8 @@ $(window).scroll(function() {
 		<input type="hidden" value="" name="m_utm_term" id="m_utm_term" readonly />
 		<input type="hidden" value="" name="m_utm_content" id="m_utm_content" readonly />
 		
-        <input type="hidden" value="/overview/campus-infrastructure/" name="m_turl" id="m_turl" readonly="readonly" />
-		<input type="hidden" value="/overview/campus-infrastructure/" name="m_url" id="m_url" readonly />
+        <input type="hidden" value="/engineering/electronics-communication-engineering" name="m_turl" id="m_turl" readonly="readonly" />
+		<input type="hidden" value="/engineering/electronics-communication-engineering" name="m_url" id="m_url" readonly />
  <div class="mobCodeGen">
 		<div class="closediv"><a href="" onClick="document.getElementById('chk1c').style.display='none';document.getElementById('mobileSimplediv').style.display='none'; return false;">X</a></div>
 	    <div class="mobCodeGenTopLbl">
@@ -355,11 +355,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="mobMenu">	
 	
 	<nav id="menu">
-		<ul id="menu-main_menu" class=""><li id="menu-item-125" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-125"><a>ABOUT US</a>
+		<ul id="menu-main_menu" class=""><li id="menu-item-125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-125"><a>ABOUT US</a>
 <ul class="sub-menu">
-	<li id="menu-item-13205" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-13205"><a href="https://www.chitkara.edu.in/overview/">Overview</a></li>
+	<li id="menu-item-13205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13205"><a href="https://www.chitkara.edu.in/overview/">Overview</a></li>
 	<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.chitkara.edu.in/overview/campus-leadership/">Campus <span>Leadership</span></a></li>
-	<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-131 current_page_item menu-item-145"><a href="https://www.chitkara.edu.in/overview/campus-infrastructure/">Campus <span>Infrastructure</span></a></li>
+	<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://www.chitkara.edu.in/overview/campus-infrastructure/">Campus <span>Infrastructure</span></a></li>
 	<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://www.chitkara.edu.in/photo-gallery/">Photo <span>Gallery</span></a></li>
 	<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://www.chitkara.edu.in/overview/campus-location/">Campus <span>Location</span></a></li>
 	<li id="menu-item-7746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7746"><a href="https://www.chitkara.edu.in/social-initiatives/">Social <span>Initiatives</span></a></li>
@@ -369,7 +369,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-55"><a>OUR INSTITUTIONS</a>
 <ul class="sub-menu">
 	<li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="https://www.chitkara.edu.in/cbs">Chitkara Business School</a></li>
-	<li id="menu-item-551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a href="https://www.chitkara.edu.in/engineering">Chitkara University Institute of Engineering &#038; Technology</a></li>
+	<li id="menu-item-551" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-551"><a href="https://www.chitkara.edu.in/engineering">Chitkara University Institute of Engineering &#038; Technology</a></li>
 	<li id="menu-item-21669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21669"><a href="https://www.chitkara.edu.in/ccae/">Chitkara College of Applied Engineering</a></li>
 	<li id="menu-item-664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-664"><a href="https://www.chitkara.edu.in/architecture">Chitkara School of Planning and Architecture</a></li>
 	<li id="menu-item-20961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20961"><a href="https://www.chitkara.edu.in/arts/">Chitkara School of <span>Art &#038; Design</span></a></li>
@@ -384,13 +384,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li id="menu-item-14882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14882"><a href="https://www.chitkara.edu.in/polytechnic/">Chitkara Polytechnic</a></li>
 </ul>
 </li>
-<li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-53"><a>UNDERGRADUATE PROGRAMS</a>
+<li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-53"><a>UNDERGRADUATE PROGRAMS</a>
 <ul class="sub-menu">
-	<li id="menu-item-179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-179"><a href="https://www.chitkara.edu.in/engineering">ENGINEERING &#038; TECHNOLOGY</a>
+	<li id="menu-item-179" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-179"><a href="https://www.chitkara.edu.in/engineering">ENGINEERING &#038; TECHNOLOGY</a>
 	<ul class="sub-menu">
 		<li id="menu-item-5319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5319"><a href="https://www.chitkara.edu.in/engineering/computer-science-engineering/">Computer Science Engineering</a></li>
 		<li id="menu-item-23273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23273"><a href="https://www.chitkara.edu.in/engineering/electronics-computer-engineering/">Electronics and Computer Engineering</a></li>
-		<li id="menu-item-5320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5320"><a href="https://www.chitkara.edu.in/engineering/electronics-communication-engineering">Electronics &#038; Comm. Engineering</a></li>
+		<li id="menu-item-5320" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-541 current_page_item menu-item-5320"><a href="https://www.chitkara.edu.in/engineering/electronics-communication-engineering">Electronics &#038; Comm. Engineering</a></li>
 		<li id="menu-item-5321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5321"><a href="https://www.chitkara.edu.in/engineering/mechanical-engineering/">Mechanical Engineering</a></li>
 		<li id="menu-item-23605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23605"><a href="https://www.chitkara.edu.in/engineering/mechatronics-engineering/">Mechatronics Engineering</a></li>
 		<li id="menu-item-17109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17109"><a href="https://www.chitkara.edu.in/engineering/electrical-engineering/">Electrical Engineering</a></li>
@@ -651,11 +651,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="container">
 				<div id="my-mega-menu-widget">		<div class="dcjq-mega-menu" id="dc_jqmegamenu_widget-8-item">
 		
-		<ul id="menu-main_menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-125"><a>ABOUT US</a>
+		<ul id="menu-main_menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-125"><a>ABOUT US</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-13205"><a href="https://www.chitkara.edu.in/overview/">Overview</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13205"><a href="https://www.chitkara.edu.in/overview/">Overview</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.chitkara.edu.in/overview/campus-leadership/">Campus <span>Leadership</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-131 current_page_item menu-item-145"><a href="https://www.chitkara.edu.in/overview/campus-infrastructure/">Campus <span>Infrastructure</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://www.chitkara.edu.in/overview/campus-infrastructure/">Campus <span>Infrastructure</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://www.chitkara.edu.in/photo-gallery/">Photo <span>Gallery</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://www.chitkara.edu.in/overview/campus-location/">Campus <span>Location</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7746"><a href="https://www.chitkara.edu.in/social-initiatives/">Social <span>Initiatives</span></a></li>
@@ -665,7 +665,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-55"><a>OUR INSTITUTIONS</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="https://www.chitkara.edu.in/cbs">Chitkara Business School</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a href="https://www.chitkara.edu.in/engineering">Chitkara University Institute of Engineering &#038; Technology</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-551"><a href="https://www.chitkara.edu.in/engineering">Chitkara University Institute of Engineering &#038; Technology</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21669"><a href="https://www.chitkara.edu.in/ccae/">Chitkara College of Applied Engineering</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-664"><a href="https://www.chitkara.edu.in/architecture">Chitkara School of Planning and Architecture</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20961"><a href="https://www.chitkara.edu.in/arts/">Chitkara School of <span>Art &#038; Design</span></a></li>
@@ -680,13 +680,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14882"><a href="https://www.chitkara.edu.in/polytechnic/">Chitkara Polytechnic</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-53"><a>UNDERGRADUATE PROGRAMS</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-53"><a>UNDERGRADUATE PROGRAMS</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-179"><a href="https://www.chitkara.edu.in/engineering">ENGINEERING &#038; TECHNOLOGY</a>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-179"><a href="https://www.chitkara.edu.in/engineering">ENGINEERING &#038; TECHNOLOGY</a>
 	<ul class="sub-menu">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5319"><a href="https://www.chitkara.edu.in/engineering/computer-science-engineering/">Computer Science Engineering</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23273"><a href="https://www.chitkara.edu.in/engineering/electronics-computer-engineering/">Electronics and Computer Engineering</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5320"><a href="https://www.chitkara.edu.in/engineering/electronics-communication-engineering">Electronics &#038; Comm. Engineering</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-541 current_page_item menu-item-5320"><a href="https://www.chitkara.edu.in/engineering/electronics-communication-engineering">Electronics &#038; Comm. Engineering</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5321"><a href="https://www.chitkara.edu.in/engineering/mechanical-engineering/">Mechanical Engineering</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23605"><a href="https://www.chitkara.edu.in/engineering/mechatronics-engineering/">Mechatronics Engineering</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17109"><a href="https://www.chitkara.edu.in/engineering/electrical-engineering/">Electrical Engineering</a></li>
@@ -860,144 +860,141 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 #breadcrumbs .separator{display:none;}
 #breadcrumbs .item-parent::before {content: "\f105";font-family: 'FontAwesome';color: #9b9b9b;display: inline-block;padding-right: .5rem; padding-left: .5rem;}
 
-.heading_txt {
-    font-size: 18px;
-    margin-top: 20px;
-}
 </style>
 <div class="clr">
 	<div class="bannerwrap">
-				<img width="1900" height="645" src="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Infrastructure_Banner.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Infrastructure_Banner.jpg 1900w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/Infrastructure_Banner-300x102.jpg 300w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/Infrastructure_Banner-768x261.jpg 768w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/Infrastructure_Banner-1024x348.jpg 1024w" sizes="(max-width: 1900px) 100vw, 1900px" />		
-	</div>
+				<img width="1900" height="645" src="https://www.chitkara.edu.in/wp-content/uploads/2019/02/ELECTRONICS-COMMUNICATION1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/02/ELECTRONICS-COMMUNICATION1.jpg 1900w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/ELECTRONICS-COMMUNICATION1-300x102.jpg 300w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/ELECTRONICS-COMMUNICATION1-768x261.jpg 768w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/ELECTRONICS-COMMUNICATION1-1024x348.jpg 1024w" sizes="(max-width: 1900px) 100vw, 1900px" />					</div>
 	
-    <div class="container-fluid single_news_wrap bdrbtm">
+   <div class="container-fluid single_news_wrap bdrbtm">
 		<div class="row">
     		<div class="col-md-8 innerpage">
-				<div class="blog_wrap" >
-					<div class="breadcrumb1"><ul id="breadcrumbs" class="breadcrumbs"><li class="item-home"><a class="bread-link bread-home" href="https://www.chitkara.edu.in" title="Home">Home</a></li><li class="item-parent item-parent-13203"><a class="bread-parent bread-parent-13203" href="https://www.chitkara.edu.in/overview/" >Overview</a></li><li class="separator separator-13203"> &gt; </li></ul></div>
-					<h2>Campus <span>Infrastructure</span></h2>
-					<div class="maincontent" id="maincontent">
-										<h3 class="stitle">In order to achieve its ambition of being a world-class education provider, Chitkara University (CU) is committed to significant enhancement of its facilities and buildings, essential for world-class research and all-round development of students. The University has an extremely modern and state-of-the-art infrastructure that goes a long way in facilitating a number of services for the students as well as the staff members.</h3>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Classrooms</h5>
-<h6><b>The place for focused learning</b></h6>
-<p>The spacious, amphitheatre-style classrooms in the University provide the most conducive atmosphere for dynamic and focused discussions. They have been designed to bring together analysis with action and are augmented with integrated audio–visual teaching aids for lectures, presentations etc. Special sessions and classes are also held on business etiquettes, negotiation skills, effective communication, leadership, teamwork and analytical skills</p>
-</div>
-<div class="col-md-3"><img class="alignnone size-full wp-image-1085" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/class1.jpg" alt="class1" width="300" height="200" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/class1.jpg 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/class1-225x150.jpg 225w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/class1-100x66.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></div>
-</div>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Auditorium</h5>
-<h6><b>A platform for interface</b></h6>
-<p>Chitkara University provides state-of-the-art conference halls with a seating capacity that act as a common ground for students, faculty and corporate personalities for regular interfaces, conferences and other events. At these platforms, you will come across various global thought leaders, academic gurus and corporate heads who will share their corporate experiences with you. For events of a smaller scale, the seminar halls, equipped with advanced presentation tools, are the ideal venue</p>
-</div>
-<div class="col-md-3"><img class="alignnone size-full wp-image-1087" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/audio.png" alt="audio" width="300" height="200" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/audio.png 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/audio-225x150.png 225w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/audio-100x66.png 100w" sizes="(max-width: 300px) 100vw, 300px" /></div>
-</div>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Laboratories</h5>
-<p>High-tech laboratories having equipments with calibrations to ISO 9001-2000 Certifications state of the art workshops and numerous work stations with licensed software play an important as part of your learning experience. Laboratories are fully equipped to meet the academic requirements as per the university curriculum. To name a few; MATLAB and Simulation &amp; Computational labs in Electrical Engineering, Microprocessor &amp; Micro Controller Lab with Keil software, Microelectronics Lab with Cadence software, VLSI with xilinx software, CADAENCE Lab, Embedded System Lab, DAEC Lab, Communication and Texas Instruments Lab and MVI Lab equipped with LabVIEW software in Electronics and Communication Engineering and CAD/CAM and Aauto Synch lab in Mechanical Engineering are have for carrying out different experiments. A Project Lab with ultra-modern facilities has also been established.</p>
-</div>
-<div class="col-md-3 col-sm-12"><img class="alignnone size-full wp-image-1088" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/labs.png" alt="labs" width="300" height="200" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/labs.png 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/labs-225x150.png 225w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/labs-100x66.png 100w" sizes="(max-width: 300px) 100vw, 300px" /></div>
-</div>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Computing Facilities</h5>
-<h6><b>Imparting knowledge in the most hi-tech environment</b></h6>
-<p>All CU campuses are inter-connected through a highly secure virtual private network, where personal computers (PC) are inter-connected to the Internet through broadband connection. All our campuses have state-of-the-art computer centres that provide computing facilities comprising of the latest computer machines linked to a wide range of software, communication and print services.<br />
-Most campuses are fully wireless and students in many programs are provided with wireless laptops to help them access the Internet anytime, anywhere. Latest software. are used to enable work on data analysis, web technologies and software designing. The intranet enables close on-line interaction between faculty and students for online interaction.</p>
-</div>
-<div class="col-md-3"><img class="alignnone size-full wp-image-1089" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/computting.png" alt="computting" width="300" height="200" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/computting.png 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/computting-225x150.png 225w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/computting-100x66.png 100w" sizes="(max-width: 300px) 100vw, 300px" /></div>
-</div>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Library Facilities</h5>
-<h6><b>The library services are the cornerstone of the education system at Chitkara University. The mission of our library services is to facilitate creation of new knowledge through acquisition, organization and dissemination of knowledge resources.</b></h6>
-<p>The libraries at each of the campuses have spacious reading halls, periodical centres, group discussion rooms and online database browsing areas.</p>
-<p>The University libraries offer a wide range of materials in a variety of formats—from traditional books and serials to films, and multimedia and networked information from around the world. Highly skilled staff assists students to use the local collections and find information on specific topics.</p>
-<p>Our libraries are a learning space where students are inspired to explore, research and create. Our libraries are not only the places to think, but also an informal work area where students gather to collaborate. Our libraries house a collection of more than 57,800 items including books, journals, microfilms, audio–visual material and CD-ROMs. Furthermore, the students have access to more than 10,000 electronic journals available online, apart from daily newspapers.</p>
-<p>The University has access to a large number of e-resources, ASCE Journals, ASME Journals, IEL online, Science Direct, EBSCO, EMERALD, SCIFINDER, SAE-Tech Papers, Indian Standards Codes, ACM, ABI / Inform Complete (PRO QUEST), Springer Link and Engineering Referex. Our libraries have a video conferencing facility and also provide classroom teaching through EDUSAT programs and NPTEL video courses in the different fields of education.</p>
-<p>For more Information please visit the website <a href="http://library.chitkara.edu.in/" target="_blank"><b>library.chitkara.edu.in</b></a></p>
-</div>
-<div class="col-md-3"><img class="alignnone size-full wp-image-1089" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/library-facilities.png" alt="computting" width="300" height="200"></div>
-</div>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Cafeteria</h5>
-<h6><b>What you eat is what you are!</b></h6>
-<p>A healthy mind can only reside in a healthy body. Hence, all cafeterias have menus that are designed by a team of professional dieticians, and offer nutritious and wholesome food to ensure a well-balanced diet. Fresh fruit juices, milkshakes, ice creams sundaes and even midnight snacks are available in these cafeteria.</p>
-</div>
-<div class="col-md-3"><img class="alignnone size-full wp-image-1090" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/cafe.png" alt="cafe" width="300" height="200" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/cafe.png 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/cafe-225x150.png 225w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/cafe-100x66.png 100w" sizes="(max-width: 300px) 100vw, 300px" /></div>
-</div>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Residential Accommodation</h5>
-<h6><b>Home away from home</b></h6>
-<p>At Chitkara University, you will be among the many students coming from all across the country to live in Chitkara residences, which come closest to being a home away from home.</p>
-<p>Separate facilities for boys and girls, caring wardens and tight security arrangements ensure a pleasant stay, allowing students to focus on academics. Internet access and subscriber trunk dialing (STD) facilities ensure close contact with family and friends outside. The common rooms are fully equipped with TV, indoor games and other recreation facilities.</p>
-</div>
-<div class="col-md-3"><img class="alignnone size-full wp-image-1091" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/rHostel1.png" alt="rHostel1" width="300" height="200" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/rHostel1.png 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/rHostel1-225x150.png 225w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/rHostel1-100x66.png 100w" sizes="(max-width: 300px) 100vw, 300px" /></div>
-</div>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Medical Facilities</h5>
-<p>A healthy body makes for a healthy mind. In order to ensure your well-being, Chitkara University has tie- ups with renowned hospitals to take care of any kind of emergency. At CU, you will be covered by a comprehensive medical insurance to meet all kinds of exigencies.</p>
-</div>
-<div class="col-md-3"><img class="alignnone size-full wp-image-1092" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/medical.png" alt="medical" width="300" height="200" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/medical.png 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/medical-225x150.png 225w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/medical-100x66.png 100w" sizes="(max-width: 300px) 100vw, 300px" /></div>
-</div>
-<div class="clr"></div>
-<h5>Banks and ATMs</h5>
-<p>There are branches of two nationalized banks—Punjab National Bank (PNB) and UCO Bank—within the campus. These banks offer ATM facilities and locker facilities, besides other regular bank services.</p>
-<div class="clr"></div>
-<h5>SCHOLARSHIP SCHEMES</h5>
-<ul class="listing">
-<li>To apply for scholarship under Post-matric Scholarship Scheme for SCs/OBCs students, please visit:<br />
-<a href="http://www.punjabscholarships.gov.in" target="blank"><b>http://www.punjabscholarships.gov.in</b></a></li>
-<li>To apply for scholarship under Scholarship Scheme for Minorities students, and Central Sector Scholarship Scheme for College and University students, please visit:<br />
-<a href="https://www.scholarships.gov.in/" target="blank"><b>https://www.scholarships.gov.in/</b></a></li>
-<li> To apply for  AICTE&#8217;s scholarship scholarship for J &amp; K students, please visit:<br />
-<a href="http://www.aicte-jk-scholarship-gov.in/" target="blank"><b>http://www.aicte-jk-scholarship-gov.in/</b></a></li>
+				<div class="blog_wrap">
+				<div class="breadcrumb1"><ul id="breadcrumbs" class="breadcrumbs"><li class="item-home"><a class="bread-link bread-home" href="https://www.chitkara.edu.in" title="Home">Home</a></li><li class="item-parent item-parent-491"><a class="bread-parent bread-parent-491" href="https://www.chitkara.edu.in/engineering" >Engineering</a></li><li class="separator separator-491"> &gt; </li></ul></div>
+				<h2><span>ELECTRONICS &#038; COMMUNICATION </span>ENGINEERING</h2>
+				
+				<div class="specialsations">
+										<div class="quickLinkAdmissions">
+						<h2><a href="/engineering/campus-recruitment/">Campus Recruitment for our Engineering Programs</a></h2>
+						<h6>ECE SPECIALISATIONS</h6>
+						<ul>
+<li><a href="/engineering/electronics-communication-engineering/specialisation-embedded-systems-internet-things-iot/">Embedded Systems and IOT</a></li>
+<li><a href="/engineering/electronics-communication-engineering/specialisation-vlsi-design/">VLSI Design</a></li>		
+</ul>					</div>
+													</div>
+				<div class="maincontent" id="maincontent">
+										<h3 class="stitle">An all-inclusive program that is developed in response to the needs of industry, and aims to produce well-rounded Electronics &amp; Communication Engineers with a high level of analytical and engineering design skills.</h3>
+										<!-- PROGRAM OVERVIEW-->
+											<div id="poverview">
+							<h5 class="mtop20">PROGRAM OVERVIEW</h5>
+							<p>Electronics &#038; Communication Engineering deals with electronic devices, circuits, communication equipment like transmitter, receiver, integrated circuits (IC). It also deals with basic electronics, analog and digital transmission &#038; reception of data, voice and video (AM, FM, DTH), microprocessors, satellite communication, microwave engineering, antennae and wave progression. </p>
+<p>The fields, Engineering and Communications, combined together prove to be a fascinating and challenging choice, with well-qualified graduates being in high demand in global industries. At Chitkara University, the course begins by providing students with an understanding of the basic principles of Electronic Engineering, whilst developing their skills in Mathematics and Computing. We aim to deepen knowledge and skills that will equip you in your professional work involving analysis, systems implementation, operation, production, and maintenance of the various applications in the field of Electronics and Communications Engineering. </p>
+						</div>
+											<!-- CAMPUS RECRUITMENT -->
+											<div id="crecruitment">
+							<h5 class="mtop20">CAMPUS RECRUITMENT</h5>
+							<p>There are many opportunities for Electronics and Communication Engineers as they can find employment in a variety of sectors such as Telecom Industries, Civil Aviation, Development Centers in various States, Defense, NPL, A.I.R, Posts and Telegraph Department, Railways, Bharat Electronics Limited, D.R.D.O, Telecommunication, Software Engineering/IT, Power sector, Hardware Manufacturing, Home Appliance and VLSI design, Television Industry and Research &#038; Development. Some industry roles include:</p>
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+<tbody>
+<tr>
+<td width="50%">
+<ul class="list5">
+<li>Service Engineer</li>
+<li>Technical Engineer</li>
+<li>Senior Sales Manager</li>
+<li>Customer Support Engineer</li>
+<li>Research &#038; Development Software Engineer</li>
 </ul>
-										
-					
-									
-					</div>
+</td>
+<td>
+<ul class="list5">
+<li>Software Analyst</li>
+<li>Field Test Engineer</li>
+<li>Network Planning Engineer</li>
+<li>Electronics &#038; Communication Consultant</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><b>Our students have obtained prestigious placements at leading companies such as Infosys, nVidia, Texas Instruments, Cadence, ARM, among others.</b></p>
+<h6 class="redtxt">Some of the major companies who recruit our graduates are:</h6>
+<p><img src="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Electronics-Communication-Engg-Logos-1.jpg" alt=""  class="img-fluid" /></p>
+						</div>
+											<!-- PROGRAM HIGHLIGHTS -->
+											<div id="program_highlights">
+							<h5 class="mtop20">PROGRAM HIGHLIGHTS</h5>
+							<p>Group design/ project work is incorporated into all modules. Final year students are mandated to be a part of a team project, within the University or outside, to facilitate hands-on learning and industry interaction. Future Engineers: </p>
+<ul class="list5">
+<li>Design and maintain satellites, which bring TV, telephone and Internet service into remote and rural regions. </li>
+<li>Create advanced communication facilities to bring people together from all over the world. </li>
+<li>Develop programs for various control and communication systems.</li>
+</ul>
+<p>In the Ist &#038; IInd year, students are given a thorough introduction to Electronics, covering the key areas of circuits and operational amplifiers. The curriculum includes basic circuit analysis skills, operational amplifiers from a theoretical and practical basis, and associated mathematical concepts and tools. In the IIIrd year, students are introduced to the propagation of high-speed signals around circuits &#038; systems, and the principles of noise within them. The year also includes in-depth study of the concepts of Signal Integrity &#038; Electromagnetic Compatibility, and the effects of not achieving EMC on system operation. </p>
+<p>In the IVth year, future engineers are involved in the entire life cycle of a product &#8211; from concept through design and computer modeling to creating the hardware device. Students get hands-on experience on projects by working in teams – taking a technical problem, capturing the requirements, creating a specification for a solution, simulating it using industry standard software tools, before final implementation in hardware.</p>
+						</div>
+											
+					<!-- ELIGIBILITY & FEES -->
+											<div id="eligibility">
+							<h5 class="mtop20 clr">Eligibility &amp; Fees</h5>
+							<h6>Eligibility</h6>
+<ul class="list5">
+<li>Class XII passed with a minimum aggregate of 60% or 60% in Physics, Chemistry and Mathematics </li>
+<li>JEE Mains 2019 (January/ April mandatory)</li>
+</ul>
+<h6>Fees</h6>
+<div class='su-table su-table-style-1'></p>
+<table border="1" width="100%" cellspacing="2" cellpadding="2">
+<tbody>
+<tr>
+<td><b>Per Semester</b></td>
+<td>Rs. 80,000</td>
+</tr>
+<tr>
+<td><b>ERP^</b></td>
+<td>Rs. 8,000</td>
+</tr>
+<tr>
+<td><b>CAS^^</b></td>
+<td>Rs. 10,000</td>
+</tr>
+</tbody>
+</table>
+<p></div>
+<p>^ERP: Only at the time of admission | Rs. 2,500 Counseling fee only at the time of allocation for B.E. programs (Non refundable)<br />
+^^CAS (Career Advancement Services): Only at the time of admission.<br />
+Rs. 2,500 towards Alumni Services has to be paid with the last installment</p>
+						</div>
+													
 				</div>
+    		</div>
 			</div>
-			<div class="col-md-4 broucher_wrap school_form">
+    		<div class="col-md-4 broucher_wrap school_form">
 				<div class="broucher_inner">
-										
-				<div id="secondary">
+				<div id="secondary">					
 					<div class="sideBarHome" >
    
-	
-<div class="sideNav">
-	<ul>
-		<li><a href="https://www.chitkara.edu.in//overview/">Overview</a></li>
-		<li><a href="https://www.chitkara.edu.in/campus-leadership/"> Campus Leadership</a></li>	
-		<li><a href="https://www.chitkara.edu.in/photo-gallery/"> Photo Gallery</a></li>
-		<li><a href="https://www.chitkara.edu.in/campus-location/"> Campus Location</a></li>
-		<li><a href="https://www.chitkara.edu.in/social-initiatives/"> Social Initiatives</a></li>
-		<li><a href="https://www.chitkara.edu.in/accreditation/">Accreditation</a></li>
-	</ul>
-</div>
-	
+	 <div class="admissionstxt">
+		<a href="https://www.chitkara.edu.in/admissions/"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/prog-offered/Engg-Programs.jpg" /></a>
+	</div>
+<div class="nav-admissions">
+<div class="heading_txt"><a href="https://www.chitkara.edu.in/engineering" class="redtxt">4 Year B. E. Programs</a></div>
 
-    
-    
-    
-    
-    
-    
+	<ul class="list2 martop10 left">
+		<li><a href="https://www.chitkara.edu.in/engineering/computer-science-engineering/">Computer Science &amp; Engineering</a></li>
+		<li><a href="https://www.chitkara.edu.in/engineering/electronics-computer-engineering/">Electronics and Computer Engineering</a></li>
+		<li><a href="https://www.chitkara.edu.in/engineering/electronics-communication-engineering">Electronics &amp; Communication Engineering</a></li>			
+		<li><a href="https://www.chitkara.edu.in/engineering/mechanical-engineering/">Mechanical Engineering</a></li>
+		<li><a href="https://www.chitkara.edu.in/engineering/mechatronics-engineering/">Mechatronics Engineering</a></li>
+		<li><a href="https://www.chitkara.edu.in/engineering/electrical-engineering/">Electrical Engineering</a></li>
+		<li><a href="https://www.chitkara.edu.in/engineering/civil-engineering/">Civil Engineering</a></li>
+	</ul>
+<div class="heading_txt" style="margin: 2px 0 12px 0; width:100%">
+	<a href="https://www.chitkara.edu.in/admissions/" class="redtxt">Other Programs</a>
+</div>
+</div>
+
+	
+	
 	
 	<div class="contactInsti">		
 		<h2>Get in Touch With Us</h2>
@@ -1115,8 +1112,8 @@ function innerValidate()
 		<input type="hidden" value="" name="utm_term" id="utm_term" readonly />
 		<input type="hidden" value="" name="utm_content" id="utm_content" readonly />
 		
-        <input type="hidden" value="/overview/campus-infrastructure/" name="turl" id="turl" readonly="readonly" />
-		<input type="hidden" value="/overview/campus-infrastructure/" name="url" id="url" readonly />
+        <input type="hidden" value="/engineering/electronics-communication-engineering" name="turl" id="turl" readonly="readonly" />
+		<input type="hidden" value="/engineering/electronics-communication-engineering" name="url" id="url" readonly />
 	    <iframe id="uploadTargetAdd" name="uploadTargetAdd" style="width:0px;height:0px;border:0px solid #fff;"></iframe>
     <p>
         <input name="your-name"  onkeyup="document.getElementById('err4').style.display='none';document.getElementById('err3').style.display='none';document.getElementById('err1').style.display='none';" id="your-name"value="" size="40" aria-required="true" placeholder="Your Name*" type="text">
@@ -1190,30 +1187,61 @@ function innerValidate()
 		</ul>
 	</div>-->
 </div>				 					<div class="quickInstit">
-							
-							<div class="quickLinkAdmissions">
+						<div class="quickLinkAdmissions">
 <h2>Quick Links</h2>
 <ul>
-		
-        <li><a href="https://chitkara.edu.in/pdf/2019/admission-procedure/chitkara_admission_procedure-2019.pdf" target="_blank">Eligibility &amp; Fees</a></li>
-        <!--<li><a href="#" onclick="blankValues('ENGG','2'); Popup.show('mobileSimplediv');return false;">Download Application Form</a></li>-->
-		<li><a href="https://chitkara.edu.in/pdf/2019/brochure/Applied_Science_Brochure_2019.pdf" target="_blank">Download Brochure</a></li>
-        <li><a href="https://www.chitkara.edu.in/admissions/downloadforms/">Download Certificate Formats</a></li>
-        <li><a href="https://www.chitkara.edu.in/admissions/admission-helpline/">Admission Helpline</a></li>
-        <li><a href="https://www.chitkara.edu.in/admissions/availability-forms/">Availability of Forms</a></li>
-		<li><a href="https://admissions.chitkara.edu.in/login" target="blank">Apply Online</a></li>
+	<!--<li><a href="https://www.chitkara.edu.in/engineering/industrypartnerships/">Industry Partnerships</a></li>
+	<li><a href="https://www.chitkara.edu.in/engineering/campus-recruitment/">Strong Campus Recruitment</a></li>
+	<li><a href="https://www.chitkara.edu.in/engineering/computer-science-engineering/program-structure/">Program Structure</a></li>-->
+	<li><a href="https://chitkara.edu.in/pdf/2019/admission-procedure/chitkara_admission_procedure-2019.pdf" target="_blank">Eligibility &amp; Fees</a></li>
+	<li><a href="#" onclick="blankValues('ENGG','2'); Popup.show('mobileSimplediv');return false;">Download Application Form</a></li>
+	<li><a href="https://chitkara.edu.in/pdf/2019/brochure/Engineering_Brochure_2019.pdf" target="_blank">Download Brochure</a></li>
+	<li><a href="https://www.chitkara.edu.in/admissions/downloadforms/">Download Certificate Formats</a></li>
+	<li><a href="https://www.chitkara.edu.in/admissions/admission-helpline/">Admission Helpline</a></li>
+	<li><a href="https://www.chitkara.edu.in/admissions/availability-forms/">Availability of Forms</a></li>
+	<li><a href="https://admissions.chitkara.edu.in/login" target="blank">Apply Online</a></li>
 </ul>
 </div>
+
+<!--<div class="quickLinkAdmissions">
+<h2>SPECIALISATIONS</h2>
+<ul>
+        <li><a href="https://www.chitkara.edu.in/engineering/electronics-communication-engineering/specialisation-embedded-systems-internet-things-iot/">Embedded Systems and IOT</a></li>
+		<li><a href="https://www.chitkara.edu.in/engineering/electronics-communication-engineering/specialisation-vlsi-design/">VLSI Design</a></li>
+		
+		<li><a href="https://admissions.chitkara.edu.in/login" target="blank">Apply Online</a></li>
+</ul>
+</div>-->
+
+    
+    
+    
 					</div>
-				</div>	
+				</div>
 					
 					
 					
 				</div>
 			</div>
-			</div>
-		</div>
+    	</div>
+    </div>
 </div>
+<!--mainContainer-->
+<div class="quickLinksMob">
+<button id="modal-launcher"><img class="me" src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/nav-icon.png"></button>
+<div id="modal-background"></div>
+	<div id="modal-content">
+	
+	<div class="quickLinkAdmissions">
+		<ul>
+			<li><a class="divclose" href="#poverview" >PROGRAM OVERVIEW</a></li>	
+			<li><a class="divclose" href="#crecruitment" >CAMPUS RECRUITMENT</a></li>			<li><a class="divclose" href="#program_highlights" >PROGRAM HIGHLIGHTS</a></li>			<li><a class="divclose" href="#eligibility" >ELIGIBILITY & FEES</a></li>		</ul>
+	</div>
+	<div id="modal-close"><img class="me" src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/Cross-Icon1.png"></div>
+	</div>
+</div>
+
+	
 	<a class="back-to-top">
         <div style="text-align:center;">
         	<div style="height:18px;">
@@ -1834,7 +1862,7 @@ qacct:"p-KsnxwTK04_UyY"
 
 <script>
 try {
-   document.getElementById('program').value="";	
+   document.getElementById('program').value="Engineering (B.E.) Programs";	
 }catch(e){}
 </script>
 
@@ -1864,9 +1892,9 @@ s.parentNode.insertBefore(b, s);})();
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 370/423 objects using disk
+Object Caching 367/420 objects using disk
 Page Caching using disk: enhanced 
 Minified using disk
 
-Served from: www.chitkara.edu.in @ 2019-03-28 04:59:46 by W3 Total Cache
+Served from: www.chitkara.edu.in @ 2019-03-28 05:01:42 by W3 Total Cache
 -->

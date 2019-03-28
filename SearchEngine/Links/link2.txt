@@ -30,19 +30,18 @@
 				 fjs.parentNode.insertBefore(js, fjs);
 			   }(document, 'script', 'facebook-jssdk'));</script>
 <!-- This site is optimized with the Yoast SEO plugin v9.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<title>Campus Infrastructure - Chitkara University</title>
-<meta name="description" content="Chitkara University Punjab campus provides comfortable hostel facilities separately for boys and girls. All rooms in the hostels have Internet connections. The pollution-free environment adds to the healthy living conditions on the campus."/>
-<link rel="canonical" href="https://www.chitkara.edu.in/overview/campus-infrastructure/" />
+<title>Overview - Chitkara University</title>
+<meta name="description" content="In the year 2002, Chitkara Educational Trust established its Punjab campus 30 kilometers from Chandigarh, on the Chandigarh–Patiala National Highway."/>
+<link rel="canonical" href="https://www.chitkara.edu.in/overview/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Campus Infrastructure - Chitkara University" />
-<meta property="og:description" content="Chitkara University Punjab campus provides comfortable hostel facilities separately for boys and girls. All rooms in the hostels have Internet connections. The pollution-free environment adds to the healthy living conditions on the campus." />
-<meta property="og:url" content="https://www.chitkara.edu.in/overview/campus-infrastructure/" />
-<meta property="article:section" content="main" />
-<meta property="og:image" content="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Infrastructure_Banner.jpg" />
-<meta property="og:image:secure_url" content="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Infrastructure_Banner.jpg" />
-<meta property="og:image:width" content="1900" />
-<meta property="og:image:height" content="645" />
+<meta property="og:title" content="Overview - Chitkara University" />
+<meta property="og:description" content="In the year 2002, Chitkara Educational Trust established its Punjab campus 30 kilometers from Chandigarh, on the Chandigarh–Patiala National Highway." />
+<meta property="og:url" content="https://www.chitkara.edu.in/overview/" />
+<meta property="og:image" content="https://www.chitkara.edu.in/wp-content/uploads/2013/07/chitkara-university-map.jpg" />
+<meta property="og:image:secure_url" content="https://www.chitkara.edu.in/wp-content/uploads/2013/07/chitkara-university-map.jpg" />
+<meta property="og:image:width" content="1148" />
+<meta property="og:image:height" content="378" />
 <!-- / Yoast SEO plugin. -->
 
 <link rel='dns-prefetch' href='//ws.sharethis.com' />
@@ -51,7 +50,7 @@
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://www.chitkara.edu.in/feed/" />
 <link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="https://www.chitkara.edu.in/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title=" &raquo; Campus Infrastructure Comments Feed" href="https://www.chitkara.edu.in/overview/campus-infrastructure/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Overview Comments Feed" href="https://www.chitkara.edu.in/overview/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.chitkara.edu.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.2"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -91,9 +90,9 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.chitkara.edu.in/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.chitkara.edu.in/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.0.2" />
-<link rel='shortlink' href='https://www.chitkara.edu.in/?p=131' />
-<link rel="alternate" type="application/json+oembed" href="https://www.chitkara.edu.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chitkara.edu.in%2Foverview%2Fcampus-infrastructure%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.chitkara.edu.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chitkara.edu.in%2Foverview%2Fcampus-infrastructure%2F&#038;format=xml" />
+<link rel='shortlink' href='https://www.chitkara.edu.in/?p=13203' />
+<link rel="alternate" type="application/json+oembed" href="https://www.chitkara.edu.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chitkara.edu.in%2Foverview%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.chitkara.edu.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chitkara.edu.in%2Foverview%2F&#038;format=xml" />
     <script type="text/javascript">
         var imgpath = "https://www.chitkara.edu.in/wp-content/plugins/tz-plus-gallery/";
     </script>
@@ -283,8 +282,8 @@ $(window).scroll(function() {
 		<input type="hidden" value="" name="m_utm_term" id="m_utm_term" readonly />
 		<input type="hidden" value="" name="m_utm_content" id="m_utm_content" readonly />
 		
-        <input type="hidden" value="/overview/campus-infrastructure/" name="m_turl" id="m_turl" readonly="readonly" />
-		<input type="hidden" value="/overview/campus-infrastructure/" name="m_url" id="m_url" readonly />
+        <input type="hidden" value="/overview/" name="m_turl" id="m_turl" readonly="readonly" />
+		<input type="hidden" value="/overview/" name="m_url" id="m_url" readonly />
  <div class="mobCodeGen">
 		<div class="closediv"><a href="" onClick="document.getElementById('chk1c').style.display='none';document.getElementById('mobileSimplediv').style.display='none'; return false;">X</a></div>
 	    <div class="mobCodeGenTopLbl">
@@ -357,9 +356,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<nav id="menu">
 		<ul id="menu-main_menu" class=""><li id="menu-item-125" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-125"><a>ABOUT US</a>
 <ul class="sub-menu">
-	<li id="menu-item-13205" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-13205"><a href="https://www.chitkara.edu.in/overview/">Overview</a></li>
+	<li id="menu-item-13205" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13203 current_page_item menu-item-13205"><a href="https://www.chitkara.edu.in/overview/">Overview</a></li>
 	<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.chitkara.edu.in/overview/campus-leadership/">Campus <span>Leadership</span></a></li>
-	<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-131 current_page_item menu-item-145"><a href="https://www.chitkara.edu.in/overview/campus-infrastructure/">Campus <span>Infrastructure</span></a></li>
+	<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://www.chitkara.edu.in/overview/campus-infrastructure/">Campus <span>Infrastructure</span></a></li>
 	<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://www.chitkara.edu.in/photo-gallery/">Photo <span>Gallery</span></a></li>
 	<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://www.chitkara.edu.in/overview/campus-location/">Campus <span>Location</span></a></li>
 	<li id="menu-item-7746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7746"><a href="https://www.chitkara.edu.in/social-initiatives/">Social <span>Initiatives</span></a></li>
@@ -653,9 +652,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		
 		<ul id="menu-main_menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-125"><a>ABOUT US</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-13205"><a href="https://www.chitkara.edu.in/overview/">Overview</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13203 current_page_item menu-item-13205"><a href="https://www.chitkara.edu.in/overview/">Overview</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.chitkara.edu.in/overview/campus-leadership/">Campus <span>Leadership</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-131 current_page_item menu-item-145"><a href="https://www.chitkara.edu.in/overview/campus-infrastructure/">Campus <span>Infrastructure</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://www.chitkara.edu.in/overview/campus-infrastructure/">Campus <span>Infrastructure</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://www.chitkara.edu.in/photo-gallery/">Photo <span>Gallery</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://www.chitkara.edu.in/overview/campus-location/">Campus <span>Location</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7746"><a href="https://www.chitkara.edu.in/social-initiatives/">Social <span>Initiatives</span></a></li>
@@ -867,106 +866,41 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </style>
 <div class="clr">
 	<div class="bannerwrap">
-				<img width="1900" height="645" src="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Infrastructure_Banner.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Infrastructure_Banner.jpg 1900w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/Infrastructure_Banner-300x102.jpg 300w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/Infrastructure_Banner-768x261.jpg 768w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/Infrastructure_Banner-1024x348.jpg 1024w" sizes="(max-width: 1900px) 100vw, 1900px" />		
+				<img width="1148" height="378" src="https://www.chitkara.edu.in/wp-content/uploads/2013/07/chitkara-university-map.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/chitkara-university-map.jpg 1148w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/chitkara-university-map-300x98.jpg 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/chitkara-university-map-1024x337.jpg 1024w" sizes="(max-width: 1148px) 100vw, 1148px" />		
 	</div>
 	
     <div class="container-fluid single_news_wrap bdrbtm">
 		<div class="row">
     		<div class="col-md-8 innerpage">
 				<div class="blog_wrap" >
-					<div class="breadcrumb1"><ul id="breadcrumbs" class="breadcrumbs"><li class="item-home"><a class="bread-link bread-home" href="https://www.chitkara.edu.in" title="Home">Home</a></li><li class="item-parent item-parent-13203"><a class="bread-parent bread-parent-13203" href="https://www.chitkara.edu.in/overview/" >Overview</a></li><li class="separator separator-13203"> &gt; </li></ul></div>
-					<h2>Campus <span>Infrastructure</span></h2>
+					<div class="breadcrumb1"><ul id="breadcrumbs" class="breadcrumbs"><li class="item-home"><a class="bread-link bread-home" href="https://www.chitkara.edu.in" title="Home">Home</a></li></ul></div>
+					<h2>Overview</h2>
 					<div class="maincontent" id="maincontent">
-										<h3 class="stitle">In order to achieve its ambition of being a world-class education provider, Chitkara University (CU) is committed to significant enhancement of its facilities and buildings, essential for world-class research and all-round development of students. The University has an extremely modern and state-of-the-art infrastructure that goes a long way in facilitating a number of services for the students as well as the staff members.</h3>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Classrooms</h5>
-<h6><b>The place for focused learning</b></h6>
-<p>The spacious, amphitheatre-style classrooms in the University provide the most conducive atmosphere for dynamic and focused discussions. They have been designed to bring together analysis with action and are augmented with integrated audio–visual teaching aids for lectures, presentations etc. Special sessions and classes are also held on business etiquettes, negotiation skills, effective communication, leadership, teamwork and analytical skills</p>
-</div>
-<div class="col-md-3"><img class="alignnone size-full wp-image-1085" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/class1.jpg" alt="class1" width="300" height="200" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/class1.jpg 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/class1-225x150.jpg 225w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/class1-100x66.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></div>
-</div>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Auditorium</h5>
-<h6><b>A platform for interface</b></h6>
-<p>Chitkara University provides state-of-the-art conference halls with a seating capacity that act as a common ground for students, faculty and corporate personalities for regular interfaces, conferences and other events. At these platforms, you will come across various global thought leaders, academic gurus and corporate heads who will share their corporate experiences with you. For events of a smaller scale, the seminar halls, equipped with advanced presentation tools, are the ideal venue</p>
-</div>
-<div class="col-md-3"><img class="alignnone size-full wp-image-1087" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/audio.png" alt="audio" width="300" height="200" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/audio.png 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/audio-225x150.png 225w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/audio-100x66.png 100w" sizes="(max-width: 300px) 100vw, 300px" /></div>
-</div>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Laboratories</h5>
-<p>High-tech laboratories having equipments with calibrations to ISO 9001-2000 Certifications state of the art workshops and numerous work stations with licensed software play an important as part of your learning experience. Laboratories are fully equipped to meet the academic requirements as per the university curriculum. To name a few; MATLAB and Simulation &amp; Computational labs in Electrical Engineering, Microprocessor &amp; Micro Controller Lab with Keil software, Microelectronics Lab with Cadence software, VLSI with xilinx software, CADAENCE Lab, Embedded System Lab, DAEC Lab, Communication and Texas Instruments Lab and MVI Lab equipped with LabVIEW software in Electronics and Communication Engineering and CAD/CAM and Aauto Synch lab in Mechanical Engineering are have for carrying out different experiments. A Project Lab with ultra-modern facilities has also been established.</p>
-</div>
-<div class="col-md-3 col-sm-12"><img class="alignnone size-full wp-image-1088" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/labs.png" alt="labs" width="300" height="200" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/labs.png 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/labs-225x150.png 225w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/labs-100x66.png 100w" sizes="(max-width: 300px) 100vw, 300px" /></div>
-</div>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Computing Facilities</h5>
-<h6><b>Imparting knowledge in the most hi-tech environment</b></h6>
-<p>All CU campuses are inter-connected through a highly secure virtual private network, where personal computers (PC) are inter-connected to the Internet through broadband connection. All our campuses have state-of-the-art computer centres that provide computing facilities comprising of the latest computer machines linked to a wide range of software, communication and print services.<br />
-Most campuses are fully wireless and students in many programs are provided with wireless laptops to help them access the Internet anytime, anywhere. Latest software. are used to enable work on data analysis, web technologies and software designing. The intranet enables close on-line interaction between faculty and students for online interaction.</p>
-</div>
-<div class="col-md-3"><img class="alignnone size-full wp-image-1089" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/computting.png" alt="computting" width="300" height="200" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/computting.png 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/computting-225x150.png 225w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/computting-100x66.png 100w" sizes="(max-width: 300px) 100vw, 300px" /></div>
-</div>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Library Facilities</h5>
-<h6><b>The library services are the cornerstone of the education system at Chitkara University. The mission of our library services is to facilitate creation of new knowledge through acquisition, organization and dissemination of knowledge resources.</b></h6>
-<p>The libraries at each of the campuses have spacious reading halls, periodical centres, group discussion rooms and online database browsing areas.</p>
-<p>The University libraries offer a wide range of materials in a variety of formats—from traditional books and serials to films, and multimedia and networked information from around the world. Highly skilled staff assists students to use the local collections and find information on specific topics.</p>
-<p>Our libraries are a learning space where students are inspired to explore, research and create. Our libraries are not only the places to think, but also an informal work area where students gather to collaborate. Our libraries house a collection of more than 57,800 items including books, journals, microfilms, audio–visual material and CD-ROMs. Furthermore, the students have access to more than 10,000 electronic journals available online, apart from daily newspapers.</p>
-<p>The University has access to a large number of e-resources, ASCE Journals, ASME Journals, IEL online, Science Direct, EBSCO, EMERALD, SCIFINDER, SAE-Tech Papers, Indian Standards Codes, ACM, ABI / Inform Complete (PRO QUEST), Springer Link and Engineering Referex. Our libraries have a video conferencing facility and also provide classroom teaching through EDUSAT programs and NPTEL video courses in the different fields of education.</p>
-<p>For more Information please visit the website <a href="http://library.chitkara.edu.in/" target="_blank"><b>library.chitkara.edu.in</b></a></p>
-</div>
-<div class="col-md-3"><img class="alignnone size-full wp-image-1089" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/library-facilities.png" alt="computting" width="300" height="200"></div>
-</div>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Cafeteria</h5>
-<h6><b>What you eat is what you are!</b></h6>
-<p>A healthy mind can only reside in a healthy body. Hence, all cafeterias have menus that are designed by a team of professional dieticians, and offer nutritious and wholesome food to ensure a well-balanced diet. Fresh fruit juices, milkshakes, ice creams sundaes and even midnight snacks are available in these cafeteria.</p>
-</div>
-<div class="col-md-3"><img class="alignnone size-full wp-image-1090" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/cafe.png" alt="cafe" width="300" height="200" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/cafe.png 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/cafe-225x150.png 225w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/cafe-100x66.png 100w" sizes="(max-width: 300px) 100vw, 300px" /></div>
-</div>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Residential Accommodation</h5>
-<h6><b>Home away from home</b></h6>
-<p>At Chitkara University, you will be among the many students coming from all across the country to live in Chitkara residences, which come closest to being a home away from home.</p>
-<p>Separate facilities for boys and girls, caring wardens and tight security arrangements ensure a pleasant stay, allowing students to focus on academics. Internet access and subscriber trunk dialing (STD) facilities ensure close contact with family and friends outside. The common rooms are fully equipped with TV, indoor games and other recreation facilities.</p>
-</div>
-<div class="col-md-3"><img class="alignnone size-full wp-image-1091" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/rHostel1.png" alt="rHostel1" width="300" height="200" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/rHostel1.png 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/rHostel1-225x150.png 225w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/rHostel1-100x66.png 100w" sizes="(max-width: 300px) 100vw, 300px" /></div>
-</div>
-<div class="clr"></div>
-<div class="row">
-<div class="col-md-9">
-<h5>Medical Facilities</h5>
-<p>A healthy body makes for a healthy mind. In order to ensure your well-being, Chitkara University has tie- ups with renowned hospitals to take care of any kind of emergency. At CU, you will be covered by a comprehensive medical insurance to meet all kinds of exigencies.</p>
-</div>
-<div class="col-md-3"><img class="alignnone size-full wp-image-1092" src="http://www.chitkara.edu.in/wp-content/uploads/2013/07/medical.png" alt="medical" width="300" height="200" srcset="https://www.chitkara.edu.in/wp-content/uploads/2013/07/medical.png 300w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/medical-225x150.png 225w, https://www.chitkara.edu.in/wp-content/uploads/2013/07/medical-100x66.png 100w" sizes="(max-width: 300px) 100vw, 300px" /></div>
-</div>
-<div class="clr"></div>
-<h5>Banks and ATMs</h5>
-<p>There are branches of two nationalized banks—Punjab National Bank (PNB) and UCO Bank—within the campus. These banks offer ATM facilities and locker facilities, besides other regular bank services.</p>
-<div class="clr"></div>
-<h5>SCHOLARSHIP SCHEMES</h5>
-<ul class="listing">
-<li>To apply for scholarship under Post-matric Scholarship Scheme for SCs/OBCs students, please visit:<br />
-<a href="http://www.punjabscholarships.gov.in" target="blank"><b>http://www.punjabscholarships.gov.in</b></a></li>
-<li>To apply for scholarship under Scholarship Scheme for Minorities students, and Central Sector Scholarship Scheme for College and University students, please visit:<br />
-<a href="https://www.scholarships.gov.in/" target="blank"><b>https://www.scholarships.gov.in/</b></a></li>
-<li> To apply for  AICTE&#8217;s scholarship scholarship for J &amp; K students, please visit:<br />
-<a href="http://www.aicte-jk-scholarship-gov.in/" target="blank"><b>http://www.aicte-jk-scholarship-gov.in/</b></a></li>
+										<p>In the year 2002, Chitkara Educational Trust established its Punjab campus 30 kilometres from Chandigarh, on the Chandigarh–Patiala National Highway. In the year 2010 Chitkara University was established by the Punjab State Legislature under “The Chitkara University Act”.</p>
+<p>Chitkara University, the best university in Punjab is a government-recognized university with the right to confer degrees as per the Sections 2(f) and 22(1) of the UGC Act, 1956.</p>
+<p>The sprawling campus of the University is equidistant from Chandigarh, Mohali, Panchkula, Ambala and Patiala. The University offers multi-disciplinary programs, all of which are designed to be industry-relevant. As a result of this student-centric approach, Chitkara University is renowned as one of the best private universities in the North India region. From business management programs to programs in nursing and medical laboratory technologies; and from computer science, electronics and mechanical engineering programs, to hotel management and architecture—Chitkara University, Punjab is a veritable cornucopia of educational services.</p>
+<p>Curriculum is delivered in spacious, amphitheatre-style classrooms—fitted with modern information and communication technology (ICT) equipment—and in well-equipped, modern laboratories. Additionally, students are encouraged—and provided relevant facilities—to participate in co-curricular and extra-curricular activities through various clubs and societies on the campus.</p>
+<p>It is because of the cumulative effect of an elaborate in-campus academic infrastructure; strong national and international collaborations; and a robust on-campus recruitment record—including regular recruitment by reputed blue-chip companies—that the University finds favor with national as well as international students.</p>
+<p>A healthy number of foreign students regularly study at the campus and number of them also visit on exchange programs, adding to the cultural diversity found on campus. The University in Punjab provides several opportunities for local students, too, to visit foreign universities and institutions on such exchange programs, thereby helping them receive invaluable international exposure.</p>
+<p>The University has at the centre of its philosophical core the commitment to excellence in education. It is the strong academic heritage of the University, and such firmness on matters of principles that has seen it grow from strength to strength in such a short span of time.</p>
+<h5>Vision</h5>
+<p>To be a globally recognized organization promoting academic excellence through interdisciplinary applied research and to expand realms of knowledge through innovation.</p>
+<h5>Mission</h5>
+<ul class="list5">
+<li>To carry out the academic process for achieving excellence through active teacher-student-industry participation</li>
+<li>To promote research, innovation and entrepreneurship in collaboration with industries and laboratories</li>
+<li>To inculcate high moral, ethical and professional standards amongst our students</li>
+<li>To contribute to building a skillful society</li>
 </ul>
+<h5 class="mtop30">Our Logo</h5>
+<div class="row">
+<div class="col-md-4 col-sm-12"><img class="alignnone size-full wp-image-3430" src="https://www.chitkara.edu.in/wp-content/uploads/2017/11/chitkara-university-logo.png" alt="logo_new" width="200" height="66"></div>
+<div class="col-md-6 col-sm-12">
+<h4 style="color: #ce1815; font-size: 24px; text-transform: uppercase; margin-top: 20px; font-weight: 900; margin-left: 20px;">EXPLORE YOUR POTENTIAL</h4>
+</div>
+</div>
+<div class="mtop30">
+Our logo depicts the arrows in soaring heights, promising everlasting progress. It also illustrates the interlinking of our key stakeholders namely Students, Parents, Faculty, Alumni, Industry and Society as a whole, working in synergy towards a common goal which is the “Everlasting Success of Each Chitkara Student and creating them as responsible citizens”. The colour Red denotes Energy &amp; Passion to “Explore Our Potential”.</div>
 										
 					
 									
@@ -1115,8 +1049,8 @@ function innerValidate()
 		<input type="hidden" value="" name="utm_term" id="utm_term" readonly />
 		<input type="hidden" value="" name="utm_content" id="utm_content" readonly />
 		
-        <input type="hidden" value="/overview/campus-infrastructure/" name="turl" id="turl" readonly="readonly" />
-		<input type="hidden" value="/overview/campus-infrastructure/" name="url" id="url" readonly />
+        <input type="hidden" value="/overview/" name="turl" id="turl" readonly="readonly" />
+		<input type="hidden" value="/overview/" name="url" id="url" readonly />
 	    <iframe id="uploadTargetAdd" name="uploadTargetAdd" style="width:0px;height:0px;border:0px solid #fff;"></iframe>
     <p>
         <input name="your-name"  onkeyup="document.getElementById('err4').style.display='none';document.getElementById('err3').style.display='none';document.getElementById('err1').style.display='none';" id="your-name"value="" size="40" aria-required="true" placeholder="Your Name*" type="text">
@@ -1864,9 +1798,9 @@ s.parentNode.insertBefore(b, s);})();
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 370/423 objects using disk
+Object Caching 354/412 objects using disk
 Page Caching using disk: enhanced 
 Minified using disk
 
-Served from: www.chitkara.edu.in @ 2019-03-28 04:59:46 by W3 Total Cache
+Served from: www.chitkara.edu.in @ 2019-03-28 04:59:30 by W3 Total Cache
 -->

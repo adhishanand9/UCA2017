@@ -251,7 +251,7 @@ void putInList(char **links) {
     listHeadPtr = listHead;
     listHeadPtr->url = links[0];
     listHeadPtr->next = 0;
-    for(int i = 2;i<101;i++) {
+    for(int i = 1;i<101;i++) {
 
         obj = (struct LinkList*)malloc(sizeof(struct LinkList));
         //obj->url = (char*)malloc(sizeof(char) * 1000);
@@ -261,7 +261,7 @@ void putInList(char **links) {
         listHeadPtr = listHeadPtr->next;
     }
 }
-int linkcount=0;
+int linkcount=1;
 void get_eachpage(char url[100]){
   char fileName[25]="/link";
   char count[5];
