@@ -47,17 +47,87 @@ void removeWhiteSpace(char* html)
 }
 void getTitle(char *file)
 {
-  char c;
   int len, i, j;
   char* p1;
-  char* p2;
-  p1=file[0];
+  i=0;j=0;
+  while(file[i])
+  {
+    if(file[i]=='<'&&file[i+1]=='t')
+    {
+      while(file[i]!='>')
+      {
+        i++;
+      }
+      i++;
+      while(file[i]!='<')
+      {
+        p1[j]=file[i];
+        i++;
+        j++;
+
+      }
+      printf("%s\n",p1);
+    }
+    i++;
+  }
+
+}
+void getHeading(char *file)
+{
+  int len, i, j;
+  char* p1;
+  i=0;j=0;
+  while(file[i])
+  {
+    if(file[i]=='<'&&file[i+1]=='h'&&file[i+2]=='1'||file[i+2]=='2'||file[i+2]=='3'||file[i+2]=='4'||file[i+2]=='5'||file[i+2]=='6')
+    {
+      while(file[i]!='>')
+      {
+        i++;
+      }
+      i++;
+      while(file[i]!='<')
+      {
+        p1[j]=file[i];
+        i++;
+        j++;
+
+      }
+      printf("%s\n",p1);
+    }
+    i++;
+  }
+
+}
+void getMeta(char *file)
+{
+  int len, i, j;
+  char* p1;
+  i=0;j=0;
+  while(file[i])
+  {
+    if(file[i]=='<'&&file[i+1]=='m')
+    {
+
+      i++;
+      while(file[i]!='>')
+      {
+        p1[j]=file[i];
+        i++;
+        j++;
+
+      }
+      printf("%s\n",p1);
+    }
+    i++;
+  }
+
 }
 
 int main()
 {
   char count[5];
-  for(int i=1;i<=1;i++)
+  for(int i=1;i<=5;i++)
   {
     char path[50]="./Links/link";
     sprintf(count,"%d",i);
@@ -65,7 +135,8 @@ int main()
     strcat(path,".txt");
     //printf("%s\n",path );
     char *file=load_file(path);
-    removeWhiteSpace(file);
-    getTitle(file);
+    //getTitle(file);
+    getMeta(file);
+    //getHeading(file);
   }
 }
