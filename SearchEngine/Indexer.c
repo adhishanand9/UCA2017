@@ -3,6 +3,14 @@
 #include<string.h>
 #include<sys/types.h>
 #include<sys/stat.h>
+struct LinkList {
+    char* url;
+    int depth;
+    struct LinkList *next;
+}*listHead;
+struct HashTable{
+
+};
 char* load_file(char const* path)
 {
     char* buffer = 0;
@@ -70,12 +78,13 @@ void getTitle(char *file)
     }
     i++;
   }
-
+//free(p1);
 }
 void getHeading(char *file)
 {
   int len, i, j;
   char* p1;
+  p1=(char*)malloc(strlen(file)*sizeof(char));
   i=0;j=0;
   while(file[i])
   {
@@ -97,7 +106,7 @@ void getHeading(char *file)
     }
     i++;
   }
-
+//free(p1);
 }
 void getMeta(char *file)
 {
@@ -127,7 +136,7 @@ void getMeta(char *file)
 int main()
 {
   char count[5];
-  for(int i=1;i<=5;i++)
+  for(int i=1;i<=100;i++)
   {
     char path[50]="./Links/link";
     sprintf(count,"%d",i);
@@ -135,7 +144,7 @@ int main()
     strcat(path,".txt");
     //printf("%s\n",path );
     char *file=load_file(path);
-    //getTitle(file);
+    getTitle(file);
     getMeta(file);
     //getHeading(file);
   }
