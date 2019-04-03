@@ -3,14 +3,127 @@
 #include<string.h>
 #include<sys/types.h>
 #include<sys/stat.h>
-struct LinkList {
-    char* url;
-    int depth;
-    struct LinkList *next;
-}*listHead;
-struct HashTable{
+FILE *file;
 
+struct WordCount{		// structure for filename and count of word in the file
+  char filename[100];
+  int count;
+  struct WordCount *next;
 };
+
+struct WordNode{		// structure for word to store in linklist
+  char word[200];
+  int count;
+  struct WordNode *next;
+  struct WordCount *start;
+};
+
+struct buffer{			// buffer array to maintain indexes (In hashing key is used as first index of word)
+  struct WordNode *start;	// key are stored as a,b,c,d etc
+}Buffer[123];
+
+
+struct WordCount *createWordCount(char *file){	//function will create a new countnode to store filename and count
+  struct WordCount *q = (struct WordCount*)malloc(sizeof(struct WordCount));
+  strcpy(q->filename,file);
+  q->count = 1;
+  q->next = NULL;
+  return q;
+}
+
+struct WordNode *createWordNode(char *arr){	//function will create a new wordnode to store word
+  struct WordNode *ptr = (struct WordNode*)malloc(sizeof(struct WordNode));
+  strcpy(ptr->word,arr);
+  ptr->count=1;
+  ptr->next = NULL;
+  return ptr;
+}
+
+void addtoList(char *arr, char* file){		//function will add words to linklist
+
+
+  struct WordNode *ptr = Buffer[arr[0]].start;
+  if(ptr==NULL){
+    ptr = createWordNode(arr);		// create new wordnode
+    ptr->start=createWordCount(file);	// create new wordcount node
+    Buffer[arr[0]].start = ptr;
+
+
+  }else{
+    while(1){
+      if(!strcmp(ptr->word,arr)){	//if word found if will execute
+        (ptr->count)++;
+        struct WordCount *p = ptr->start;
+        while(1){
+          if(!strcmp(file,p->filename)){	//traverse wordcount to find filename
+            p->count++;
+
+            return;
+          }
+          if(p->next==NULL){
+            break;
+          }
+          p=p->next;
+        }
+        p->next = createWordCount(file);	//create new wordcount node
+
+        return;
+      }
+      if(ptr->next==NULL){
+        break;
+      }
+      ptr=ptr->next;
+    }
+    struct WordNode *p1 = createWordNode(arr);		//if word is no found will create new word node
+    p1->start = createWordCount(file);
+    ptr->next = p1;
+
+  }
+
+}
+
+void print()		//function to print the linklist
+{
+  for(int i=65;i<123;i++){
+    struct WordNode *ptr = Buffer[i].start;	// traverse wordnode (a,b,c,d---)
+    if(ptr!=0){
+      while(ptr->next!=NULL){
+        // printf("%c %s %d\n",i,ptr->word,ptr->count);
+        struct WordCount *p = ptr->start;	// traverse wordcount node to for page name and count
+        while(p!=NULL){
+          printf("%s %s %d\n",ptr->word,p->filename,p->count);
+          p=p->next;
+        }
+        ptr=ptr->next;
+      }
+    }
+  }
+}
+
+
+void word_count(char *str,char *filename) //function take whole string as argument n convert it in words
+{
+  int i=0,flag=0,j=0;
+  char arr[50];
+  while(str[i]!='\0'){
+    if(str[i]==' '){
+      if(flag==1){
+        arr[j]='\0';
+        addtoList(arr,filename);	//function add the word to the linklist
+        j=0;
+        flag=0;
+      }
+    }
+    else{
+      arr[j++]=str[i];
+      if(flag==0){
+        flag=1;
+      }
+    }
+    i++;
+ }
+}
+
 char* load_file(char const* path)
 {
     char* buffer = 0;
@@ -132,6 +245,24 @@ void getMeta(char *file)
   }
 
 }
+void saveData()		// function to save data to file
+{
+  FILE *f = fopen("indexerList.txt","a");  //create a new file to save word count
+  for(int i=65;i<123;i++){
+    struct WordNode *ptr = Buffer[i].start;  // traverse wordnode (a,b,c,d---)
+    if(ptr!=0){
+      while(ptr->next!=NULL){
+        // printf("%c %s %d\n",i,ptr->word,ptr->count);
+        struct WordCount *p = ptr->start;	// traverse wordcount node to for page name and count
+        while(p!=NULL){
+          fprintf(f,"%s %s %d\n",ptr->word,p->filename,p->count);
+          p=p->next;
+        }
+        ptr=ptr->next;
+      }
+    }
+  }
+}
 
 int main()
 {
@@ -146,6 +277,8 @@ int main()
     char *file=load_file(path);
     getTitle(file);
     getMeta(file);
-    //getHeading(file);
+    //getHeading(file);find_Title(fileData,File_Name);  // search tile tag
+      print();			// print the link list
+      saveData();			// save linlist in file
   }
 }
