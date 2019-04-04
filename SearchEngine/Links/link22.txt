@@ -275,8 +275,8 @@ $(window).scroll(function() {
 		<input type="hidden" value="" name="m_utm_term" id="m_utm_term" readonly />
 		<input type="hidden" value="" name="m_utm_content" id="m_utm_content" readonly />
 		
-        <input type="hidden" value="/ihm/3-Year-B.Sc-in-hospitality-administrationinistration/" name="m_turl" id="m_turl" readonly="readonly" />
-		<input type="hidden" value="/ihm/3-Year-B.Sc-in-hospitality-administrationinistration/" name="m_url" id="m_url" readonly />
+        <input type="hidden" value="/engineeringr-b-sc-agriculture/ication/" name="m_turl" id="m_turl" readonly="readonly" />
+		<input type="hidden" value="/engineeringr-b-sc-agriculture/ication/" name="m_url" id="m_url" readonly />
  <div class="mobCodeGen">
 		<div class="closediv"><a href="" onClick="document.getElementById('chk1c').style.display='none';document.getElementById('mobileSimplediv').style.display='none'; return false;">X</a></div>
 	    <div class="mobCodeGenTopLbl">
@@ -352,10 +352,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li id="menu-item-13205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13205"><a href="https://www.chitkara.edu.in/overview/">Overview</a></li>
 	<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.chitkara.edu.in/overview/campus-leadership/">Campus <span>Leadership</span></a></li>
 	<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://www.chitkara.edu.in/overview/campus-infrastructure/">Campus <span>Infrastructure</span></a></li>
-	<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://www.chitkara.edu.in/photo-gallery/">Photo <span>Gallery</span></a></li>
-	<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://www.chitkara.edu.in/overview/campus-location/">Campus <span>Location</span></a></li>
-	<li id="menu-item-7746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7746"><a href="https://www.chitkara.edu.in/social-initiatives/">Social <span>Initiatives</span></a></li>
+	<li id="menu-item-28680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28680"><a href="https://www.chitkara.edu.in/honorary-doctorates/">Honorary Doctorates</a></li>
+	<li id="menu-item-28681" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28681"><a href="/cu-times/">Press Media</a></li>
 	<li id="menu-item-28339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28339"><a href="https://www.chitkara.edu.in/accreditation/">Accreditation</a></li>
+	<li id="menu-item-28684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28684"><a href="https://www.chitkara.edu.in/rankings/">Rankings</a></li>
 </ul>
 </li>
 <li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-55"><a>OUR INSTITUTIONS</a>
@@ -373,7 +373,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li id="menu-item-1764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1764"><a href="https://www.chitkara.edu.in/healthscience">Chitkara School of Health Sciences</a></li>
 	<li id="menu-item-27777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27777"><a href="https://www.chitkara.edu.in/csbas/4-year-b-sc-agriculture/">Chitkara School of Basic &#038; Applied Sciences</a></li>
 	<li id="menu-item-1763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1763"><a href="https://www.chitkara.edu.in/education">Chitkara College of Education</a></li>
-	<li id="menu-item-14882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14882"><a href="https://www.chitkara.edu.in/polytechnic/">Chitkara Polytechnic</a></li>
 </ul>
 </li>
 <li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-53"><a>UNDERGRADUATE PROGRAMS</a>
@@ -648,10 +647,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13205"><a href="https://www.chitkara.edu.in/overview/">Overview</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.chitkara.edu.in/overview/campus-leadership/">Campus <span>Leadership</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://www.chitkara.edu.in/overview/campus-infrastructure/">Campus <span>Infrastructure</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://www.chitkara.edu.in/photo-gallery/">Photo <span>Gallery</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://www.chitkara.edu.in/overview/campus-location/">Campus <span>Location</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7746"><a href="https://www.chitkara.edu.in/social-initiatives/">Social <span>Initiatives</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28680"><a href="https://www.chitkara.edu.in/honorary-doctorates/">Honorary Doctorates</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28681"><a href="/cu-times/">Press Media</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28339"><a href="https://www.chitkara.edu.in/accreditation/">Accreditation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28684"><a href="https://www.chitkara.edu.in/rankings/">Rankings</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-55"><a>OUR INSTITUTIONS</a>
@@ -669,7 +668,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1764"><a href="https://www.chitkara.edu.in/healthscience">Chitkara School of Health Sciences</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27777"><a href="https://www.chitkara.edu.in/csbas/4-year-b-sc-agriculture/">Chitkara School of Basic &#038; Applied Sciences</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1763"><a href="https://www.chitkara.edu.in/education">Chitkara College of Education</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14882"><a href="https://www.chitkara.edu.in/polytechnic/">Chitkara Polytechnic</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-53"><a>UNDERGRADUATE PROGRAMS</a>
@@ -1015,15 +1013,6 @@ Students from around the country are getting attracted to Chitkara University be
 	                  </li>-->
 								                     
 	                  <li>
-	                  	<h3><a href="https://www.chitkara.edu.in/events/unveiling-the-best-in-business-schools-digital-learning-magazine-gives-aaaa-rating-to-cbs-lists-it-among-top-private-b-school-2018-punjab/" title="Unveiling the best in Business Schools: Digital Learning Magazine gives AAAA+ Rating to CBS, lists it among &#8216;Top Private B-School 2018: Punjab&#8217;">Unveiling the best in Business Schools: Digital Learning Magazine gives AAAA+ Rating to CBS, lists it among &#8216;Top Private B-School 2018: Punjab&#8217;</a> </h3>
-	                    <p>It&#8217;s raining awards for CBS this season! We are delighted and extremely&#8230;</p>
-						<img width="270" height="155" src="https://www.chitkara.edu.in/wp-content/uploads/2019/01/DL-Ranking.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/01/DL-Ranking.jpg 270w, https://www.chitkara.edu.in/wp-content/uploads/2019/01/DL-Ranking-228x130.jpg 228w" sizes="(max-width: 270px) 100vw, 270px" />	                  </li>
-	                 <!-- <li><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara_university_spotlight.jpg" alt="" title="">
-	                  	<h3>International conference on AMMT </h3>
-	                    <p>October 10 – 11, 2014<br>4th International Conference on Advances in Materials and Manufacturing Technology </p> 
-	                  </li>-->
-								                     
-	                  <li>
 	                  	<h3><a href="https://www.chitkara.edu.in/events/time-cyber-media-accords-chitkara-university-title-of-best-private-university-for-academic-excellence-in-punjab/" title="Time Cyber Media accords Chitkara University title of &#8216;Best Private University for Academic Excellence in Punjab&#8217;">Time Cyber Media accords Chitkara University title of &#8216;Best Private University for Academic Excellence in Punjab&#8217;</a> </h3>
 	                    <p>We are extremely proud to share that Chitkara University has been accorded&#8230;</p>
 						<img width="270" height="155" src="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Spotlight.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Spotlight.jpg 270w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/Spotlight-228x130.jpg 228w" sizes="(max-width: 270px) 100vw, 270px" />	                  </li>
@@ -1036,6 +1025,15 @@ Students from around the country are getting attracted to Chitkara University be
 	                  	<h3><a href="https://www.chitkara.edu.in/events/chitkara-awarded-best-university-for-journalism-mass-communication-in-india-2019-icci/" title="Chitkara awarded &#8216;Best University for Journalism &#038; Mass Communication in India 2019&#8217;: ICCI">Chitkara awarded &#8216;Best University for Journalism &#038; Mass Communication in India 2019&#8217;: ICCI</a> </h3>
 	                    <p>Chitkara School of Mass Communication, Chitkara University, Punjab, has been Awarded with&#8230;</p>
 						<img width="270" height="155" src="https://www.chitkara.edu.in/wp-content/uploads/2019/03/ICCI-Award1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/03/ICCI-Award1.jpg 270w, https://www.chitkara.edu.in/wp-content/uploads/2019/03/ICCI-Award1-228x130.jpg 228w" sizes="(max-width: 270px) 100vw, 270px" />	                  </li>
+	                 <!-- <li><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara_university_spotlight.jpg" alt="" title="">
+	                  	<h3>International conference on AMMT </h3>
+	                    <p>October 10 – 11, 2014<br>4th International Conference on Advances in Materials and Manufacturing Technology </p> 
+	                  </li>-->
+								                     
+	                  <li>
+	                  	<h3><a href="https://www.chitkara.edu.in/events/chitkara-business-school-placed-in-a-category-ranked-among-top-b-schools-of-india/" title="Chitkara Business School placed in &#8216;A+ Category&#8217;, ranked among Top B-Schools of India">Chitkara Business School placed in &#8216;A+ Category&#8217;, ranked among Top B-Schools of India</a> </h3>
+	                    <p>The secret of success is constancy of purpose. We are thrilled to&#8230;</p>
+						<img width="270" height="155" src="https://www.chitkara.edu.in/wp-content/uploads/2019/04/cbs-Spotlight.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/04/cbs-Spotlight.jpg 270w, https://www.chitkara.edu.in/wp-content/uploads/2019/04/cbs-Spotlight-228x130.jpg 228w" sizes="(max-width: 270px) 100vw, 270px" />	                  </li>
 	                 <!-- <li><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/chitkara_university_spotlight.jpg" alt="" title="">
 	                  	<h3>International conference on AMMT </h3>
 	                    <p>October 10 – 11, 2014<br>4th International Conference on Advances in Materials and Manufacturing Technology </p> 
@@ -1068,17 +1066,17 @@ Students from around the country are getting attracted to Chitkara University be
 				<div class="newspanel bgf7">
 					<div class="cutimes">
 						<a href="https://www.chitkara.edu.in/cu-times/"><img src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/cu-times-logo.png" alt="cu-times-logo" title="cu-times-logo" width="140" height="41" /></a>
-					<span>28-03-2019</span>
+					<span>4-04-2019</span>
 					</div>
 					<ul class="newslist">
 						                                <li>
-	                                	<a href="https://www.chitkara.edu.in/news/me-batch-2016-students-voice-thoughts-on-social-issues-present-brilliant-theatrical-interpretations/">ME Batch 2016 students &#8216;voice&#8217; thoughts on social issues, present brilliant theatrical interpretations</a>
+	                                	<a href="https://www.chitkara.edu.in/news/chitkara-universitys-honorary-doctorate-for-josef-m-ullmer-of-andritz-hydro-ltd/">Chitkara University’s Honorary Doctorate for Josef M Ullmer of Andritz Hydro Ltd</a>
 	                                </li>
                                 	                                <li>
-	                                	<a href="https://www.chitkara.edu.in/news/nss-volunteers-of-chitkara-celebrate-holi-spread-love-affection/">NSS Volunteers of Chitkara celebrate Holi, spread &#8216;love &#038; affection&#8217;</a>
+	                                	<a href="https://www.chitkara.edu.in/news/novate-19-challenges-students-brings-innovation-to-fore/">NOVATE &#8217;19 challenges students, brings innovation to fore</a>
 	                                </li>
                                 	                                <li>
-	                                	<a href="https://www.chitkara.edu.in/news/cshs-students-mark-world-optometry-day-with-expert-talk-cultural-show/">CSHS students mark World Optometry Day with expert talk, cultural show</a>
+	                                	<a href="https://www.chitkara.edu.in/news/mesmerizing-performances-astonishing-energy-incredible-turnout-make-explore-19-roaring-success/">Mesmerizing performances, astonishing energy, incredible turnout make Explore ’19 roaring success</a>
 	                                </li>
                                 					</ul>	
 					<div class="in-the-press-btn-news">	
@@ -1297,7 +1295,7 @@ function getGetInTouchValidate()
 		<input type="hidden" value="" name="utm_content" id="utm_content" readonly />
 		
         <input type="hidden" value="/" name="turl" id="turl" readonly />
-		<input type="hidden" value="/ihm/3-Year-B.Sc-in-hospitality-administrationinistration/" name="url" id="url" readonly />
+		<input type="hidden" value="/engineeringr-b-sc-agriculture/ication/" name="url" id="url" readonly />
 	    <iframe id="uploadTargetAdd" name="uploadTargetAdd" style="width:0px;height:0px;border:0px solid #fff;"></iframe>
 		<div style="position:relative; float:left; width:100%;">
 			<!--<label>YOUR NAME</label>-->
@@ -1940,8 +1938,7 @@ marqueeInit({
 							<li><a href="https://www.chitkara.edu.in/pharmacy">Chitkara College of Pharmacy</a></li>
 							<li><a href="https://www.chitkara.edu.in/healthscience">Chitkara School of Health Sciences</a></li>
 							<li><a href="https://www.chitkara.edu.in/csbas/">Chitkara School of Basic &amp; Applied Sciences</a></li>
-							<li><a href="https://www.chitkara.edu.in/education">Chitkara College of Education</a></li>												
-							<li><a href="https://www.chitkara.edu.in/polytechnic/">Chitkara Polytechnic</a></li>
+							<li><a href="https://www.chitkara.edu.in/education">Chitkara College of Education</a></li>
 						</ul>
 				</div>
 				<div class="footer-address clr">
@@ -2467,9 +2464,9 @@ s.parentNode.insertBefore(b, s);})();
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 441/485 objects using disk
+Object Caching 438/478 objects using disk
 Page Caching using disk: enhanced 
 Minified using disk
 
-Served from: www.chitkara.edu.in @ 2019-03-28 06:03:26 by W3 Total Cache
+Served from: www.chitkara.edu.in @ 2019-04-04 08:54:45 by W3 Total Cache
 -->

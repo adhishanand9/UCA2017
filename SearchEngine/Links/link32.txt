@@ -30,16 +30,17 @@
 				 fjs.parentNode.insertBefore(js, fjs);
 			   }(document, 'script', 'facebook-jssdk'));</script>
 <!-- This site is optimized with the Yoast SEO plugin v9.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<title>B.Sc in Culinary Arts With Specialisation in Bakery &amp; Pastry - Chitkara University</title>
-<meta name="description" content="B.Sc in Culinary Arts With Specialisation in Bakery &amp; Pastry from Chitkara University offers opportunities to pursue a career in baking &amp; confectionery."/>
-<link rel="canonical" href="https://www.chitkara.edu.in/culinary-arts/b-sc-culinary-arts/specialisation-bakery-pastry-art-management/" />
+<title>3-Year B.Sc. in Hospitality and Hotel Administration - Chitkara University</title>
+<meta name="description" content="Get all the information about 3-Year B.Sc. in Hospitality and Hotel Administration in Chitkara University by reading the complete here."/>
+<link rel="canonical" href="https://www.chitkara.edu.in/hospitality/3-year-b-sc-hospitality-hotel-administration/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="B.Sc in Culinary Arts With Specialisation in Bakery &amp; Pastry - Chitkara University" />
-<meta property="og:description" content="B.Sc in Culinary Arts With Specialisation in Bakery &amp; Pastry from Chitkara University offers opportunities to pursue a career in baking &amp; confectionery." />
-<meta property="og:url" content="https://www.chitkara.edu.in/culinary-arts/b-sc-culinary-arts/specialisation-bakery-pastry-art-management/" />
-<meta property="og:image" content="https://www.chitkara.edu.in/wp-content/uploads/2019/02/BAKERY-AND-PASTRY-ART-MANAGEMENT1.jpg" />
-<meta property="og:image:secure_url" content="https://www.chitkara.edu.in/wp-content/uploads/2019/02/BAKERY-AND-PASTRY-ART-MANAGEMENT1.jpg" />
+<meta property="og:title" content="3-Year B.Sc. in Hospitality and Hotel Administration - Chitkara University" />
+<meta property="og:description" content="Get all the information about 3-Year B.Sc. in Hospitality and Hotel Administration in Chitkara University by reading the complete here." />
+<meta property="og:url" content="https://www.chitkara.edu.in/hospitality/3-year-b-sc-hospitality-hotel-administration/" />
+<meta property="article:section" content="Hospitality" />
+<meta property="og:image" content="https://www.chitkara.edu.in/wp-content/uploads/2019/02/HOSPITALITY-HOTEL-ADMINISTRATION.jpg" />
+<meta property="og:image:secure_url" content="https://www.chitkara.edu.in/wp-content/uploads/2019/02/HOSPITALITY-HOTEL-ADMINISTRATION.jpg" />
 <meta property="og:image:width" content="1900" />
 <meta property="og:image:height" content="645" />
 <!-- / Yoast SEO plugin. -->
@@ -50,6 +51,7 @@
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://www.chitkara.edu.in/feed/" />
 <link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="https://www.chitkara.edu.in/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; 3-YEAR B.Sc in HOSPITALITY &#038; HOTEL ADMINISTRATION with NCHMCT Comments Feed" href="https://www.chitkara.edu.in/hospitality/3-year-b-sc-hospitality-hotel-administration/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.chitkara.edu.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.2"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -89,9 +91,9 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.chitkara.edu.in/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.chitkara.edu.in/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.0.2" />
-<link rel='shortlink' href='https://www.chitkara.edu.in/?p=23408' />
-<link rel="alternate" type="application/json+oembed" href="https://www.chitkara.edu.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chitkara.edu.in%2Fculinary-arts%2Fb-sc-culinary-arts%2Fspecialisation-bakery-pastry-art-management%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.chitkara.edu.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chitkara.edu.in%2Fculinary-arts%2Fb-sc-culinary-arts%2Fspecialisation-bakery-pastry-art-management%2F&#038;format=xml" />
+<link rel='shortlink' href='https://www.chitkara.edu.in/?p=16042' />
+<link rel="alternate" type="application/json+oembed" href="https://www.chitkara.edu.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chitkara.edu.in%2Fhospitality%2F3-year-b-sc-hospitality-hotel-administration%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.chitkara.edu.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chitkara.edu.in%2Fhospitality%2F3-year-b-sc-hospitality-hotel-administration%2F&#038;format=xml" />
     <script type="text/javascript">
         var imgpath = "https://www.chitkara.edu.in/wp-content/plugins/tz-plus-gallery/";
     </script>
@@ -281,8 +283,8 @@ $(window).scroll(function() {
 		<input type="hidden" value="" name="m_utm_term" id="m_utm_term" readonly />
 		<input type="hidden" value="" name="m_utm_content" id="m_utm_content" readonly />
 		
-        <input type="hidden" value="/culinary-arts/b-sc-culinary-arts/specialisation-bakery-pastry-art-management/" name="m_turl" id="m_turl" readonly="readonly" />
-		<input type="hidden" value="/culinary-arts/b-sc-culinary-arts/specialisation-bakery-pastry-art-management/" name="m_url" id="m_url" readonly />
+        <input type="hidden" value="/hospitality/3-year-b-sc-hospitality-hotel-administration/" name="m_turl" id="m_turl" readonly="readonly" />
+		<input type="hidden" value="/hospitality/3-year-b-sc-hospitality-hotel-administration/" name="m_url" id="m_url" readonly />
  <div class="mobCodeGen">
 		<div class="closediv"><a href="" onClick="document.getElementById('chk1c').style.display='none';document.getElementById('mobileSimplediv').style.display='none'; return false;">X</a></div>
 	    <div class="mobCodeGenTopLbl">
@@ -358,10 +360,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li id="menu-item-13205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13205"><a href="https://www.chitkara.edu.in/overview/">Overview</a></li>
 	<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.chitkara.edu.in/overview/campus-leadership/">Campus <span>Leadership</span></a></li>
 	<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://www.chitkara.edu.in/overview/campus-infrastructure/">Campus <span>Infrastructure</span></a></li>
-	<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://www.chitkara.edu.in/photo-gallery/">Photo <span>Gallery</span></a></li>
-	<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://www.chitkara.edu.in/overview/campus-location/">Campus <span>Location</span></a></li>
-	<li id="menu-item-7746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7746"><a href="https://www.chitkara.edu.in/social-initiatives/">Social <span>Initiatives</span></a></li>
+	<li id="menu-item-28680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28680"><a href="https://www.chitkara.edu.in/honorary-doctorates/">Honorary Doctorates</a></li>
+	<li id="menu-item-28681" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28681"><a href="/cu-times/">Press Media</a></li>
 	<li id="menu-item-28339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28339"><a href="https://www.chitkara.edu.in/accreditation/">Accreditation</a></li>
+	<li id="menu-item-28684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28684"><a href="https://www.chitkara.edu.in/rankings/">Rankings</a></li>
 </ul>
 </li>
 <li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-55"><a>OUR INSTITUTIONS</a>
@@ -373,13 +375,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li id="menu-item-20961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20961"><a href="https://www.chitkara.edu.in/arts/">Chitkara School of <span>Art &#038; Design</span></a></li>
 	<li id="menu-item-1842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1842"><a href="https://www.chitkara.edu.in/chitkara-school-of-mass-communication/">Chitkara <span>School of Mass Communication</span></a></li>
 	<li id="menu-item-14896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14896"><a href="https://www.chitkara.edu.in/sales-retail-marketing/">Chitkara <span>College of Sales &#038; Marketing</span></a></li>
-	<li id="menu-item-1840" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-1840"><a href="https://www.chitkara.edu.in/ihm">Chitkara College of Hospitality Management</a></li>
-	<li id="menu-item-870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-870"><a href="https://www.chitkara.edu.in/hospitality">Chitkara School of Hospitality (with NCHMCT)</a></li>
+	<li id="menu-item-1840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1840"><a href="https://www.chitkara.edu.in/ihm">Chitkara College of Hospitality Management</a></li>
+	<li id="menu-item-870" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-870"><a href="https://www.chitkara.edu.in/hospitality">Chitkara School of Hospitality (with NCHMCT)</a></li>
 	<li id="menu-item-1083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1083"><a href="https://www.chitkara.edu.in/pharmacy">Chitkara College of Pharmacy</a></li>
 	<li id="menu-item-1764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1764"><a href="https://www.chitkara.edu.in/healthscience">Chitkara School of Health Sciences</a></li>
 	<li id="menu-item-27777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27777"><a href="https://www.chitkara.edu.in/csbas/4-year-b-sc-agriculture/">Chitkara School of Basic &#038; Applied Sciences</a></li>
 	<li id="menu-item-1763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1763"><a href="https://www.chitkara.edu.in/education">Chitkara College of Education</a></li>
-	<li id="menu-item-14882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14882"><a href="https://www.chitkara.edu.in/polytechnic/">Chitkara Polytechnic</a></li>
 </ul>
 </li>
 <li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-53"><a>UNDERGRADUATE PROGRAMS</a>
@@ -398,11 +399,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 	<li id="menu-item-182" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-182"><a href="https://www.chitkara.edu.in/hospitality">HOSPITALITY &#038; HOTEL MGMT</a>
 	<ul class="sub-menu">
-		<li id="menu-item-21123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21123"><a href="https://www.chitkara.edu.in/hospitality/3-year-b-sc-hospitality-hotel-administration/">B.Sc Hospitality affiliated with National Council of Hotel Management &#038; Catering Technology</a></li>
+		<li id="menu-item-21123" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16042 current_page_item menu-item-21123"><a href="https://www.chitkara.edu.in/hospitality/3-year-b-sc-hospitality-hotel-administration/">B.Sc Hospitality affiliated with National Council of Hotel Management &#038; Catering Technology</a></li>
 		<li id="menu-item-3119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3119"><a href="https://www.chitkara.edu.in/ihm/3-Year-B.Sc-in-hospitality-administration">B.Sc Hospitality Administration</a></li>
 		<li id="menu-item-23405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23405"><a href="https://www.chitkara.edu.in/hospitality/3-year-b-sc-hospitality-administration-gbc/">B.Sc Hospitality  Administration with George Brown College, Toronto, Canada</a></li>
 		<li id="menu-item-21500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21500"><a href="https://www.chitkara.edu.in/culinary-arts/b-sc-culinary-arts/">B.Sc Culinary Arts</a></li>
-		<li id="menu-item-23410" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-23408 current_page_item menu-item-23410"><a href="https://www.chitkara.edu.in/culinary-arts/b-sc-culinary-arts/specialisation-bakery-pastry-art-management/">B.Sc Culinary Arts with specialisation in Bakery &#038; Pastry Art Management</a></li>
+		<li id="menu-item-23410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23410"><a href="https://www.chitkara.edu.in/culinary-arts/b-sc-culinary-arts/specialisation-bakery-pastry-art-management/">B.Sc Culinary Arts with specialisation in Bakery &#038; Pastry Art Management</a></li>
 	</ul>
 </li>
 	<li id="menu-item-185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-185"><a href="https://www.chitkara.edu.in/healthscience">NURSING</a>
@@ -654,10 +655,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13205"><a href="https://www.chitkara.edu.in/overview/">Overview</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.chitkara.edu.in/overview/campus-leadership/">Campus <span>Leadership</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://www.chitkara.edu.in/overview/campus-infrastructure/">Campus <span>Infrastructure</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://www.chitkara.edu.in/photo-gallery/">Photo <span>Gallery</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://www.chitkara.edu.in/overview/campus-location/">Campus <span>Location</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7746"><a href="https://www.chitkara.edu.in/social-initiatives/">Social <span>Initiatives</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28680"><a href="https://www.chitkara.edu.in/honorary-doctorates/">Honorary Doctorates</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28681"><a href="/cu-times/">Press Media</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28339"><a href="https://www.chitkara.edu.in/accreditation/">Accreditation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28684"><a href="https://www.chitkara.edu.in/rankings/">Rankings</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-55"><a>OUR INSTITUTIONS</a>
@@ -669,13 +670,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20961"><a href="https://www.chitkara.edu.in/arts/">Chitkara School of <span>Art &#038; Design</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1842"><a href="https://www.chitkara.edu.in/chitkara-school-of-mass-communication/">Chitkara <span>School of Mass Communication</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14896"><a href="https://www.chitkara.edu.in/sales-retail-marketing/">Chitkara <span>College of Sales &#038; Marketing</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-1840"><a href="https://www.chitkara.edu.in/ihm">Chitkara College of Hospitality Management</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-870"><a href="https://www.chitkara.edu.in/hospitality">Chitkara School of Hospitality (with NCHMCT)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1840"><a href="https://www.chitkara.edu.in/ihm">Chitkara College of Hospitality Management</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-870"><a href="https://www.chitkara.edu.in/hospitality">Chitkara School of Hospitality (with NCHMCT)</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1083"><a href="https://www.chitkara.edu.in/pharmacy">Chitkara College of Pharmacy</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1764"><a href="https://www.chitkara.edu.in/healthscience">Chitkara School of Health Sciences</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27777"><a href="https://www.chitkara.edu.in/csbas/4-year-b-sc-agriculture/">Chitkara School of Basic &#038; Applied Sciences</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1763"><a href="https://www.chitkara.edu.in/education">Chitkara College of Education</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14882"><a href="https://www.chitkara.edu.in/polytechnic/">Chitkara Polytechnic</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-53"><a>UNDERGRADUATE PROGRAMS</a>
@@ -694,11 +694,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-182"><a href="https://www.chitkara.edu.in/hospitality">HOSPITALITY &#038; HOTEL MGMT</a>
 	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21123"><a href="https://www.chitkara.edu.in/hospitality/3-year-b-sc-hospitality-hotel-administration/">B.Sc Hospitality affiliated with National Council of Hotel Management &#038; Catering Technology</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16042 current_page_item menu-item-21123"><a href="https://www.chitkara.edu.in/hospitality/3-year-b-sc-hospitality-hotel-administration/">B.Sc Hospitality affiliated with National Council of Hotel Management &#038; Catering Technology</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3119"><a href="https://www.chitkara.edu.in/ihm/3-Year-B.Sc-in-hospitality-administration">B.Sc Hospitality Administration</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23405"><a href="https://www.chitkara.edu.in/hospitality/3-year-b-sc-hospitality-administration-gbc/">B.Sc Hospitality  Administration with George Brown College, Toronto, Canada</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21500"><a href="https://www.chitkara.edu.in/culinary-arts/b-sc-culinary-arts/">B.Sc Culinary Arts</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-23408 current_page_item menu-item-23410"><a href="https://www.chitkara.edu.in/culinary-arts/b-sc-culinary-arts/specialisation-bakery-pastry-art-management/">B.Sc Culinary Arts with specialisation in Bakery &#038; Pastry Art Management</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23410"><a href="https://www.chitkara.edu.in/culinary-arts/b-sc-culinary-arts/specialisation-bakery-pastry-art-management/">B.Sc Culinary Arts with specialisation in Bakery &#038; Pastry Art Management</a></li>
 	</ul>
 </li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-185"><a href="https://www.chitkara.edu.in/healthscience">NURSING</a>
@@ -861,85 +861,76 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </style>
 <div class="clr">
 	<div class="bannerwrap">
-				<img width="1900" height="645" src="https://www.chitkara.edu.in/wp-content/uploads/2019/02/BAKERY-AND-PASTRY-ART-MANAGEMENT1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/02/BAKERY-AND-PASTRY-ART-MANAGEMENT1.jpg 1900w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/BAKERY-AND-PASTRY-ART-MANAGEMENT1-300x102.jpg 300w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/BAKERY-AND-PASTRY-ART-MANAGEMENT1-768x261.jpg 768w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/BAKERY-AND-PASTRY-ART-MANAGEMENT1-1024x348.jpg 1024w" sizes="(max-width: 1900px) 100vw, 1900px" />					</div>
+				<img width="1900" height="645" src="https://www.chitkara.edu.in/wp-content/uploads/2019/02/HOSPITALITY-HOTEL-ADMINISTRATION.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/02/HOSPITALITY-HOTEL-ADMINISTRATION.jpg 1900w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/HOSPITALITY-HOTEL-ADMINISTRATION-300x102.jpg 300w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/HOSPITALITY-HOTEL-ADMINISTRATION-768x261.jpg 768w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/HOSPITALITY-HOTEL-ADMINISTRATION-1024x348.jpg 1024w" sizes="(max-width: 1900px) 100vw, 1900px" />					</div>
 	
    <div class="container-fluid single_news_wrap bdrbtm">
 		<div class="row">
     		<div class="col-md-8 innerpage">
 				<div class="blog_wrap">
-				<div class="breadcrumb1"><ul id="breadcrumbs" class="breadcrumbs"><li class="item-home"><a class="bread-link bread-home" href="https://www.chitkara.edu.in" title="Home">Home</a></li><li class="item-parent item-parent-1780"><a class="bread-parent bread-parent-1780" href="https://www.chitkara.edu.in/ihm" >Hospitality Management</a></li><li class="separator separator-1780"> &gt; </li></ul></div>
-				<h2><span> B.S<span style="text-transform:none;">c</span> CULINARY ARTS </span>WITH SPECIALISATION IN BAKERY AND PASTRY ART MANAGEMENT</h2>
+				<div class="breadcrumb1"><ul id="breadcrumbs" class="breadcrumbs"><li class="item-home"><a class="bread-link bread-home" href="https://www.chitkara.edu.in" title="Home">Home</a></li><li class="item-parent item-parent-693"><a class="bread-parent bread-parent-693" href="https://www.chitkara.edu.in/hospitality" >Hospitality</a></li><li class="separator separator-693"> &gt; </li></ul></div>
+				<h2>3-YEAR <span>B.S<span style="text-transform:none;">c</span> <span style="text-transform:none;">in</span> HOSPITALITY &#038; HOTEL ADMINISTRATION</span> <br/>with NCHMCT</h2>
 				
 				<div class="specialsations">
 									</div>
 				<div class="maincontent" id="maincontent">
-										<h3 class="stitle">Turn your passion for Culinary Arts into a rewarding career by developing advanced culinary skills with a uniquely designed program completely focussed on training and preparing the students for specialisation in bakery and pastry art management.</h3>
+										<h3 class="stitle">Affiliated with the National Council for Hotel Management and Catering Technology (NCHMCT), the program endeavours to impart hospitality knowledge, skills, concepts and techniques in the right environment for the students to learn and emerge as Global Hospitality Service providers.</h3>
 										<!-- PROGRAM OVERVIEW-->
 											<div id="poverview">
 							<h5 class="mtop20">PROGRAM OVERVIEW</h5>
-							<p>The baking industry is both national and international in character and embraces small artisan bakeries, large scale mass production bakeries, delicatessens and sandwich bars. It has expanded rapidly in the last decade giving rise to a growing demand for professional managers.</p>
-<p>B. Sc. Culinary Arts with specialisation in Bakery &#038; Pastry Art Management program from Chitkara University offers a wide range of opportunities for individuals who wish to pursue a career in baking and confectionery management. The overall objective of the program is to develop the individual with the requisite social, technical, business and practical skills, underpinned by a knowledge base in order to pursue successful and fulfilling careers in the baking and confectionery management industries. </p>
+							<h6>The program is aimed at realising the following objectives:</h6>
+<ul class="list5">
+<li>Keeping abreast with the changing hospitality trends and latest technology.</li>
+<li>Equipping students with a high degree of academic knowledge and skills to meet the human resource requirement of the industry.</li>
+<li>Emphasising on practical inputs in the core operational areas.</li>
+</ul>
 						</div>
 											<!-- CAMPUS RECRUITMENT -->
 											<div id="crecruitment">
 							<h5 class="mtop20">CAMPUS RECRUITMENT</h5>
-							<p>Opportunities are available to the graduate in both national and international settings. These career opportunities include: Bakery Production and Management in large scale mass production bakeries, Delicatessen and Bakery/Food Product Development. There are also entrepreneurial opportunities for artisan bread, confectionery bakery and pastry based operations. In addition, there may be opportunities for graduates in education, consultancy and research. </p>
+							<p>The Hospitality Industry is experiencing a phenomenal growth due to an exceptional surge in Indian and International tourism. This has resulted in an increased demand of trained hospitality professionals. Graduates can explore the following job profiles:</p>
 <table width="100%" cellspacing="2" cellpadding="2" border="0">
 <tbody>
 <tr>
 <td width="50%">
 <ul class="list5">
-<li>Pastry Chef</li>
-<li>Artisan Confectioner</li>
-<li>Delicatessen and Bakery/Food Product Developer</li>
+<li>Food and Beverage Manager</li>
+<li>Catering Manager</li>
+<li>Tourism Marketing Expert</li>
+<li>Front Office Executive</li>
 </ul>
 </td>
 <td>
 <ul class="list5">
-<li>Bakery Owner/Manager</li>
-<li>Research Chef</li>
+<li>Food and Beverage Controller/Accountant</li>
+<li>Customer Service Executive/Relationship Manager</li>
+<li>Entrepreneur</li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
+<h6 class="redtxt">SOME OF THE MAJOR COMPANIES WHO VISIT CHITKARA UNIVERSITY CAMPUS TO RECRUIT OUR GRADUATES ARE:</h6>
+<p><img src="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Hospitality-Brand-logos-1.jpg" alt="" width="1200" height="777" class="alignnone size-full wp-image-26268" srcset="https://www.chitkara.edu.in/wp-content/uploads/2019/02/Hospitality-Brand-logos-1.jpg 1200w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/Hospitality-Brand-logos-1-300x194.jpg 300w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/Hospitality-Brand-logos-1-768x497.jpg 768w, https://www.chitkara.edu.in/wp-content/uploads/2019/02/Hospitality-Brand-logos-1-1024x663.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
 						</div>
 											<!-- PROGRAM HIGHLIGHTS -->
 											<div id="program_highlights">
 							<h5 class="mtop20">PROGRAM HIGHLIGHTS</h5>
-							<p>The Bakery and Pastry Industry is one of the most dynamic and rapidly growing industries with significant career prospects. Our B. Sc. Culinary Arts with specialisation in Bakery &#038; Pastry Art Management program is up to date, taking into consideration the latest trends in food industry, and focuses on practical classes which take place in specialised labs at the University.<br />
-The bakery and pastry industry relies, mostly, on: customer service, creativity and high expertise. Our curriculum framework is designed such that it allows students to put to practice the theoretical knowledge they acquire in class. Students study practical-based courses such as Baking Technology, Human Resource Management, Introduction to Accounting, Management Principles, Baking Ingredients Studies, Food Product Development, Operations Management and Practical Baking Skills in Confectionery, Pastry and Artisan Bread Making. Further, our expert faculty, with their extensive academic, research and professional experience, acquaint students with the latest developments and trends in Hospitality and Bakery &#038; Pastry Industry.</p>
+							<p>With this program student will develop an overview of Hotel administration, its environment and management with essential skills and tools necessary for running a hotel successfully, in the first year itself. This provides the foundations that prepare the students to take on more challenging advanced modules in the second and the third year of the degree program.</p>
+<p>The advanced modules focus on a closer examination of the operations of the hotel industry, particularly on the use and management of key resources, such as people, finance and IT, from a strategic perspective. With hands on training in the labs for food production and service. The front office and housekeeping department too have their element of practical during the two year program on campus.</p>
+<p>The third year would focus mainly with hands on job training in the industry.</p>
+<ul class="list5">
+<li>Students undergo a five-month industry internship after the second year of their education.</li>
+<li>Understand the scope and historical traditions of the hospitality industry, and describe the full range of career opportunities available.</li>
+<li>Demonstrate knowledge and application of professional guest service skills and attitudes.</li>
+<li>Use computers as a tool to address management challenges in the areas of marketing, guest service, cost control, and human resource management.</li>
+<li>Demonstrate a familiarity with the day-to-day operational procedures of a typical hotel or restaurant property.</li>
+<li>Demonstrate basic familiarity with the proper use and care of common kitchen &#038; dining room equipment.</li>
+<li>Apply cost control concepts and develop appropriate systems and tools for the day-to-day management and operations of lodging or food service business.</li>
+</ul>
 						</div>
 											
 					<!-- ELIGIBILITY & FEES -->
-											<div id="eligibility">
-							<h5 class="mtop20 clr">Eligibility &amp; Fees</h5>
-							<ul class="list5">
-<li>XII Passed (Any Stream)</li>
-<li>Personal Interview</li>
-</ul>
-<h6>Fees</h6>
-<div class='su-table su-table-style-1'></p>
-<table width="100%" cellspacing="2" cellpadding="2" border="1">
-<tbody>
-<td><b>Per Semester</b></td>
-<td>Rs. 1,00,000   </td>
-</tr>
-<tr>
-<td><b>ERP Fee^</b></td>
-<td>Rs. 6,000  </td>
-</tr>
-<tr>
-<td><b>Caution Fee^^</b></td>
-<td>Rs. 10,000</td>
-</tr>
-</tbody>
-</table>
-<p></div>
-<p>^ERP Fee only at the time of admission<br />
-^^Caution Fee: Only at the time of admission. Caution Fee will be refunded at the end of the program </p>
-						</div>
-													
+												
 				</div>
     		</div>
 			</div>
@@ -1094,8 +1085,8 @@ function innerValidate()
 		<input type="hidden" value="" name="utm_term" id="utm_term" readonly />
 		<input type="hidden" value="" name="utm_content" id="utm_content" readonly />
 		
-        <input type="hidden" value="/culinary-arts/b-sc-culinary-arts/specialisation-bakery-pastry-art-management/" name="turl" id="turl" readonly="readonly" />
-		<input type="hidden" value="/culinary-arts/b-sc-culinary-arts/specialisation-bakery-pastry-art-management/" name="url" id="url" readonly />
+        <input type="hidden" value="/hospitality/3-year-b-sc-hospitality-hotel-administration/" name="turl" id="turl" readonly="readonly" />
+		<input type="hidden" value="/hospitality/3-year-b-sc-hospitality-hotel-administration/" name="url" id="url" readonly />
 	    <iframe id="uploadTargetAdd" name="uploadTargetAdd" style="width:0px;height:0px;border:0px solid #fff;"></iframe>
     <p>
         <input name="your-name"  onkeyup="document.getElementById('err4').style.display='none';document.getElementById('err3').style.display='none';document.getElementById('err1').style.display='none';" id="your-name"value="" size="40" aria-required="true" placeholder="Your Name*" type="text">
@@ -1172,17 +1163,14 @@ function innerValidate()
 						<div class="quickLinkAdmissions">
 <h2>Quick Links</h2>
 <ul>
-	<li><a href="https://www.chitkara.edu.in/culinary-arts/program-overview/">Program Overview</a></li>	
-	<!--<li><a href="https://www.chitkara.edu.in/culinary-arts/faculty/">Our Faculty</a></li>
-	<li><a href="https://www.chitkara.edu.in/culinary-arts/facility/">Our Facility</a></li>-->
-	<li><a href="https://www.chitkara.edu.in/culinary-arts/careers/">Careers</a></li>
-   <li><a href="https://chitkara.edu.in/pdf/2019/admission-procedure/chitkara_admission_procedure-2019.pdf" target="_blank">Eligibility &amp; Fees</a></li>
-   <li><a href="#" onclick="blankValues('CSAD','2'); Popup.show('mobileSimplediv');return false;">Download Application Form</a></li>
+   <li><a href="https://chitkara.edu.in/pdf/2019/Eligibility-fee-structure-hospitality-IHM-2019-20.pdf" target="_blank">Eligibility &amp; Fees</a></li>
+   <!--<li><a href="#" onclick="blankValues('CHMC','2'); Popup.show('mobileSimplediv');return false;">Download Application Form</a></li>-->   
    <li><a href="https://www.chitkara.edu.in/pdf/2019/brochure/Hospitality_Brochure_2019.pdf" target="_blank">Download Brochure</a></li>
    <li><a href="https://www.chitkara.edu.in/admissions/downloadforms/">Download Certificate Formats</a></li>
    <li><a href="https://www.chitkara.edu.in/admissions/admission-helpline/">Admission Helpline</a></li>
    <li><a href="https://www.chitkara.edu.in/admissions/availability-forms/">Availability of Forms</a></li>
    <li><a href="https://admissions.chitkara.edu.in/login" target="blank">Apply Online</a></li>
+   
 </ul>
 </div>					</div>
 				</div>
@@ -1203,7 +1191,7 @@ function innerValidate()
 	<div class="quickLinkAdmissions">
 		<ul>
 			<li><a class="divclose" href="#poverview" >PROGRAM OVERVIEW</a></li>	
-			<li><a class="divclose" href="#crecruitment" >CAMPUS RECRUITMENT</a></li>			<li><a class="divclose" href="#program_highlights" >PROGRAM HIGHLIGHTS</a></li>			<li><a class="divclose" href="#eligibility" >ELIGIBILITY & FEES</a></li>		</ul>
+			<li><a class="divclose" href="#crecruitment" >CAMPUS RECRUITMENT</a></li>			<li><a class="divclose" href="#program_highlights" >PROGRAM HIGHLIGHTS</a></li>					</ul>
 	</div>
 	<div id="modal-close"><img class="me" src="https://www.chitkara.edu.in/wp-content/themes/chitkara/images/Cross-Icon1.png"></div>
 	</div>
@@ -1324,8 +1312,7 @@ function innerValidate()
 							<li><a href="https://www.chitkara.edu.in/pharmacy">Chitkara College of Pharmacy</a></li>
 							<li><a href="https://www.chitkara.edu.in/healthscience">Chitkara School of Health Sciences</a></li>
 							<li><a href="https://www.chitkara.edu.in/csbas/">Chitkara School of Basic &amp; Applied Sciences</a></li>
-							<li><a href="https://www.chitkara.edu.in/education">Chitkara College of Education</a></li>												
-							<li><a href="https://www.chitkara.edu.in/polytechnic/">Chitkara Polytechnic</a></li>
+							<li><a href="https://www.chitkara.edu.in/education">Chitkara College of Education</a></li>
 						</ul>
 				</div>
 				<div class="footer-address clr">
@@ -1830,7 +1817,7 @@ qacct:"p-KsnxwTK04_UyY"
 
 <script>
 try {
-   document.getElementById('program').value="Culinary/Bakery";	
+   document.getElementById('program').value="Hotel Management";	
 }catch(e){}
 </script>
 
@@ -1860,9 +1847,9 @@ s.parentNode.insertBefore(b, s);})();
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 361/416 objects using disk
+Object Caching 353/411 objects using disk
 Page Caching using disk: enhanced 
 Minified using disk
 
-Served from: www.chitkara.edu.in @ 2019-03-28 05:24:59 by W3 Total Cache
+Served from: www.chitkara.edu.in @ 2019-04-04 07:43:20 by W3 Total Cache
 -->

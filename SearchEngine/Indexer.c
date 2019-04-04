@@ -166,85 +166,7 @@ void removeWhiteSpace(char* html)
   strcpy(html,buffer);
   free(buffer); free(p);
 }
-void getTitle(char *file)
-{
-  int len, i, j;
-  char* p1;
-  i=0;j=0;
-  while(file[i])
-  {
-    if(file[i]=='<'&&file[i+1]=='t')
-    {
-      while(file[i]!='>')
-      {
-        i++;
-      }
-      i++;
-      while(file[i]!='<')
-      {
-        p1[j]=file[i];
-        i++;
-        j++;
 
-      }
-      printf("%s\n",p1);
-    }
-    i++;
-  }
-//free(p1);
-}
-void getHeading(char *file)
-{
-  int len, i, j;
-  char* p1;
-  p1=(char*)malloc(strlen(file)*sizeof(char));
-  i=0;j=0;
-  while(file[i])
-  {
-    if(file[i]=='<'&&file[i+1]=='h'&&file[i+2]=='1'||file[i+2]=='2'||file[i+2]=='3'||file[i+2]=='4'||file[i+2]=='5'||file[i+2]=='6')
-    {
-      while(file[i]!='>')
-      {
-        i++;
-      }
-      i++;
-      while(file[i]!='<')
-      {
-        p1[j]=file[i];
-        i++;
-        j++;
-
-      }
-      printf("%s\n",p1);
-    }
-    i++;
-  }
-//free(p1);
-}
-void getMeta(char *file)
-{
-  int len, i, j;
-  char* p1;
-  i=0;j=0;
-  while(file[i])
-  {
-    if(file[i]=='<'&&file[i+1]=='m')
-    {
-
-      i++;
-      while(file[i]!='>')
-      {
-        p1[j]=file[i];
-        i++;
-        j++;
-
-      }
-      printf("%s\n",p1);
-    }
-    i++;
-  }
-
-}
 
 void saveData()		// function to save data to file
 {
@@ -351,9 +273,6 @@ int main()
         continue;
       }
     char *file=load_file(path);
-    //getTitle(file);
-    //getMeta(file);
-    //getHeading(file);
     find_Title(file,File_Name);  // search tile tag
     find_Heading(file,File_Name);
     find_Meta(file,File_Name);
