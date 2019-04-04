@@ -110,17 +110,13 @@ int GetNextURL(char* html, char* urlofthispage, char* result, int pos)
 {
   char c;
   int len, i, j;
-  char* p1;  //!< pointer pointed to the start of a new-founded URL.
-  char* p2;  //!< pointer pointed to the end of a new-founded URL.
+  char* p1;
+  char* p2;
 
-  // NEW
-  // Clean up \n chars
   if(pos == 0) {
     removeWhiteSpace(html);
   }
-  // /NEW
 
-  // Find the <a> <A> HTML tag.
   while (0 != (c = html[pos]))
   {
     if ((c=='<') &&
@@ -128,61 +124,41 @@ int GetNextURL(char* html, char* urlofthispage, char* result, int pos)
       break;
     }
     pos++;
-    //printf("%c\n", html[pos]);
   }
-  static int count=0;
 
-  //! Find the URL it the HTML tag. They usually look like <a href="www.abc.com">
-  //! We try to find the quote mark in order to find the URL inside the quote mark.
   if (c)
   {
-    // check for equals first... some HTML tags don't have quotes...or use single quotes instead
-    //printf("%c\n", html[pos]);
-
     p1 = strchr(&(html[pos+1]), '=');
 
     if ((!p1) || (*(p1-1) == 'e') || ((p1 - html - pos) > 10))
     {
-      // keep going...
       return GetNextURL(html,urlofthispage,result,pos+1);
     }
     if (*(p1+1) == '\"' || *(p1+1) == '\'')
       p1++;
 
-    p1++;;
+    p1++;
 
     p2 = strpbrk(p1, "\'\">");
     if (!p2)
     {
-      // keep going...
       return GetNextURL(html,urlofthispage,result,pos+1);
     }
     if (*p1 == '#')
-    { // Why bother returning anything here....recursively keep going...
-
+    {
       return GetNextURL(html,urlofthispage,result,pos+1);
     }
     if (!strncmp(p1, "mailto:",7))
       return GetNextURL(html, urlofthispage, result, pos+1);
     if (!strncmp(p1, "http", 4) || !strncmp(p1, "HTTP", 4))
     {
-      //! Nice! The URL we found is in absolute path.
-
-      strncpy(result, p1, p2-p1);
-
+      strncpy(result, p1, (p2-p1));
       return  (int)(p2 - html + 1);
     } else {
-      //! We find a URL. HTML is a terrible standard. So there are many ways to present a URL.
       if (p1[0] == '.') {
-        //! Some URLs are like <a href="../../../a.txt"> I cannot handle this.
-	// again...probably good to recursively keep going..
-	// NEW
-
         return GetNextURL(html,urlofthispage,result,pos+1);
-	// /NEW
       }
       if (p1[0] == '/') {
-        //! this means the URL is the absolute path
         for (i = 7; i < strlen(urlofthispage); i++)
           if (urlofthispage[i] == '/')
             break;
@@ -191,7 +167,6 @@ int GetNextURL(char* html, char* urlofthispage, char* result, int pos)
         strncat(result, p1, (p2 - p1));
         return (int)(p2 - html + 1);
       } else {
-        //! the URL is a absolute path.
         len = strlen(urlofthispage);
         for (i = (len - 1); i >= 0; i--)
           if (urlofthispage[i] == '/')
@@ -200,15 +175,12 @@ int GetNextURL(char* html, char* urlofthispage, char* result, int pos)
           if (urlofthispage[j] == '.')
               break;
         if (i == (len -1)) {
-          //! urlofthis page is like http://www.abc.com/
             strcpy(result, urlofthispage);
             result[i + 1] = 0;
             strncat(result, p1, p2 - p1);
             return (int)(p2 - html + 1);
         }
         if ((i <= 6)||(i > j)) {
-          //! urlofthis page is like http://www.abc.com/~xyz
-          //! or http://www.abc.com
           strcpy(result, urlofthispage);
           result[len] = '/';
           strncat(result, p1, p2 - p1);

@@ -245,9 +245,10 @@ void getMeta(char *file)
   }
 
 }
+
 void saveData()		// function to save data to file
 {
-  FILE *f = fopen("indexerList.txt","a");  //create a new file to save word count
+  FILE *f = fopen("IndexerList.txt","a");  //create a new file to save word count
   for(int i=65;i<123;i++){
     struct WordNode *ptr = Buffer[i].start;  // traverse wordnode (a,b,c,d---)
     if(ptr!=0){
@@ -263,21 +264,99 @@ void saveData()		// function to save data to file
     }
   }
 }
+void find_Title(char *fileData,char *filename)  // function to find title
+{
+    char *titleStart, *titleEnd, *subString;
+    int noOfChars;
 
+    for(int i = 0;i<strlen(fileData);i++) {
+        if(fileData[i] == '<' && fileData[i+1] == 't') {
+            titleStart = &fileData[i];
+            titleStart = strpbrk(titleStart, ">");	//strpbrk will return the position of >
+            titleStart++;
+            break;
+        }
+    }
+    titleEnd = strpbrk(titleStart, "<");
+    noOfChars = (titleEnd-titleStart);
+    subString = (char*)malloc(sizeof(char) * noOfChars);
+    memcpy(subString, titleStart, noOfChars);
+    *(subString + noOfChars) = '\0';
+    word_count(subString,filename);		// calling wordcount to seprate string in words
+    free(subString);
+}
+
+void find_Meta(char *fileData,char *filename) // function to find meta tag
+{
+	char *metaStart, *metaEnd, *subString;
+  int noOfChars;
+	for(int i = 0;i<strlen(fileData);i++) {
+        	if(fileData[i] == '<' && fileData[i+1] == 'm') {
+                metaStart = (strpbrk(&fileData[i], "\"\'") + 1);	//strpbrk will return the position of /
+                if(metaStart) {
+                     metaEnd = strpbrk(metaStart, "/>");
+                     if(*metaStart == 'd' || *metaStart == 'a' || *metaStart == 'k') {
+                        metaStart = strpbrk(metaStart, "=");	// jump to position of =
+                        metaStart += 2;
+                        noOfChars = (metaEnd-metaStart);
+                        subString = (char*)malloc(sizeof(char) * noOfChars);
+                        memcpy(subString, metaStart, noOfChars);
+                        *(subString + noOfChars) = '\0';
+                        //printf("%s\n\n",subString);
+                        word_count(subString,filename);		// calling wordcount to seprate string in words
+                        free(subString);
+                     }
+
+                }
+        	}
+    	}
+}
+
+void find_Heading(char *fileData,char *filename) // function to find all Heading
+{
+	char *headStart, *headEnd, *subStr;
+	int noOfChars;
+
+	for(int i = 0;i<strlen(fileData);i++) {
+        	if(fileData[i] == '<' && fileData[i+1] == 'h') {
+            	   headStart = &fileData[i];
+		   headStart = strpbrk(headStart, ">");		//strpbrk will return the position of >
+           	   headStart++;
+		   headEnd = strpbrk(headStart, "<");
+            noOfChars = (headEnd-headStart);		//noofChars will be the total length of string
+            subStr = (char*)malloc(sizeof(char) * noOfChars);
+            memcpy(subStr, headStart, noOfChars);      //memcpy will copy string starting from headStart till noOfChars
+            *(subStr + noOfChars) = '\0';
+            word_count(subStr,filename);	       // calling wordcount to seprate string in words
+            free(subStr);
+        	}
+    	}
+}
 int main()
 {
   char count[5];
+  char *File_Name;
   for(int i=1;i<=100;i++)
   {
     char path[50]="./Links/link";
     sprintf(count,"%d",i);
     strcat(path,count);
+    File_Name=path;
     strcat(path,".txt");
     //printf("%s\n",path );
+    FILE *fptr = fopen(path, "r");
+    // If file does not exists
+    if (fptr == NULL)
+      {
+        continue;
+      }
     char *file=load_file(path);
-    getTitle(file);
-    getMeta(file);
-    //getHeading(file);find_Title(fileData,File_Name);  // search tile tag
+    //getTitle(file);
+    //getMeta(file);
+    //getHeading(file);
+    find_Title(file,File_Name);  // search tile tag
+    find_Heading(file,File_Name);
+    find_Meta(file,File_Name);
       print();			// print the link list
       saveData();			// save linlist in file
   }
